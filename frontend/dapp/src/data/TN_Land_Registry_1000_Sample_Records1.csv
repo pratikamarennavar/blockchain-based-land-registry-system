@@ -1,0 +1,1001 @@
+Land Record ID,District,Taluk,Village,Survey Number,Sub Division,Owner Name,Owner Mobile Number,Land Area (Acres),Land Type,Irrigation Source,Soil Type,Usage Type,Market Value (INR),Record Status,Village Administrative Officer (VAO),Revenue Inspector,Tahsildar Approval Status,Last Updated Date
+TN-LAND-0001,Salem,Taluk-C,Village-9,774/4,2,Owner-1,9597186965,8.64,Wet Land,Canal,Alluvial Soil,Commercial,2540205,Pending Verification,VAO-23,RI-21,Approved,2/5/2024
+TN-LAND-0002,Trichy,Taluk-B,Village-3,536/4,1,Owner-2,9378741146,8.67,Wet Land,River,Black Cotton Soil,Residential,587775,Under Dispute,VAO-43,RI-15,Pending,26/01/2025
+TN-LAND-0003,Erode,Taluk-C,Village-10,594/3,3,Owner-3,9877512397,4.89,Wet Land,Borewell,Red Soil,Agricultural,1401191,Under Dispute,VAO-46,RI-14,Pending,8/9/2024
+TN-LAND-0004,Trichy,Taluk-A,Village-19,524/5,2,Owner-4,9234311708,8.98,Dry Land,Tank,Red Soil,Commercial,574358,Active,VAO-32,RI-18,Approved,5/6/2024
+TN-LAND-0005,Salem,Taluk-C,Village-12,777/4,5,Owner-5,9398640242,2.78,Dry Land,Rain-fed,Sandy Soil,Residential,1783610,Pending Verification,VAO-4,RI-7,Rejected,27/09/2024
+TN-LAND-0006,Erode,Taluk-B,Village-1,172/5,3,Owner-6,9937659230,6.31,Wet Land,Rain-fed,Red Soil,Residential,2873021,Pending Verification,VAO-12,RI-22,Pending,8/4/2025
+TN-LAND-0007,Salem,Taluk-D,Village-19,903/4,1,Owner-7,9564334706,4.09,Dry Land,River,Alluvial Soil,Agricultural,927604,Under Dispute,VAO-28,RI-10,Rejected,15/11/2025
+TN-LAND-0008,Trichy,Taluk-C,Village-20,567/2,1,Owner-8,9217609779,3.79,Dry Land,Borewell,Alluvial Soil,Commercial,1339839,Under Dispute,VAO-42,RI-26,Pending,20/03/2025
+TN-LAND-0009,Salem,Taluk-C,Village-19,186/5,4,Owner-9,9638034208,4.34,Dry Land,River,Red Soil,Residential,2567510,Under Dispute,VAO-5,RI-3,Pending,6/8/2024
+TN-LAND-0010,Coimbatore,Taluk-D,Village-2,983/2,5,Owner-10,9650913965,8.61,Wet Land,Canal,Black Cotton Soil,Agricultural,846993,Under Dispute,VAO-43,RI-11,Pending,7/3/2024
+TN-LAND-0011,Madurai,Taluk-D,Village-11,643/4,4,Owner-11,9495595724,9.3,Wet Land,Canal,Sandy Soil,Residential,2515081,Pending Verification,VAO-15,RI-13,Rejected,15/11/2024
+TN-LAND-0012,Coimbatore,Taluk-A,Village-11,243/4,1,Owner-12,9212349768,9.79,Dry Land,Tank,Alluvial Soil,Agricultural,369260,Pending Verification,VAO-37,RI-27,Approved,31/07/2024
+TN-LAND-0013,Coimbatore,Taluk-B,Village-5,501/2,4,Owner-13,9777534860,7.03,Wet Land,Tank,Alluvial Soil,Agricultural,1558785,Under Dispute,VAO-48,RI-26,Rejected,12/1/2024
+TN-LAND-0014,Madurai,Taluk-D,Village-16,913/4,3,Owner-14,9410324342,4.92,Wet Land,Tank,Alluvial Soil,Agricultural,2620732,Active,VAO-28,RI-4,Rejected,23/02/2025
+TN-LAND-0015,Madurai,Taluk-A,Village-5,496/3,5,Owner-15,9497402907,4.77,Wet Land,Canal,Sandy Soil,Commercial,2614799,Pending Verification,VAO-4,RI-20,Approved,20/03/2024
+TN-LAND-0016,Trichy,Taluk-C,Village-5,919/3,1,Owner-16,9186523884,2.35,Dry Land,River,Red Soil,Commercial,1005283,Under Dispute,VAO-12,RI-16,Rejected,27/08/2025
+TN-LAND-0017,Trichy,Taluk-D,Village-7,898/1,4,Owner-17,9956127567,7.28,Dry Land,Borewell,Alluvial Soil,Residential,703039,Under Dispute,VAO-22,RI-17,Pending,28/01/2025
+TN-LAND-0018,Coimbatore,Taluk-B,Village-1,157/5,2,Owner-18,9773857986,7.19,Wet Land,River,Red Soil,Agricultural,2015752,Active,VAO-22,RI-23,Pending,9/7/2024
+TN-LAND-0019,Salem,Taluk-A,Village-19,989/5,5,Owner-19,9656688086,9.35,Dry Land,Rain-fed,Sandy Soil,Agricultural,1269432,Pending Verification,VAO-30,RI-21,Approved,22/03/2024
+TN-LAND-0020,Erode,Taluk-C,Village-4,382/3,3,Owner-20,9888793044,9.71,Wet Land,Borewell,Sandy Soil,Agricultural,2327370,Pending Verification,VAO-38,RI-25,Pending,21/05/2025
+TN-LAND-0021,Salem,Taluk-D,Village-3,214/1,2,Owner-21,9957055152,4.63,Wet Land,Canal,Sandy Soil,Commercial,306684,Under Dispute,VAO-40,RI-14,Approved,16/05/2024
+TN-LAND-0022,Erode,Taluk-A,Village-8,911/5,1,Owner-22,9564770460,3.74,Dry Land,Tank,Sandy Soil,Commercial,783077,Pending Verification,VAO-29,RI-21,Approved,24/03/2025
+TN-LAND-0023,Trichy,Taluk-D,Village-5,441/2,3,Owner-23,9790270668,0.69,Dry Land,River,Sandy Soil,Residential,2101792,Pending Verification,VAO-6,RI-26,Pending,27/02/2025
+TN-LAND-0024,Erode,Taluk-A,Village-18,936/1,1,Owner-24,9685857911,1.17,Wet Land,Borewell,Red Soil,Agricultural,1338600,Under Dispute,VAO-4,RI-3,Approved,27/02/2025
+TN-LAND-0025,Salem,Taluk-C,Village-14,119/1,5,Owner-25,9691135012,6.5,Wet Land,River,Sandy Soil,Residential,1482697,Active,VAO-9,RI-14,Approved,20/04/2025
+TN-LAND-0026,Coimbatore,Taluk-D,Village-18,617/4,1,Owner-26,9557144003,9.1,Wet Land,Borewell,Alluvial Soil,Agricultural,493684,Under Dispute,VAO-47,RI-14,Approved,8/3/2025
+TN-LAND-0027,Madurai,Taluk-A,Village-8,672/3,3,Owner-27,9286455193,8.19,Dry Land,Canal,Alluvial Soil,Agricultural,2027707,Pending Verification,VAO-50,RI-4,Pending,4/10/2025
+TN-LAND-0028,Salem,Taluk-C,Village-15,426/5,1,Owner-28,9775658348,2.18,Wet Land,Tank,Alluvial Soil,Commercial,1767914,Pending Verification,VAO-44,RI-22,Rejected,1/11/2024
+TN-LAND-0029,Erode,Taluk-C,Village-20,499/3,1,Owner-29,9839353427,4.54,Dry Land,Rain-fed,Red Soil,Residential,2714671,Active,VAO-9,RI-22,Pending,17/07/2025
+TN-LAND-0030,Madurai,Taluk-C,Village-16,739/3,1,Owner-30,9619712812,8.6,Wet Land,Rain-fed,Alluvial Soil,Residential,1110900,Under Dispute,VAO-44,RI-13,Rejected,17/12/2024
+TN-LAND-0031,Trichy,Taluk-B,Village-4,522/3,2,Owner-31,9498380891,7.6,Dry Land,Borewell,Black Cotton Soil,Commercial,1422800,Under Dispute,VAO-47,RI-17,Approved,9/3/2024
+TN-LAND-0032,Coimbatore,Taluk-B,Village-18,613/1,4,Owner-32,9247058807,4.42,Dry Land,River,Red Soil,Agricultural,1452628,Active,VAO-38,RI-14,Rejected,23/02/2025
+TN-LAND-0033,Erode,Taluk-D,Village-4,507/2,3,Owner-33,9830990567,5.74,Dry Land,Borewell,Alluvial Soil,Commercial,1224675,Active,VAO-18,RI-7,Pending,20/03/2024
+TN-LAND-0034,Trichy,Taluk-B,Village-4,128/3,2,Owner-34,9713586167,6.3,Wet Land,Rain-fed,Red Soil,Commercial,1433396,Pending Verification,VAO-38,RI-25,Pending,9/10/2024
+TN-LAND-0035,Salem,Taluk-D,Village-10,436/1,1,Owner-35,9815522063,6.95,Dry Land,River,Alluvial Soil,Residential,1535389,Active,VAO-7,RI-28,Pending,12/7/2024
+TN-LAND-0036,Salem,Taluk-C,Village-10,831/2,2,Owner-36,9352029039,1.06,Wet Land,River,Red Soil,Commercial,315471,Active,VAO-31,RI-6,Pending,5/5/2024
+TN-LAND-0037,Erode,Taluk-B,Village-7,882/2,4,Owner-37,9484649416,5.45,Dry Land,Tank,Red Soil,Residential,1781719,Under Dispute,VAO-28,RI-1,Approved,5/5/2024
+TN-LAND-0038,Trichy,Taluk-B,Village-5,538/4,2,Owner-38,9310548642,9.08,Wet Land,Borewell,Red Soil,Residential,1710017,Under Dispute,VAO-9,RI-2,Pending,7/7/2024
+TN-LAND-0039,Trichy,Taluk-D,Village-7,123/2,2,Owner-39,9884709341,8.06,Wet Land,River,Red Soil,Residential,432037,Under Dispute,VAO-39,RI-22,Rejected,12/8/2024
+TN-LAND-0040,Trichy,Taluk-D,Village-14,905/3,2,Owner-40,9643583253,3.9,Dry Land,River,Sandy Soil,Commercial,774352,Active,VAO-40,RI-18,Rejected,2/1/2025
+TN-LAND-0041,Madurai,Taluk-B,Village-12,773/3,2,Owner-41,9237499779,2.77,Wet Land,River,Alluvial Soil,Agricultural,364950,Under Dispute,VAO-37,RI-15,Pending,3/7/2024
+TN-LAND-0042,Erode,Taluk-B,Village-6,149/3,2,Owner-42,9383627445,6.37,Wet Land,Canal,Red Soil,Residential,2948099,Pending Verification,VAO-48,RI-17,Pending,26/05/2025
+TN-LAND-0043,Madurai,Taluk-A,Village-2,480/3,1,Owner-43,9721266782,9.92,Wet Land,Borewell,Black Cotton Soil,Agricultural,2272734,Active,VAO-49,RI-29,Approved,14/07/2024
+TN-LAND-0044,Coimbatore,Taluk-A,Village-9,145/2,5,Owner-44,9858057432,7.32,Dry Land,Canal,Black Cotton Soil,Residential,836716,Under Dispute,VAO-4,RI-12,Pending,4/9/2024
+TN-LAND-0045,Trichy,Taluk-C,Village-17,343/3,1,Owner-45,9797721808,9.17,Wet Land,River,Alluvial Soil,Agricultural,2302264,Active,VAO-5,RI-26,Pending,1/1/2024
+TN-LAND-0046,Salem,Taluk-C,Village-10,110/5,5,Owner-46,9495374512,6.81,Dry Land,Borewell,Sandy Soil,Commercial,409218,Under Dispute,VAO-24,RI-28,Rejected,24/12/2024
+TN-LAND-0047,Salem,Taluk-D,Village-8,917/1,4,Owner-47,9550792998,9.22,Wet Land,Tank,Red Soil,Commercial,473675,Pending Verification,VAO-7,RI-19,Pending,20/10/2024
+TN-LAND-0048,Trichy,Taluk-C,Village-1,914/1,4,Owner-48,9731894281,3.23,Dry Land,River,Black Cotton Soil,Agricultural,1674824,Pending Verification,VAO-12,RI-19,Approved,2/5/2025
+TN-LAND-0049,Coimbatore,Taluk-C,Village-7,484/2,1,Owner-49,9871852536,2.57,Dry Land,Borewell,Alluvial Soil,Residential,2764935,Pending Verification,VAO-9,RI-22,Rejected,28/10/2024
+TN-LAND-0050,Coimbatore,Taluk-B,Village-4,385/3,2,Owner-50,9966587709,4.32,Wet Land,Tank,Alluvial Soil,Agricultural,2115379,Under Dispute,VAO-17,RI-17,Approved,20/05/2024
+TN-LAND-0051,Madurai,Taluk-B,Village-15,205/4,2,Owner-51,9303191770,5.3,Dry Land,Rain-fed,Black Cotton Soil,Commercial,961783,Pending Verification,VAO-45,RI-2,Rejected,11/12/2024
+TN-LAND-0052,Erode,Taluk-C,Village-1,609/5,1,Owner-52,9453993451,9.21,Wet Land,Rain-fed,Black Cotton Soil,Agricultural,2548159,Pending Verification,VAO-47,RI-9,Rejected,17/02/2024
+TN-LAND-0053,Trichy,Taluk-B,Village-8,768/1,5,Owner-53,9122235953,4.6,Dry Land,Tank,Sandy Soil,Residential,1689149,Active,VAO-44,RI-14,Approved,28/05/2025
+TN-LAND-0054,Madurai,Taluk-B,Village-17,592/4,1,Owner-54,9371390794,1.72,Dry Land,River,Black Cotton Soil,Residential,2941027,Active,VAO-7,RI-4,Approved,25/02/2024
+TN-LAND-0055,Coimbatore,Taluk-D,Village-17,532/2,4,Owner-55,9925364950,6.45,Dry Land,River,Black Cotton Soil,Residential,2174260,Active,VAO-22,RI-15,Pending,30/10/2025
+TN-LAND-0056,Coimbatore,Taluk-B,Village-12,836/2,1,Owner-56,9885107846,3.49,Dry Land,Borewell,Alluvial Soil,Commercial,2243919,Pending Verification,VAO-1,RI-21,Approved,24/04/2024
+TN-LAND-0057,Trichy,Taluk-B,Village-7,677/4,3,Owner-57,9658891601,1.46,Dry Land,Borewell,Alluvial Soil,Agricultural,314839,Active,VAO-34,RI-29,Pending,8/6/2025
+TN-LAND-0058,Coimbatore,Taluk-A,Village-5,748/5,3,Owner-58,9886020800,5.11,Wet Land,Rain-fed,Black Cotton Soil,Residential,1335749,Under Dispute,VAO-29,RI-8,Approved,28/05/2025
+TN-LAND-0059,Madurai,Taluk-B,Village-15,342/5,4,Owner-59,9798876110,4.38,Dry Land,Borewell,Red Soil,Residential,1619905,Pending Verification,VAO-12,RI-24,Approved,25/08/2024
+TN-LAND-0060,Madurai,Taluk-A,Village-12,568/5,5,Owner-60,9230367359,3.27,Wet Land,River,Alluvial Soil,Agricultural,600557,Pending Verification,VAO-18,RI-15,Rejected,22/11/2025
+TN-LAND-0061,Salem,Taluk-D,Village-15,200/3,3,Owner-61,9842073481,6.53,Dry Land,Tank,Sandy Soil,Residential,2604631,Under Dispute,VAO-49,RI-9,Pending,23/10/2025
+TN-LAND-0062,Madurai,Taluk-D,Village-12,407/3,1,Owner-62,9447624649,4.67,Wet Land,Rain-fed,Alluvial Soil,Agricultural,896030,Under Dispute,VAO-44,RI-21,Approved,29/09/2025
+TN-LAND-0063,Trichy,Taluk-D,Village-11,294/2,3,Owner-63,9971341432,1.61,Wet Land,Tank,Black Cotton Soil,Residential,983197,Active,VAO-13,RI-20,Approved,27/08/2024
+TN-LAND-0064,Erode,Taluk-B,Village-6,937/3,5,Owner-64,9939853600,0.58,Wet Land,River,Red Soil,Agricultural,2352878,Under Dispute,VAO-31,RI-11,Rejected,23/05/2025
+TN-LAND-0065,Erode,Taluk-D,Village-18,805/5,5,Owner-65,9139519741,2.43,Wet Land,Canal,Black Cotton Soil,Residential,2915400,Under Dispute,VAO-8,RI-27,Approved,25/12/2024
+TN-LAND-0066,Trichy,Taluk-C,Village-4,704/1,2,Owner-66,9630276093,7.73,Wet Land,Rain-fed,Black Cotton Soil,Commercial,321183,Active,VAO-34,RI-26,Approved,13/07/2024
+TN-LAND-0067,Madurai,Taluk-A,Village-16,443/5,3,Owner-67,9850266193,8.05,Wet Land,Rain-fed,Sandy Soil,Residential,1225884,Active,VAO-36,RI-8,Rejected,26/07/2025
+TN-LAND-0068,Madurai,Taluk-D,Village-13,323/5,1,Owner-68,9264028423,3.89,Wet Land,Canal,Sandy Soil,Agricultural,2620968,Active,VAO-37,RI-27,Rejected,1/8/2025
+TN-LAND-0069,Trichy,Taluk-D,Village-3,954/2,1,Owner-69,9687526593,5.3,Wet Land,Borewell,Red Soil,Residential,822974,Pending Verification,VAO-16,RI-16,Rejected,10/6/2024
+TN-LAND-0070,Erode,Taluk-C,Village-11,981/1,5,Owner-70,9500508466,1.01,Wet Land,Rain-fed,Black Cotton Soil,Residential,1802051,Under Dispute,VAO-8,RI-19,Pending,16/08/2025
+TN-LAND-0071,Salem,Taluk-B,Village-1,355/3,3,Owner-71,9587469898,2.37,Wet Land,River,Red Soil,Agricultural,396620,Under Dispute,VAO-8,RI-15,Approved,29/11/2024
+TN-LAND-0072,Erode,Taluk-A,Village-15,729/2,5,Owner-72,9128639370,9.6,Wet Land,River,Red Soil,Residential,1406322,Active,VAO-45,RI-2,Pending,28/06/2024
+TN-LAND-0073,Salem,Taluk-D,Village-1,436/1,2,Owner-73,9862543098,2.12,Wet Land,Canal,Red Soil,Residential,1899255,Pending Verification,VAO-26,RI-25,Pending,9/2/2024
+TN-LAND-0074,Salem,Taluk-A,Village-18,647/2,3,Owner-74,9361203611,8.37,Dry Land,River,Alluvial Soil,Residential,507462,Under Dispute,VAO-17,RI-22,Approved,8/3/2024
+TN-LAND-0075,Erode,Taluk-B,Village-16,521/3,5,Owner-75,9695804140,8.58,Wet Land,Borewell,Red Soil,Residential,2968095,Pending Verification,VAO-28,RI-1,Approved,30/09/2025
+TN-LAND-0076,Erode,Taluk-B,Village-11,586/2,5,Owner-76,9162649470,6.23,Dry Land,Canal,Sandy Soil,Agricultural,1809319,Pending Verification,VAO-47,RI-24,Pending,15/05/2024
+TN-LAND-0077,Salem,Taluk-A,Village-10,904/3,2,Owner-77,9658996330,6.34,Wet Land,River,Alluvial Soil,Residential,855043,Pending Verification,VAO-34,RI-29,Pending,14/05/2024
+TN-LAND-0078,Madurai,Taluk-D,Village-7,692/3,1,Owner-78,9692588880,5,Wet Land,Tank,Alluvial Soil,Agricultural,2954434,Under Dispute,VAO-48,RI-18,Approved,29/06/2024
+TN-LAND-0079,Erode,Taluk-D,Village-2,447/3,2,Owner-79,9898256887,3,Wet Land,River,Alluvial Soil,Agricultural,1270805,Active,VAO-21,RI-28,Rejected,8/1/2025
+TN-LAND-0080,Erode,Taluk-B,Village-1,978/4,1,Owner-80,9327505970,2.42,Dry Land,Tank,Sandy Soil,Residential,883631,Pending Verification,VAO-6,RI-12,Rejected,19/05/2024
+TN-LAND-0081,Coimbatore,Taluk-A,Village-18,919/4,1,Owner-81,9606566453,1.83,Wet Land,River,Alluvial Soil,Residential,2977450,Active,VAO-24,RI-3,Pending,7/8/2024
+TN-LAND-0082,Salem,Taluk-B,Village-17,675/4,3,Owner-82,9571123129,8.17,Dry Land,Tank,Alluvial Soil,Commercial,1698083,Under Dispute,VAO-47,RI-11,Approved,25/12/2024
+TN-LAND-0083,Trichy,Taluk-B,Village-18,311/1,4,Owner-83,9494040690,3.52,Dry Land,Borewell,Black Cotton Soil,Agricultural,441573,Pending Verification,VAO-26,RI-12,Rejected,12/4/2024
+TN-LAND-0084,Salem,Taluk-A,Village-16,227/1,3,Owner-84,9140076488,9.2,Wet Land,Rain-fed,Red Soil,Residential,1493189,Under Dispute,VAO-13,RI-19,Pending,4/2/2024
+TN-LAND-0085,Salem,Taluk-C,Village-7,210/5,4,Owner-85,9491074533,2.4,Dry Land,River,Alluvial Soil,Commercial,1858140,Pending Verification,VAO-23,RI-11,Pending,8/5/2024
+TN-LAND-0086,Erode,Taluk-C,Village-1,137/2,2,Owner-86,9500215938,7.5,Dry Land,Canal,Red Soil,Residential,2667709,Pending Verification,VAO-31,RI-17,Rejected,9/4/2024
+TN-LAND-0087,Trichy,Taluk-B,Village-13,452/2,2,Owner-87,9868122878,6.13,Dry Land,Rain-fed,Alluvial Soil,Residential,1191552,Active,VAO-7,RI-23,Rejected,7/8/2025
+TN-LAND-0088,Erode,Taluk-C,Village-18,812/2,4,Owner-88,9711035829,9.08,Wet Land,Rain-fed,Red Soil,Commercial,1467064,Pending Verification,VAO-41,RI-3,Approved,27/02/2024
+TN-LAND-0089,Madurai,Taluk-B,Village-4,778/2,1,Owner-89,9979831780,7.56,Wet Land,Tank,Red Soil,Residential,709258,Under Dispute,VAO-45,RI-14,Rejected,19/07/2024
+TN-LAND-0090,Coimbatore,Taluk-A,Village-4,691/4,2,Owner-90,9947058017,5.63,Wet Land,Canal,Sandy Soil,Agricultural,1633913,Active,VAO-25,RI-26,Approved,23/07/2024
+TN-LAND-0091,Erode,Taluk-B,Village-1,443/2,1,Owner-91,9928474234,8.09,Wet Land,Canal,Red Soil,Commercial,2962936,Pending Verification,VAO-4,RI-30,Pending,6/1/2025
+TN-LAND-0092,Salem,Taluk-D,Village-2,356/1,2,Owner-92,9132658936,2.98,Wet Land,River,Black Cotton Soil,Agricultural,1682994,Active,VAO-5,RI-9,Rejected,22/10/2025
+TN-LAND-0093,Erode,Taluk-B,Village-15,343/5,3,Owner-93,9179610528,0.65,Wet Land,Tank,Red Soil,Commercial,1999058,Pending Verification,VAO-30,RI-24,Approved,29/07/2025
+TN-LAND-0094,Erode,Taluk-B,Village-15,435/2,5,Owner-94,9900519095,2.17,Dry Land,Tank,Sandy Soil,Agricultural,2376265,Under Dispute,VAO-6,RI-14,Pending,15/10/2025
+TN-LAND-0095,Trichy,Taluk-B,Village-20,957/4,5,Owner-95,9297162614,2.14,Dry Land,Tank,Black Cotton Soil,Agricultural,1205752,Under Dispute,VAO-44,RI-24,Approved,9/2/2024
+TN-LAND-0096,Erode,Taluk-D,Village-16,214/3,3,Owner-96,9702895971,9.42,Dry Land,Tank,Alluvial Soil,Commercial,780752,Under Dispute,VAO-46,RI-15,Pending,8/10/2025
+TN-LAND-0097,Coimbatore,Taluk-C,Village-1,404/1,4,Owner-97,9446048689,6.67,Dry Land,Rain-fed,Alluvial Soil,Agricultural,1400796,Under Dispute,VAO-25,RI-11,Approved,5/10/2025
+TN-LAND-0098,Salem,Taluk-B,Village-3,980/1,4,Owner-98,9979619721,7.67,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,1821608,Under Dispute,VAO-4,RI-2,Pending,15/10/2025
+TN-LAND-0099,Madurai,Taluk-A,Village-9,970/3,2,Owner-99,9403134419,6.19,Dry Land,Canal,Sandy Soil,Commercial,2102872,Pending Verification,VAO-29,RI-19,Approved,15/08/2025
+TN-LAND-0100,Erode,Taluk-D,Village-2,736/1,1,Owner-100,9188595886,1.82,Wet Land,Borewell,Sandy Soil,Commercial,1685688,Active,VAO-22,RI-8,Pending,13/11/2025
+TN-LAND-0101,Erode,Taluk-B,Village-14,179/3,5,Owner-101,9264478964,0.8,Wet Land,Canal,Black Cotton Soil,Residential,2712349,Pending Verification,VAO-5,RI-11,Pending,20/04/2025
+TN-LAND-0102,Erode,Taluk-B,Village-1,465/4,5,Owner-102,9632138567,7.18,Wet Land,Tank,Red Soil,Agricultural,1499016,Active,VAO-33,RI-21,Approved,15/02/2024
+TN-LAND-0103,Coimbatore,Taluk-D,Village-4,378/5,1,Owner-103,9128276002,4.46,Dry Land,Borewell,Alluvial Soil,Agricultural,838046,Pending Verification,VAO-7,RI-30,Approved,13/02/2024
+TN-LAND-0104,Salem,Taluk-D,Village-2,569/4,2,Owner-104,9106726711,8.12,Dry Land,Borewell,Red Soil,Residential,2865210,Active,VAO-21,RI-22,Rejected,4/3/2024
+TN-LAND-0105,Salem,Taluk-B,Village-8,175/4,2,Owner-105,9699303297,4.2,Dry Land,Tank,Red Soil,Agricultural,2085577,Pending Verification,VAO-21,RI-12,Approved,6/4/2024
+TN-LAND-0106,Trichy,Taluk-A,Village-4,125/4,5,Owner-106,9712630545,7.46,Wet Land,Canal,Alluvial Soil,Residential,1186035,Under Dispute,VAO-10,RI-22,Pending,11/11/2025
+TN-LAND-0107,Erode,Taluk-A,Village-9,419/2,5,Owner-107,9958029645,3.72,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,1348723,Pending Verification,VAO-27,RI-7,Rejected,9/11/2025
+TN-LAND-0108,Erode,Taluk-C,Village-17,597/2,3,Owner-108,9700145785,8.68,Dry Land,Canal,Sandy Soil,Commercial,1598409,Active,VAO-1,RI-8,Approved,24/12/2024
+TN-LAND-0109,Salem,Taluk-B,Village-8,997/4,1,Owner-109,9671625008,1.29,Wet Land,Borewell,Red Soil,Agricultural,786169,Under Dispute,VAO-7,RI-11,Approved,11/6/2025
+TN-LAND-0110,Erode,Taluk-C,Village-1,244/3,3,Owner-110,9375533563,2.44,Dry Land,Tank,Alluvial Soil,Agricultural,1310760,Under Dispute,VAO-26,RI-27,Rejected,18/05/2025
+TN-LAND-0111,Coimbatore,Taluk-C,Village-5,841/3,3,Owner-111,9345369603,2.68,Wet Land,Borewell,Red Soil,Commercial,1693120,Pending Verification,VAO-27,RI-24,Rejected,26/03/2024
+TN-LAND-0112,Coimbatore,Taluk-B,Village-4,804/5,3,Owner-112,9743309068,5.42,Dry Land,Rain-fed,Alluvial Soil,Agricultural,2559895,Active,VAO-42,RI-11,Approved,3/11/2024
+TN-LAND-0113,Madurai,Taluk-C,Village-19,338/5,3,Owner-113,9529191036,2.2,Dry Land,Borewell,Alluvial Soil,Residential,2335827,Active,VAO-3,RI-3,Pending,6/1/2025
+TN-LAND-0114,Erode,Taluk-D,Village-14,233/2,1,Owner-114,9387067456,1.34,Dry Land,Rain-fed,Alluvial Soil,Agricultural,1796292,Under Dispute,VAO-22,RI-23,Pending,23/12/2024
+TN-LAND-0115,Erode,Taluk-A,Village-6,322/4,3,Owner-115,9482889372,7.2,Wet Land,Canal,Black Cotton Soil,Commercial,2592614,Pending Verification,VAO-2,RI-16,Approved,21/02/2025
+TN-LAND-0116,Erode,Taluk-B,Village-13,606/1,1,Owner-116,9296497807,9.38,Wet Land,River,Red Soil,Agricultural,749638,Active,VAO-41,RI-16,Approved,16/05/2025
+TN-LAND-0117,Madurai,Taluk-C,Village-19,911/4,2,Owner-117,9284657796,2.95,Wet Land,Rain-fed,Sandy Soil,Agricultural,995705,Pending Verification,VAO-9,RI-8,Pending,3/7/2024
+TN-LAND-0118,Trichy,Taluk-D,Village-16,429/4,5,Owner-118,9183571859,3,Wet Land,River,Alluvial Soil,Agricultural,2832472,Under Dispute,VAO-24,RI-22,Pending,31/03/2024
+TN-LAND-0119,Coimbatore,Taluk-B,Village-5,782/3,5,Owner-119,9273398026,7.99,Dry Land,Tank,Red Soil,Commercial,2584857,Pending Verification,VAO-2,RI-6,Rejected,14/04/2025
+TN-LAND-0120,Trichy,Taluk-A,Village-14,245/3,1,Owner-120,9561245201,4,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,1379733,Pending Verification,VAO-28,RI-21,Approved,28/02/2024
+TN-LAND-0121,Salem,Taluk-B,Village-16,928/3,2,Owner-121,9348531552,6.43,Dry Land,Borewell,Sandy Soil,Commercial,2552728,Under Dispute,VAO-29,RI-17,Approved,23/06/2025
+TN-LAND-0122,Coimbatore,Taluk-A,Village-7,604/2,1,Owner-122,9211014077,9.93,Wet Land,River,Black Cotton Soil,Agricultural,2382949,Under Dispute,VAO-27,RI-30,Approved,18/02/2024
+TN-LAND-0123,Salem,Taluk-D,Village-1,428/4,1,Owner-123,9688439983,7.62,Dry Land,Canal,Sandy Soil,Commercial,1840012,Active,VAO-35,RI-25,Pending,24/08/2024
+TN-LAND-0124,Coimbatore,Taluk-B,Village-13,778/2,2,Owner-124,9299448866,5.92,Wet Land,Rain-fed,Black Cotton Soil,Agricultural,1166105,Under Dispute,VAO-50,RI-30,Pending,9/6/2024
+TN-LAND-0125,Salem,Taluk-D,Village-16,417/1,2,Owner-125,9480603076,7.29,Wet Land,Borewell,Red Soil,Agricultural,690002,Pending Verification,VAO-36,RI-29,Rejected,17/08/2025
+TN-LAND-0126,Trichy,Taluk-C,Village-7,540/3,5,Owner-126,9371570819,0.83,Wet Land,Rain-fed,Alluvial Soil,Residential,934437,Active,VAO-29,RI-9,Pending,13/10/2025
+TN-LAND-0127,Trichy,Taluk-A,Village-11,821/2,1,Owner-127,9484988282,8.87,Wet Land,Borewell,Sandy Soil,Residential,1612426,Under Dispute,VAO-48,RI-29,Pending,2/1/2025
+TN-LAND-0128,Trichy,Taluk-B,Village-8,227/3,3,Owner-128,9662407567,8.05,Dry Land,Canal,Sandy Soil,Commercial,2298255,Pending Verification,VAO-14,RI-27,Pending,26/08/2025
+TN-LAND-0129,Trichy,Taluk-B,Village-17,101/2,1,Owner-129,9902705861,4.68,Wet Land,Canal,Sandy Soil,Commercial,2262978,Under Dispute,VAO-1,RI-14,Rejected,11/3/2025
+TN-LAND-0130,Coimbatore,Taluk-D,Village-5,381/2,2,Owner-130,9909545337,7.49,Dry Land,River,Alluvial Soil,Commercial,609729,Under Dispute,VAO-7,RI-21,Pending,22/01/2024
+TN-LAND-0131,Coimbatore,Taluk-D,Village-16,494/4,5,Owner-131,9658091944,9.9,Wet Land,Tank,Alluvial Soil,Residential,2029895,Active,VAO-31,RI-30,Approved,6/7/2025
+TN-LAND-0132,Erode,Taluk-D,Village-11,298/5,1,Owner-132,9471790993,1.63,Wet Land,Rain-fed,Red Soil,Agricultural,1795773,Under Dispute,VAO-32,RI-26,Rejected,29/06/2024
+TN-LAND-0133,Madurai,Taluk-C,Village-7,450/5,5,Owner-133,9832820424,9.06,Wet Land,Canal,Red Soil,Residential,1739394,Active,VAO-26,RI-26,Rejected,30/04/2024
+TN-LAND-0134,Salem,Taluk-A,Village-14,806/2,3,Owner-134,9306144668,6.68,Wet Land,Rain-fed,Sandy Soil,Commercial,954259,Active,VAO-6,RI-12,Rejected,7/2/2024
+TN-LAND-0135,Salem,Taluk-D,Village-2,176/5,4,Owner-135,9340336932,4.27,Wet Land,Rain-fed,Black Cotton Soil,Agricultural,598702,Pending Verification,VAO-10,RI-13,Approved,27/11/2024
+TN-LAND-0136,Salem,Taluk-B,Village-9,461/5,1,Owner-136,9259642563,7.36,Wet Land,Canal,Red Soil,Commercial,2854307,Active,VAO-32,RI-20,Approved,28/07/2024
+TN-LAND-0137,Madurai,Taluk-B,Village-3,763/3,2,Owner-137,9788348725,7.45,Dry Land,Borewell,Sandy Soil,Residential,567269,Under Dispute,VAO-9,RI-9,Rejected,26/10/2024
+TN-LAND-0138,Salem,Taluk-D,Village-11,828/5,5,Owner-138,9249623269,8.36,Dry Land,Rain-fed,Alluvial Soil,Commercial,1163751,Active,VAO-4,RI-16,Pending,25/06/2025
+TN-LAND-0139,Salem,Taluk-D,Village-9,217/5,2,Owner-139,9544163980,7.31,Dry Land,Tank,Sandy Soil,Commercial,329659,Under Dispute,VAO-34,RI-4,Pending,29/08/2025
+TN-LAND-0140,Erode,Taluk-B,Village-2,112/1,3,Owner-140,9888970068,4.83,Dry Land,Rain-fed,Red Soil,Residential,2517998,Active,VAO-23,RI-13,Approved,21/04/2024
+TN-LAND-0141,Salem,Taluk-C,Village-3,394/5,2,Owner-141,9110950451,1.18,Wet Land,Tank,Alluvial Soil,Agricultural,1871739,Under Dispute,VAO-28,RI-10,Pending,18/12/2024
+TN-LAND-0142,Erode,Taluk-B,Village-12,639/3,2,Owner-142,9345197211,3.27,Wet Land,Rain-fed,Sandy Soil,Residential,1509449,Active,VAO-25,RI-24,Approved,6/8/2025
+TN-LAND-0143,Coimbatore,Taluk-D,Village-17,360/4,3,Owner-143,9303932242,2.25,Wet Land,Tank,Sandy Soil,Agricultural,1299838,Under Dispute,VAO-16,RI-9,Pending,3/6/2025
+TN-LAND-0144,Coimbatore,Taluk-D,Village-2,514/5,4,Owner-144,9620253047,9.8,Dry Land,River,Red Soil,Commercial,1406160,Active,VAO-26,RI-12,Rejected,20/02/2024
+TN-LAND-0145,Salem,Taluk-A,Village-16,721/5,2,Owner-145,9964150151,3.73,Dry Land,River,Black Cotton Soil,Commercial,615740,Active,VAO-43,RI-29,Rejected,8/4/2025
+TN-LAND-0146,Coimbatore,Taluk-A,Village-15,668/4,2,Owner-146,9522378350,0.65,Dry Land,River,Red Soil,Residential,630506,Under Dispute,VAO-16,RI-15,Approved,8/2/2025
+TN-LAND-0147,Erode,Taluk-C,Village-12,344/1,5,Owner-147,9347518749,1.91,Dry Land,Borewell,Black Cotton Soil,Commercial,1227765,Active,VAO-16,RI-27,Rejected,6/6/2024
+TN-LAND-0148,Salem,Taluk-A,Village-8,907/3,4,Owner-148,9285489123,2.69,Dry Land,Canal,Sandy Soil,Residential,2066730,Under Dispute,VAO-16,RI-21,Approved,16/12/2024
+TN-LAND-0149,Salem,Taluk-B,Village-4,293/5,4,Owner-149,9877887381,3.73,Dry Land,Tank,Alluvial Soil,Residential,2965128,Active,VAO-42,RI-5,Approved,8/3/2025
+TN-LAND-0150,Madurai,Taluk-B,Village-7,380/5,2,Owner-150,9267952808,8.06,Wet Land,Rain-fed,Black Cotton Soil,Residential,1608942,Under Dispute,VAO-15,RI-14,Rejected,27/11/2024
+TN-LAND-0151,Salem,Taluk-C,Village-14,893/5,1,Owner-151,9924152516,5.68,Dry Land,River,Red Soil,Residential,2210946,Pending Verification,VAO-28,RI-18,Rejected,27/07/2025
+TN-LAND-0152,Coimbatore,Taluk-C,Village-8,346/5,5,Owner-152,9259271379,5.99,Dry Land,Rain-fed,Red Soil,Residential,841746,Active,VAO-20,RI-3,Pending,3/10/2024
+TN-LAND-0153,Coimbatore,Taluk-C,Village-14,294/3,3,Owner-153,9803862928,8.64,Wet Land,River,Alluvial Soil,Residential,1597676,Active,VAO-43,RI-14,Approved,22/03/2025
+TN-LAND-0154,Erode,Taluk-C,Village-11,578/2,5,Owner-154,9955557368,3.75,Wet Land,Rain-fed,Red Soil,Commercial,1260595,Active,VAO-22,RI-9,Rejected,3/11/2025
+TN-LAND-0155,Trichy,Taluk-C,Village-10,595/1,5,Owner-155,9546395590,3.26,Wet Land,River,Black Cotton Soil,Agricultural,559013,Under Dispute,VAO-28,RI-15,Rejected,9/10/2025
+TN-LAND-0156,Madurai,Taluk-D,Village-3,884/2,5,Owner-156,9199867358,1.81,Wet Land,Tank,Red Soil,Residential,1947256,Active,VAO-28,RI-1,Rejected,4/6/2025
+TN-LAND-0157,Trichy,Taluk-D,Village-11,473/3,5,Owner-157,9223807312,2.58,Wet Land,Canal,Black Cotton Soil,Agricultural,1387642,Pending Verification,VAO-22,RI-13,Rejected,4/9/2024
+TN-LAND-0158,Erode,Taluk-D,Village-19,506/5,2,Owner-158,9835696290,3.91,Wet Land,Canal,Alluvial Soil,Commercial,2729220,Active,VAO-43,RI-12,Approved,8/5/2025
+TN-LAND-0159,Trichy,Taluk-C,Village-15,473/1,3,Owner-159,9392133243,1.22,Dry Land,Rain-fed,Sandy Soil,Commercial,1920111,Pending Verification,VAO-50,RI-23,Pending,18/08/2025
+TN-LAND-0160,Coimbatore,Taluk-D,Village-4,652/2,5,Owner-160,9656782537,3.88,Wet Land,Borewell,Red Soil,Commercial,2816646,Pending Verification,VAO-21,RI-19,Pending,23/04/2024
+TN-LAND-0161,Erode,Taluk-A,Village-4,131/2,2,Owner-161,9662241582,3.48,Dry Land,Canal,Red Soil,Agricultural,1169236,Pending Verification,VAO-20,RI-8,Approved,19/10/2025
+TN-LAND-0162,Trichy,Taluk-A,Village-8,975/2,3,Owner-162,9559206391,6.48,Dry Land,Borewell,Sandy Soil,Commercial,1812508,Pending Verification,VAO-15,RI-6,Approved,8/6/2025
+TN-LAND-0163,Coimbatore,Taluk-B,Village-8,979/3,1,Owner-163,9707406800,5.86,Wet Land,Canal,Red Soil,Residential,989673,Active,VAO-41,RI-9,Pending,16/07/2025
+TN-LAND-0164,Coimbatore,Taluk-D,Village-20,274/2,5,Owner-164,9856843606,2.35,Dry Land,Canal,Sandy Soil,Agricultural,1726094,Pending Verification,VAO-40,RI-11,Approved,29/09/2025
+TN-LAND-0165,Erode,Taluk-D,Village-20,167/2,1,Owner-165,9450039416,8.9,Wet Land,Tank,Sandy Soil,Agricultural,1756995,Pending Verification,VAO-50,RI-1,Approved,13/05/2024
+TN-LAND-0166,Madurai,Taluk-B,Village-17,415/4,2,Owner-166,9711598344,7.79,Dry Land,Canal,Red Soil,Residential,2664198,Under Dispute,VAO-45,RI-25,Rejected,7/1/2025
+TN-LAND-0167,Trichy,Taluk-D,Village-4,612/5,3,Owner-167,9947898097,7.98,Wet Land,Rain-fed,Red Soil,Commercial,984166,Under Dispute,VAO-13,RI-16,Rejected,9/10/2025
+TN-LAND-0168,Trichy,Taluk-A,Village-7,708/3,5,Owner-168,9393334580,4.18,Dry Land,River,Black Cotton Soil,Agricultural,2994953,Under Dispute,VAO-15,RI-25,Rejected,15/01/2025
+TN-LAND-0169,Madurai,Taluk-C,Village-3,595/2,2,Owner-169,9864054570,6.19,Wet Land,Canal,Alluvial Soil,Residential,2422376,Pending Verification,VAO-27,RI-19,Rejected,6/10/2024
+TN-LAND-0170,Trichy,Taluk-A,Village-5,482/3,1,Owner-170,9520104746,1.76,Wet Land,Borewell,Black Cotton Soil,Commercial,1995652,Active,VAO-6,RI-14,Approved,10/6/2025
+TN-LAND-0171,Trichy,Taluk-C,Village-7,268/5,5,Owner-171,9203699277,5.01,Dry Land,Canal,Red Soil,Agricultural,594949,Under Dispute,VAO-16,RI-15,Approved,31/10/2024
+TN-LAND-0172,Salem,Taluk-A,Village-8,941/3,5,Owner-172,9361865142,7.56,Dry Land,Rain-fed,Sandy Soil,Agricultural,2873597,Under Dispute,VAO-44,RI-6,Rejected,26/05/2025
+TN-LAND-0173,Coimbatore,Taluk-C,Village-15,203/2,3,Owner-173,9548985385,7.17,Wet Land,Borewell,Red Soil,Agricultural,1201831,Pending Verification,VAO-35,RI-10,Rejected,5/9/2024
+TN-LAND-0174,Erode,Taluk-D,Village-5,897/4,5,Owner-174,9486688539,1.05,Dry Land,Canal,Black Cotton Soil,Agricultural,2911455,Under Dispute,VAO-3,RI-30,Pending,17/06/2025
+TN-LAND-0175,Salem,Taluk-D,Village-9,695/4,1,Owner-175,9565007272,3.31,Wet Land,Tank,Sandy Soil,Agricultural,801389,Active,VAO-17,RI-25,Pending,8/1/2025
+TN-LAND-0176,Trichy,Taluk-A,Village-10,271/1,3,Owner-176,9799675986,5.06,Dry Land,Borewell,Alluvial Soil,Agricultural,1078052,Under Dispute,VAO-48,RI-29,Pending,26/09/2024
+TN-LAND-0177,Erode,Taluk-A,Village-15,216/2,4,Owner-177,9484836364,2.73,Wet Land,Canal,Red Soil,Commercial,2656542,Pending Verification,VAO-24,RI-2,Rejected,30/11/2024
+TN-LAND-0178,Trichy,Taluk-D,Village-3,242/4,2,Owner-178,9393323854,9.99,Dry Land,Tank,Sandy Soil,Commercial,1983137,Pending Verification,VAO-38,RI-4,Rejected,21/06/2024
+TN-LAND-0179,Erode,Taluk-D,Village-18,293/5,3,Owner-179,9766994673,3.6,Dry Land,Canal,Black Cotton Soil,Commercial,2033691,Pending Verification,VAO-33,RI-4,Rejected,28/11/2025
+TN-LAND-0180,Trichy,Taluk-C,Village-8,394/3,5,Owner-180,9688141791,2.85,Wet Land,Canal,Black Cotton Soil,Residential,1998242,Under Dispute,VAO-42,RI-9,Pending,6/8/2025
+TN-LAND-0181,Coimbatore,Taluk-C,Village-15,111/2,5,Owner-181,9734011979,3.09,Wet Land,Tank,Sandy Soil,Commercial,1500225,Pending Verification,VAO-34,RI-12,Rejected,28/07/2025
+TN-LAND-0182,Trichy,Taluk-A,Village-17,991/2,3,Owner-182,9935568284,3.93,Wet Land,Tank,Black Cotton Soil,Commercial,741531,Pending Verification,VAO-12,RI-12,Approved,2/9/2025
+TN-LAND-0183,Madurai,Taluk-B,Village-3,478/3,4,Owner-183,9442337637,6.38,Wet Land,River,Alluvial Soil,Residential,2572674,Active,VAO-25,RI-1,Approved,14/04/2024
+TN-LAND-0184,Madurai,Taluk-C,Village-5,732/3,4,Owner-184,9152372414,1.45,Dry Land,Canal,Black Cotton Soil,Residential,2589959,Pending Verification,VAO-19,RI-19,Approved,15/06/2024
+TN-LAND-0185,Erode,Taluk-B,Village-10,634/3,5,Owner-185,9588594887,9.82,Wet Land,River,Black Cotton Soil,Residential,2511011,Under Dispute,VAO-6,RI-29,Pending,18/10/2025
+TN-LAND-0186,Salem,Taluk-D,Village-17,637/4,1,Owner-186,9899280748,7.83,Dry Land,Borewell,Sandy Soil,Residential,1658184,Active,VAO-32,RI-28,Rejected,12/8/2024
+TN-LAND-0187,Salem,Taluk-B,Village-3,431/4,1,Owner-187,9986050632,1.23,Dry Land,Borewell,Black Cotton Soil,Residential,2214491,Under Dispute,VAO-39,RI-9,Approved,25/03/2024
+TN-LAND-0188,Madurai,Taluk-B,Village-11,342/1,1,Owner-188,9400951371,5.43,Dry Land,River,Black Cotton Soil,Agricultural,2117928,Under Dispute,VAO-24,RI-16,Approved,14/04/2025
+TN-LAND-0189,Trichy,Taluk-C,Village-6,976/4,3,Owner-189,9957439777,5.64,Dry Land,Rain-fed,Sandy Soil,Agricultural,1540231,Under Dispute,VAO-22,RI-14,Pending,8/5/2025
+TN-LAND-0190,Coimbatore,Taluk-D,Village-7,118/5,2,Owner-190,9925145418,9.66,Wet Land,River,Black Cotton Soil,Residential,543077,Pending Verification,VAO-41,RI-26,Approved,11/11/2025
+TN-LAND-0191,Coimbatore,Taluk-B,Village-1,963/3,2,Owner-191,9211175214,9.74,Wet Land,Tank,Red Soil,Commercial,2360486,Under Dispute,VAO-9,RI-4,Approved,9/4/2025
+TN-LAND-0192,Salem,Taluk-C,Village-3,329/1,3,Owner-192,9903317090,6.21,Wet Land,River,Sandy Soil,Residential,2136888,Pending Verification,VAO-9,RI-27,Rejected,18/10/2025
+TN-LAND-0193,Salem,Taluk-A,Village-12,277/1,3,Owner-193,9558251669,4.5,Wet Land,Tank,Alluvial Soil,Residential,830502,Under Dispute,VAO-27,RI-2,Pending,12/4/2024
+TN-LAND-0194,Madurai,Taluk-A,Village-10,361/5,5,Owner-194,9281291612,6.52,Dry Land,Borewell,Alluvial Soil,Residential,765283,Pending Verification,VAO-40,RI-20,Approved,2/5/2024
+TN-LAND-0195,Salem,Taluk-D,Village-1,959/4,1,Owner-195,9802619018,2.68,Wet Land,Rain-fed,Black Cotton Soil,Agricultural,859325,Under Dispute,VAO-44,RI-8,Pending,18/08/2025
+TN-LAND-0196,Erode,Taluk-C,Village-1,337/3,1,Owner-196,9808366138,7.52,Dry Land,River,Alluvial Soil,Agricultural,2973103,Active,VAO-50,RI-25,Rejected,8/3/2024
+TN-LAND-0197,Salem,Taluk-C,Village-10,361/1,2,Owner-197,9582154660,2.46,Dry Land,Canal,Red Soil,Residential,569336,Under Dispute,VAO-1,RI-29,Rejected,19/03/2024
+TN-LAND-0198,Madurai,Taluk-B,Village-14,500/1,3,Owner-198,9527484887,3.2,Dry Land,River,Black Cotton Soil,Residential,401141,Active,VAO-13,RI-14,Approved,5/11/2024
+TN-LAND-0199,Trichy,Taluk-B,Village-2,109/1,5,Owner-199,9388179889,5.98,Wet Land,River,Alluvial Soil,Residential,1762201,Active,VAO-11,RI-24,Approved,19/09/2025
+TN-LAND-0200,Coimbatore,Taluk-D,Village-19,694/5,1,Owner-200,9810867366,9.37,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1393554,Under Dispute,VAO-37,RI-24,Rejected,18/04/2025
+TN-LAND-0201,Madurai,Taluk-D,Village-4,169/5,5,Owner-201,9491157052,2.04,Wet Land,River,Red Soil,Commercial,1386353,Active,VAO-44,RI-12,Rejected,30/11/2024
+TN-LAND-0202,Madurai,Taluk-C,Village-19,531/3,4,Owner-202,9128323953,5.84,Dry Land,Tank,Black Cotton Soil,Commercial,776093,Under Dispute,VAO-27,RI-20,Approved,22/03/2025
+TN-LAND-0203,Madurai,Taluk-B,Village-9,504/3,5,Owner-203,9673776003,7.17,Dry Land,River,Red Soil,Commercial,2825595,Under Dispute,VAO-19,RI-26,Rejected,9/7/2024
+TN-LAND-0204,Coimbatore,Taluk-B,Village-2,265/2,3,Owner-204,9432056878,2.33,Wet Land,Tank,Black Cotton Soil,Commercial,1269616,Active,VAO-40,RI-15,Rejected,5/10/2024
+TN-LAND-0205,Erode,Taluk-B,Village-2,573/4,5,Owner-205,9864111293,4.35,Dry Land,Canal,Black Cotton Soil,Commercial,722377,Under Dispute,VAO-43,RI-13,Rejected,15/06/2024
+TN-LAND-0206,Salem,Taluk-D,Village-20,137/3,5,Owner-206,9762799640,0.56,Wet Land,Borewell,Black Cotton Soil,Residential,591896,Pending Verification,VAO-39,RI-4,Approved,27/03/2025
+TN-LAND-0207,Erode,Taluk-C,Village-17,171/2,5,Owner-207,9276460388,5.71,Wet Land,Rain-fed,Red Soil,Agricultural,1488281,Under Dispute,VAO-21,RI-10,Pending,27/09/2025
+TN-LAND-0208,Erode,Taluk-D,Village-2,822/3,2,Owner-208,9167649272,5.78,Wet Land,Tank,Black Cotton Soil,Residential,467491,Active,VAO-12,RI-23,Rejected,26/07/2025
+TN-LAND-0209,Trichy,Taluk-C,Village-12,819/5,3,Owner-209,9948669511,1.37,Wet Land,River,Black Cotton Soil,Commercial,1128598,Active,VAO-32,RI-22,Approved,18/06/2025
+TN-LAND-0210,Erode,Taluk-D,Village-19,466/5,1,Owner-210,9807047825,1.95,Wet Land,Tank,Sandy Soil,Residential,2704836,Pending Verification,VAO-7,RI-25,Rejected,7/12/2024
+TN-LAND-0211,Trichy,Taluk-C,Village-11,417/3,3,Owner-211,9167859829,9.03,Dry Land,Canal,Alluvial Soil,Agricultural,1303249,Active,VAO-6,RI-5,Pending,8/5/2024
+TN-LAND-0212,Coimbatore,Taluk-C,Village-15,478/3,3,Owner-212,9947927815,3.01,Dry Land,Canal,Alluvial Soil,Agricultural,881174,Pending Verification,VAO-25,RI-6,Rejected,16/10/2025
+TN-LAND-0213,Salem,Taluk-B,Village-9,212/1,4,Owner-213,9788800909,0.95,Wet Land,Tank,Alluvial Soil,Residential,2930907,Pending Verification,VAO-5,RI-5,Pending,10/9/2025
+TN-LAND-0214,Trichy,Taluk-A,Village-12,376/2,2,Owner-214,9138569333,0.95,Wet Land,Rain-fed,Alluvial Soil,Residential,1349801,Active,VAO-23,RI-19,Rejected,23/01/2024
+TN-LAND-0215,Erode,Taluk-B,Village-14,760/2,5,Owner-215,9376240759,2.06,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,935144,Pending Verification,VAO-37,RI-27,Approved,25/01/2024
+TN-LAND-0216,Coimbatore,Taluk-D,Village-18,589/1,5,Owner-216,9590779254,2.88,Wet Land,Canal,Black Cotton Soil,Commercial,2744766,Active,VAO-29,RI-15,Rejected,21/09/2024
+TN-LAND-0217,Coimbatore,Taluk-C,Village-13,507/5,4,Owner-217,9297150274,3.41,Wet Land,Borewell,Sandy Soil,Residential,2720922,Pending Verification,VAO-20,RI-10,Approved,23/11/2024
+TN-LAND-0218,Erode,Taluk-C,Village-8,746/3,1,Owner-218,9418653639,6.16,Wet Land,Canal,Black Cotton Soil,Commercial,1917986,Pending Verification,VAO-31,RI-15,Pending,12/1/2025
+TN-LAND-0219,Madurai,Taluk-B,Village-13,396/2,5,Owner-219,9820628858,9.29,Wet Land,Tank,Sandy Soil,Commercial,2516171,Pending Verification,VAO-37,RI-13,Pending,3/10/2025
+TN-LAND-0220,Coimbatore,Taluk-C,Village-20,842/4,3,Owner-220,9577642562,4.39,Dry Land,Rain-fed,Black Cotton Soil,Residential,2302662,Active,VAO-50,RI-13,Approved,23/07/2025
+TN-LAND-0221,Erode,Taluk-C,Village-16,740/5,5,Owner-221,9165585139,0.53,Wet Land,Rain-fed,Sandy Soil,Agricultural,1526042,Active,VAO-5,RI-15,Pending,11/2/2024
+TN-LAND-0222,Coimbatore,Taluk-A,Village-7,755/2,3,Owner-222,9594363828,3.68,Dry Land,Canal,Black Cotton Soil,Residential,2736498,Pending Verification,VAO-37,RI-7,Rejected,14/10/2025
+TN-LAND-0223,Salem,Taluk-A,Village-19,240/5,4,Owner-223,9791076201,1.28,Dry Land,Rain-fed,Sandy Soil,Residential,1799391,Under Dispute,VAO-29,RI-6,Pending,30/04/2025
+TN-LAND-0224,Madurai,Taluk-A,Village-4,769/5,2,Owner-224,9883704332,4.3,Dry Land,River,Sandy Soil,Commercial,999996,Active,VAO-19,RI-21,Rejected,23/07/2025
+TN-LAND-0225,Coimbatore,Taluk-A,Village-13,694/3,4,Owner-225,9725501727,1.43,Wet Land,Rain-fed,Red Soil,Residential,2254803,Under Dispute,VAO-27,RI-21,Approved,14/11/2025
+TN-LAND-0226,Madurai,Taluk-C,Village-11,675/2,4,Owner-226,9168699261,1.37,Wet Land,Rain-fed,Alluvial Soil,Commercial,2190871,Under Dispute,VAO-47,RI-6,Rejected,26/11/2024
+TN-LAND-0227,Erode,Taluk-B,Village-3,322/4,3,Owner-227,9519514332,6.48,Wet Land,Borewell,Red Soil,Agricultural,1084087,Active,VAO-3,RI-20,Rejected,15/05/2025
+TN-LAND-0228,Erode,Taluk-B,Village-3,547/3,2,Owner-228,9145565828,6.63,Dry Land,River,Alluvial Soil,Commercial,2328083,Active,VAO-47,RI-26,Pending,2/4/2025
+TN-LAND-0229,Salem,Taluk-A,Village-6,490/2,4,Owner-229,9925991924,2.64,Wet Land,River,Alluvial Soil,Commercial,762403,Active,VAO-28,RI-26,Approved,12/12/2024
+TN-LAND-0230,Coimbatore,Taluk-D,Village-10,969/4,1,Owner-230,9275922992,4.19,Dry Land,Borewell,Alluvial Soil,Residential,891690,Active,VAO-9,RI-10,Rejected,7/8/2025
+TN-LAND-0231,Erode,Taluk-A,Village-10,581/2,5,Owner-231,9107349601,3.36,Wet Land,Tank,Alluvial Soil,Residential,372809,Pending Verification,VAO-41,RI-27,Pending,10/5/2024
+TN-LAND-0232,Trichy,Taluk-D,Village-7,583/3,4,Owner-232,9425639083,5.3,Dry Land,Canal,Alluvial Soil,Agricultural,1341868,Active,VAO-26,RI-10,Approved,12/8/2024
+TN-LAND-0233,Coimbatore,Taluk-A,Village-2,929/5,1,Owner-233,9861573015,5.99,Wet Land,Canal,Alluvial Soil,Commercial,2186357,Pending Verification,VAO-4,RI-14,Approved,28/06/2024
+TN-LAND-0234,Erode,Taluk-B,Village-10,713/5,1,Owner-234,9356679422,6.37,Dry Land,Rain-fed,Sandy Soil,Commercial,655903,Under Dispute,VAO-5,RI-17,Pending,8/10/2024
+TN-LAND-0235,Salem,Taluk-D,Village-19,642/4,5,Owner-235,9148328795,4.85,Dry Land,River,Sandy Soil,Commercial,1862540,Active,VAO-6,RI-4,Approved,16/11/2024
+TN-LAND-0236,Salem,Taluk-D,Village-19,194/5,2,Owner-236,9778364256,1.44,Wet Land,River,Black Cotton Soil,Agricultural,2649450,Pending Verification,VAO-37,RI-15,Rejected,19/07/2025
+TN-LAND-0237,Madurai,Taluk-C,Village-8,900/1,3,Owner-237,9655997735,3.67,Dry Land,River,Red Soil,Commercial,679663,Active,VAO-9,RI-25,Rejected,17/07/2024
+TN-LAND-0238,Coimbatore,Taluk-C,Village-11,495/3,1,Owner-238,9842417732,2.96,Wet Land,River,Alluvial Soil,Agricultural,550056,Active,VAO-3,RI-9,Pending,8/2/2025
+TN-LAND-0239,Erode,Taluk-D,Village-2,477/2,4,Owner-239,9674301629,7,Wet Land,Rain-fed,Black Cotton Soil,Residential,602226,Pending Verification,VAO-36,RI-29,Approved,22/07/2024
+TN-LAND-0240,Salem,Taluk-B,Village-1,858/3,1,Owner-240,9917572582,1.18,Wet Land,River,Black Cotton Soil,Commercial,1840986,Under Dispute,VAO-9,RI-14,Approved,31/03/2025
+TN-LAND-0241,Trichy,Taluk-B,Village-9,557/3,4,Owner-241,9198468676,3.58,Dry Land,Rain-fed,Red Soil,Residential,2643755,Pending Verification,VAO-26,RI-20,Approved,23/11/2024
+TN-LAND-0242,Coimbatore,Taluk-C,Village-11,675/3,3,Owner-242,9897327449,2.89,Wet Land,Canal,Sandy Soil,Agricultural,421266,Pending Verification,VAO-8,RI-3,Approved,15/09/2024
+TN-LAND-0243,Erode,Taluk-A,Village-11,294/3,4,Owner-243,9244399837,3.03,Wet Land,River,Red Soil,Residential,2637569,Pending Verification,VAO-22,RI-5,Pending,19/03/2025
+TN-LAND-0244,Erode,Taluk-D,Village-4,127/2,4,Owner-244,9538788020,1.62,Wet Land,Canal,Sandy Soil,Commercial,479792,Active,VAO-40,RI-26,Rejected,16/09/2024
+TN-LAND-0245,Coimbatore,Taluk-D,Village-12,255/3,1,Owner-245,9118084941,1.11,Wet Land,Canal,Sandy Soil,Commercial,1857539,Active,VAO-31,RI-13,Rejected,13/01/2024
+TN-LAND-0246,Coimbatore,Taluk-D,Village-5,310/1,5,Owner-246,9343650925,4.23,Wet Land,Rain-fed,Sandy Soil,Agricultural,1686560,Active,VAO-12,RI-14,Pending,17/06/2025
+TN-LAND-0247,Madurai,Taluk-D,Village-18,574/5,5,Owner-247,9142220397,1.59,Dry Land,River,Alluvial Soil,Agricultural,517127,Pending Verification,VAO-25,RI-26,Pending,22/05/2025
+TN-LAND-0248,Erode,Taluk-A,Village-3,461/1,3,Owner-248,9293043601,3.53,Dry Land,Tank,Alluvial Soil,Commercial,759487,Pending Verification,VAO-16,RI-10,Rejected,19/10/2024
+TN-LAND-0249,Salem,Taluk-A,Village-13,431/1,4,Owner-249,9938163744,6.63,Wet Land,Tank,Red Soil,Commercial,1203770,Active,VAO-14,RI-28,Approved,27/11/2025
+TN-LAND-0250,Madurai,Taluk-C,Village-2,141/3,3,Owner-250,9220952314,2.21,Dry Land,River,Red Soil,Residential,947163,Active,VAO-35,RI-7,Rejected,8/9/2025
+TN-LAND-0251,Madurai,Taluk-B,Village-11,998/3,4,Owner-251,9508475533,7.1,Wet Land,Rain-fed,Alluvial Soil,Residential,2772815,Active,VAO-44,RI-8,Pending,15/07/2025
+TN-LAND-0252,Trichy,Taluk-A,Village-18,676/5,3,Owner-252,9120121808,4.73,Wet Land,River,Black Cotton Soil,Agricultural,845713,Pending Verification,VAO-49,RI-10,Approved,20/11/2025
+TN-LAND-0253,Trichy,Taluk-D,Village-7,711/2,2,Owner-253,9644726479,2.69,Wet Land,River,Red Soil,Agricultural,2567188,Pending Verification,VAO-33,RI-28,Approved,20/09/2025
+TN-LAND-0254,Trichy,Taluk-C,Village-5,800/4,1,Owner-254,9261112134,7.25,Dry Land,Tank,Red Soil,Commercial,329027,Active,VAO-12,RI-26,Approved,5/5/2025
+TN-LAND-0255,Erode,Taluk-B,Village-14,908/1,2,Owner-255,9801229832,6.44,Dry Land,Rain-fed,Red Soil,Agricultural,635303,Pending Verification,VAO-32,RI-23,Pending,26/04/2024
+TN-LAND-0256,Madurai,Taluk-C,Village-14,895/4,3,Owner-256,9419555109,3.65,Dry Land,River,Red Soil,Residential,1226169,Under Dispute,VAO-42,RI-14,Rejected,25/10/2024
+TN-LAND-0257,Madurai,Taluk-A,Village-1,294/3,1,Owner-257,9988053221,1.48,Dry Land,Borewell,Sandy Soil,Residential,1958093,Pending Verification,VAO-13,RI-21,Pending,7/8/2025
+TN-LAND-0258,Coimbatore,Taluk-D,Village-16,976/3,4,Owner-258,9880067646,1.51,Wet Land,Borewell,Red Soil,Residential,2396376,Under Dispute,VAO-3,RI-19,Rejected,15/07/2024
+TN-LAND-0259,Trichy,Taluk-C,Village-18,102/2,4,Owner-259,9367415280,2.57,Wet Land,Canal,Alluvial Soil,Commercial,1785549,Under Dispute,VAO-32,RI-9,Rejected,7/8/2024
+TN-LAND-0260,Erode,Taluk-D,Village-17,165/2,5,Owner-260,9768337140,5.85,Dry Land,Rain-fed,Alluvial Soil,Commercial,495290,Active,VAO-6,RI-20,Pending,18/06/2024
+TN-LAND-0261,Coimbatore,Taluk-C,Village-18,181/3,5,Owner-261,9797140961,6.07,Wet Land,River,Sandy Soil,Agricultural,1491798,Pending Verification,VAO-20,RI-11,Pending,7/6/2025
+TN-LAND-0262,Trichy,Taluk-A,Village-9,600/3,1,Owner-262,9799863535,5.54,Wet Land,River,Sandy Soil,Residential,937007,Active,VAO-49,RI-30,Rejected,26/02/2024
+TN-LAND-0263,Madurai,Taluk-B,Village-7,726/4,2,Owner-263,9443555069,1.11,Dry Land,River,Black Cotton Soil,Agricultural,977282,Pending Verification,VAO-17,RI-14,Rejected,19/11/2025
+TN-LAND-0264,Salem,Taluk-D,Village-4,415/3,1,Owner-264,9257139911,4.63,Dry Land,River,Red Soil,Commercial,647455,Under Dispute,VAO-10,RI-5,Rejected,3/5/2025
+TN-LAND-0265,Trichy,Taluk-A,Village-17,625/2,5,Owner-265,9558922564,3.54,Dry Land,Borewell,Red Soil,Agricultural,2835686,Pending Verification,VAO-45,RI-22,Rejected,28/02/2025
+TN-LAND-0266,Madurai,Taluk-B,Village-20,437/2,4,Owner-266,9585992690,8.79,Dry Land,Borewell,Alluvial Soil,Agricultural,1142393,Active,VAO-48,RI-17,Rejected,21/08/2024
+TN-LAND-0267,Trichy,Taluk-C,Village-2,251/5,5,Owner-267,9521861876,1.32,Dry Land,Rain-fed,Sandy Soil,Commercial,1775607,Under Dispute,VAO-37,RI-4,Rejected,9/4/2024
+TN-LAND-0268,Erode,Taluk-A,Village-16,401/2,3,Owner-268,9400983753,7.59,Dry Land,River,Sandy Soil,Residential,1317573,Pending Verification,VAO-17,RI-20,Pending,24/05/2024
+TN-LAND-0269,Salem,Taluk-D,Village-6,157/1,4,Owner-269,9929827881,2.86,Wet Land,Rain-fed,Sandy Soil,Agricultural,1916790,Active,VAO-30,RI-13,Rejected,21/11/2024
+TN-LAND-0270,Erode,Taluk-A,Village-19,229/2,5,Owner-270,9447079219,7.92,Dry Land,River,Red Soil,Agricultural,1775890,Active,VAO-26,RI-15,Approved,28/02/2024
+TN-LAND-0271,Trichy,Taluk-C,Village-8,590/2,1,Owner-271,9262312099,7.48,Dry Land,Tank,Sandy Soil,Agricultural,899658,Active,VAO-38,RI-27,Rejected,11/2/2024
+TN-LAND-0272,Coimbatore,Taluk-D,Village-9,736/4,2,Owner-272,9862120383,6.04,Wet Land,Canal,Red Soil,Agricultural,2170093,Pending Verification,VAO-45,RI-22,Approved,3/9/2025
+TN-LAND-0273,Salem,Taluk-C,Village-17,774/5,5,Owner-273,9531269989,1.02,Dry Land,Canal,Black Cotton Soil,Residential,467319,Pending Verification,VAO-34,RI-13,Approved,9/8/2024
+TN-LAND-0274,Erode,Taluk-A,Village-4,827/4,4,Owner-274,9356549826,8.48,Wet Land,River,Sandy Soil,Commercial,1605164,Pending Verification,VAO-12,RI-18,Approved,30/03/2024
+TN-LAND-0275,Trichy,Taluk-A,Village-8,297/5,2,Owner-275,9749772505,9.08,Wet Land,Borewell,Sandy Soil,Residential,1723233,Under Dispute,VAO-11,RI-21,Pending,23/06/2025
+TN-LAND-0276,Salem,Taluk-A,Village-3,644/5,5,Owner-276,9784683996,1.92,Wet Land,Borewell,Sandy Soil,Commercial,1059234,Active,VAO-3,RI-14,Rejected,10/11/2024
+TN-LAND-0277,Coimbatore,Taluk-D,Village-10,339/4,1,Owner-277,9230982775,6.29,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1724164,Active,VAO-16,RI-14,Pending,15/03/2024
+TN-LAND-0278,Madurai,Taluk-D,Village-20,767/4,2,Owner-278,9120906961,3.61,Dry Land,Tank,Alluvial Soil,Agricultural,914452,Under Dispute,VAO-8,RI-29,Approved,30/08/2024
+TN-LAND-0279,Salem,Taluk-D,Village-10,246/3,1,Owner-279,9966223307,8.63,Wet Land,Canal,Alluvial Soil,Residential,1537203,Pending Verification,VAO-42,RI-5,Pending,19/07/2025
+TN-LAND-0280,Erode,Taluk-B,Village-17,756/5,2,Owner-280,9124201954,0.5,Wet Land,Rain-fed,Alluvial Soil,Agricultural,2796474,Active,VAO-49,RI-30,Pending,20/09/2025
+TN-LAND-0281,Trichy,Taluk-B,Village-9,417/2,5,Owner-281,9399519712,5.31,Wet Land,Rain-fed,Sandy Soil,Residential,2188488,Under Dispute,VAO-8,RI-24,Rejected,20/04/2025
+TN-LAND-0282,Salem,Taluk-C,Village-18,410/5,4,Owner-282,9779724994,3.18,Wet Land,River,Sandy Soil,Commercial,2232282,Under Dispute,VAO-17,RI-26,Pending,21/06/2025
+TN-LAND-0283,Coimbatore,Taluk-D,Village-6,204/2,3,Owner-283,9897944074,9.81,Dry Land,Tank,Black Cotton Soil,Agricultural,1233189,Under Dispute,VAO-47,RI-8,Pending,23/02/2024
+TN-LAND-0284,Salem,Taluk-B,Village-3,330/3,1,Owner-284,9299940058,2.9,Wet Land,Canal,Black Cotton Soil,Agricultural,2668576,Active,VAO-9,RI-18,Approved,17/11/2024
+TN-LAND-0285,Trichy,Taluk-A,Village-5,484/3,5,Owner-285,9631310368,9.37,Dry Land,Rain-fed,Sandy Soil,Commercial,623016,Under Dispute,VAO-6,RI-5,Rejected,26/10/2025
+TN-LAND-0286,Salem,Taluk-C,Village-1,451/2,1,Owner-286,9549361062,3.93,Wet Land,Tank,Red Soil,Commercial,2279268,Active,VAO-32,RI-29,Pending,24/02/2024
+TN-LAND-0287,Madurai,Taluk-D,Village-5,293/4,4,Owner-287,9974576410,5,Dry Land,River,Sandy Soil,Agricultural,1224564,Active,VAO-4,RI-19,Pending,10/2/2024
+TN-LAND-0288,Erode,Taluk-B,Village-17,928/3,1,Owner-288,9417887855,8.75,Dry Land,Canal,Black Cotton Soil,Agricultural,2402604,Pending Verification,VAO-28,RI-26,Pending,15/03/2025
+TN-LAND-0289,Coimbatore,Taluk-D,Village-2,158/4,5,Owner-289,9553346731,8.61,Dry Land,Canal,Alluvial Soil,Agricultural,1850333,Pending Verification,VAO-3,RI-12,Approved,26/09/2024
+TN-LAND-0290,Trichy,Taluk-A,Village-2,929/2,2,Owner-290,9422204331,3,Wet Land,River,Red Soil,Agricultural,1585268,Pending Verification,VAO-31,RI-15,Approved,22/06/2025
+TN-LAND-0291,Coimbatore,Taluk-C,Village-9,445/5,1,Owner-291,9316047131,8.14,Wet Land,Borewell,Red Soil,Commercial,1924893,Under Dispute,VAO-48,RI-7,Pending,10/1/2025
+TN-LAND-0292,Salem,Taluk-C,Village-20,935/1,4,Owner-292,9111228711,9.3,Wet Land,River,Red Soil,Residential,2756014,Pending Verification,VAO-31,RI-1,Pending,4/9/2024
+TN-LAND-0293,Salem,Taluk-A,Village-11,252/1,1,Owner-293,9571446608,2.53,Dry Land,Rain-fed,Red Soil,Commercial,729704,Active,VAO-50,RI-14,Pending,9/8/2024
+TN-LAND-0294,Coimbatore,Taluk-D,Village-4,501/5,3,Owner-294,9173704084,3.32,Dry Land,Canal,Red Soil,Commercial,410631,Pending Verification,VAO-39,RI-3,Rejected,21/08/2025
+TN-LAND-0295,Salem,Taluk-A,Village-19,234/3,5,Owner-295,9362193614,0.75,Wet Land,Borewell,Black Cotton Soil,Residential,2090792,Pending Verification,VAO-33,RI-10,Rejected,27/04/2025
+TN-LAND-0296,Trichy,Taluk-C,Village-10,698/5,5,Owner-296,9545871125,6.47,Wet Land,Canal,Black Cotton Soil,Residential,2130458,Active,VAO-29,RI-5,Approved,22/01/2024
+TN-LAND-0297,Trichy,Taluk-A,Village-5,824/3,1,Owner-297,9577923961,3.69,Wet Land,Rain-fed,Alluvial Soil,Commercial,1180484,Under Dispute,VAO-45,RI-4,Rejected,4/10/2025
+TN-LAND-0298,Trichy,Taluk-B,Village-11,713/5,4,Owner-298,9379075786,8.84,Dry Land,River,Red Soil,Residential,337738,Pending Verification,VAO-34,RI-10,Approved,27/06/2025
+TN-LAND-0299,Salem,Taluk-D,Village-12,406/2,4,Owner-299,9648107576,8.88,Dry Land,River,Black Cotton Soil,Agricultural,652880,Active,VAO-30,RI-13,Approved,19/01/2024
+TN-LAND-0300,Trichy,Taluk-D,Village-6,577/1,1,Owner-300,9720179741,7.73,Wet Land,River,Sandy Soil,Residential,645039,Under Dispute,VAO-32,RI-3,Pending,19/11/2024
+TN-LAND-0301,Erode,Taluk-B,Village-20,870/1,5,Owner-301,9471001192,3.06,Wet Land,Canal,Alluvial Soil,Commercial,2896721,Active,VAO-2,RI-4,Approved,30/08/2024
+TN-LAND-0302,Trichy,Taluk-A,Village-13,415/3,1,Owner-302,9845356496,8.08,Wet Land,Tank,Sandy Soil,Residential,1108772,Under Dispute,VAO-29,RI-14,Approved,25/03/2024
+TN-LAND-0303,Trichy,Taluk-D,Village-3,961/4,4,Owner-303,9105798489,0.69,Wet Land,Rain-fed,Sandy Soil,Agricultural,1238627,Pending Verification,VAO-29,RI-19,Rejected,18/12/2024
+TN-LAND-0304,Coimbatore,Taluk-C,Village-17,724/3,1,Owner-304,9265300749,5.12,Wet Land,River,Black Cotton Soil,Agricultural,1097007,Under Dispute,VAO-40,RI-18,Approved,2/8/2024
+TN-LAND-0305,Salem,Taluk-A,Village-12,844/3,3,Owner-305,9500692632,6.23,Wet Land,Rain-fed,Black Cotton Soil,Residential,2927064,Active,VAO-11,RI-24,Rejected,25/10/2025
+TN-LAND-0306,Trichy,Taluk-C,Village-19,346/1,3,Owner-306,9644799245,1.43,Wet Land,Tank,Black Cotton Soil,Agricultural,1255219,Under Dispute,VAO-14,RI-5,Pending,6/11/2025
+TN-LAND-0307,Trichy,Taluk-D,Village-18,944/2,1,Owner-307,9312625576,2.49,Dry Land,Rain-fed,Alluvial Soil,Agricultural,2363852,Under Dispute,VAO-10,RI-10,Rejected,19/08/2024
+TN-LAND-0308,Madurai,Taluk-D,Village-1,559/1,2,Owner-308,9216702630,9.13,Dry Land,Borewell,Alluvial Soil,Commercial,1265784,Pending Verification,VAO-49,RI-19,Pending,17/10/2025
+TN-LAND-0309,Trichy,Taluk-B,Village-6,399/5,4,Owner-309,9967636662,9.91,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1247773,Pending Verification,VAO-2,RI-9,Pending,12/7/2024
+TN-LAND-0310,Madurai,Taluk-C,Village-5,476/5,5,Owner-310,9573325009,3.22,Wet Land,Canal,Alluvial Soil,Commercial,2444553,Pending Verification,VAO-33,RI-30,Rejected,8/5/2024
+TN-LAND-0311,Erode,Taluk-C,Village-20,535/2,4,Owner-311,9732286262,6,Wet Land,Rain-fed,Red Soil,Commercial,410400,Under Dispute,VAO-34,RI-16,Rejected,22/05/2024
+TN-LAND-0312,Trichy,Taluk-A,Village-2,169/2,2,Owner-312,9295119409,5.53,Wet Land,Rain-fed,Sandy Soil,Agricultural,1036545,Active,VAO-47,RI-10,Pending,30/05/2024
+TN-LAND-0313,Coimbatore,Taluk-A,Village-11,213/1,4,Owner-313,9408603758,5.82,Wet Land,Tank,Red Soil,Residential,1247061,Under Dispute,VAO-10,RI-15,Approved,21/10/2025
+TN-LAND-0314,Coimbatore,Taluk-C,Village-15,354/4,4,Owner-314,9244148940,0.56,Dry Land,Rain-fed,Sandy Soil,Residential,624401,Active,VAO-17,RI-28,Rejected,27/04/2024
+TN-LAND-0315,Erode,Taluk-B,Village-4,518/1,4,Owner-315,9280024883,9.17,Dry Land,Tank,Alluvial Soil,Residential,446954,Under Dispute,VAO-45,RI-25,Rejected,1/4/2025
+TN-LAND-0316,Trichy,Taluk-C,Village-2,436/1,5,Owner-316,9793204032,1.86,Wet Land,River,Red Soil,Commercial,1141255,Pending Verification,VAO-38,RI-5,Pending,8/8/2025
+TN-LAND-0317,Madurai,Taluk-B,Village-6,506/2,2,Owner-317,9174367359,5.78,Dry Land,Rain-fed,Red Soil,Agricultural,2726135,Active,VAO-50,RI-18,Approved,21/01/2025
+TN-LAND-0318,Coimbatore,Taluk-A,Village-6,956/1,5,Owner-318,9396774359,4.96,Dry Land,Tank,Black Cotton Soil,Commercial,589131,Active,VAO-48,RI-24,Rejected,22/07/2024
+TN-LAND-0319,Trichy,Taluk-D,Village-14,410/5,5,Owner-319,9457973187,5.69,Wet Land,River,Alluvial Soil,Commercial,1934047,Active,VAO-22,RI-11,Rejected,12/1/2024
+TN-LAND-0320,Madurai,Taluk-D,Village-14,644/2,3,Owner-320,9408755002,4.75,Dry Land,Canal,Black Cotton Soil,Commercial,683023,Active,VAO-49,RI-5,Rejected,2/5/2025
+TN-LAND-0321,Coimbatore,Taluk-A,Village-7,526/4,2,Owner-321,9392070072,9.09,Wet Land,River,Sandy Soil,Commercial,1078782,Under Dispute,VAO-32,RI-4,Approved,2/1/2024
+TN-LAND-0322,Salem,Taluk-A,Village-8,245/3,5,Owner-322,9987249107,7.02,Dry Land,Rain-fed,Black Cotton Soil,Commercial,2738419,Active,VAO-4,RI-12,Approved,27/04/2025
+TN-LAND-0323,Erode,Taluk-D,Village-11,373/3,1,Owner-323,9813199810,4.09,Dry Land,Canal,Alluvial Soil,Residential,930516,Under Dispute,VAO-48,RI-19,Rejected,8/9/2025
+TN-LAND-0324,Trichy,Taluk-C,Village-1,460/3,2,Owner-324,9547702295,2.51,Dry Land,Tank,Black Cotton Soil,Commercial,2617819,Active,VAO-26,RI-6,Approved,30/01/2024
+TN-LAND-0325,Coimbatore,Taluk-A,Village-1,740/5,3,Owner-325,9541407384,9.06,Wet Land,Tank,Alluvial Soil,Agricultural,2873174,Pending Verification,VAO-6,RI-2,Pending,13/01/2024
+TN-LAND-0326,Salem,Taluk-B,Village-2,484/4,5,Owner-326,9255759439,1.83,Dry Land,Canal,Sandy Soil,Residential,1424195,Pending Verification,VAO-7,RI-29,Rejected,29/06/2024
+TN-LAND-0327,Madurai,Taluk-C,Village-8,994/2,2,Owner-327,9897799891,9.55,Wet Land,River,Alluvial Soil,Commercial,1881949,Under Dispute,VAO-17,RI-20,Approved,25/11/2025
+TN-LAND-0328,Madurai,Taluk-B,Village-7,220/3,4,Owner-328,9898563099,8.15,Wet Land,Borewell,Sandy Soil,Residential,599273,Active,VAO-35,RI-14,Pending,8/1/2025
+TN-LAND-0329,Salem,Taluk-A,Village-8,405/2,2,Owner-329,9149746594,1.37,Dry Land,Rain-fed,Alluvial Soil,Agricultural,2587161,Under Dispute,VAO-3,RI-14,Approved,29/06/2024
+TN-LAND-0330,Madurai,Taluk-C,Village-10,911/4,3,Owner-330,9223414057,9.95,Wet Land,Rain-fed,Alluvial Soil,Commercial,485369,Under Dispute,VAO-15,RI-15,Pending,8/7/2024
+TN-LAND-0331,Erode,Taluk-C,Village-20,267/5,4,Owner-331,9603684584,1.3,Wet Land,Tank,Black Cotton Soil,Agricultural,2906011,Under Dispute,VAO-3,RI-11,Pending,24/09/2025
+TN-LAND-0332,Trichy,Taluk-B,Village-9,255/2,4,Owner-332,9661044289,8.63,Dry Land,Canal,Alluvial Soil,Commercial,1168775,Active,VAO-47,RI-20,Approved,15/04/2025
+TN-LAND-0333,Madurai,Taluk-D,Village-11,533/5,1,Owner-333,9659790503,4.74,Dry Land,Borewell,Sandy Soil,Commercial,1171884,Pending Verification,VAO-34,RI-22,Approved,26/07/2025
+TN-LAND-0334,Trichy,Taluk-B,Village-17,521/4,3,Owner-334,9447495117,7.5,Wet Land,Borewell,Red Soil,Residential,814859,Under Dispute,VAO-11,RI-4,Rejected,2/1/2025
+TN-LAND-0335,Trichy,Taluk-A,Village-7,611/2,2,Owner-335,9632606864,8.06,Wet Land,Canal,Sandy Soil,Agricultural,2882055,Active,VAO-15,RI-2,Pending,28/09/2024
+TN-LAND-0336,Salem,Taluk-B,Village-10,725/4,3,Owner-336,9990717785,5.63,Wet Land,Rain-fed,Red Soil,Commercial,1608069,Pending Verification,VAO-7,RI-28,Rejected,14/01/2025
+TN-LAND-0337,Coimbatore,Taluk-C,Village-19,911/1,4,Owner-337,9817523051,3.98,Wet Land,River,Alluvial Soil,Agricultural,599997,Active,VAO-47,RI-6,Approved,22/01/2025
+TN-LAND-0338,Salem,Taluk-B,Village-6,545/5,3,Owner-338,9206697325,1.55,Wet Land,River,Black Cotton Soil,Agricultural,1273574,Pending Verification,VAO-9,RI-6,Rejected,12/7/2024
+TN-LAND-0339,Madurai,Taluk-A,Village-1,222/2,1,Owner-339,9954000978,5.78,Dry Land,Canal,Red Soil,Commercial,2346292,Under Dispute,VAO-43,RI-22,Rejected,20/02/2025
+TN-LAND-0340,Salem,Taluk-B,Village-12,814/5,2,Owner-340,9218951236,0.7,Wet Land,River,Black Cotton Soil,Residential,1902945,Pending Verification,VAO-33,RI-14,Approved,26/09/2025
+TN-LAND-0341,Erode,Taluk-D,Village-9,576/3,2,Owner-341,9107785224,5.75,Wet Land,Tank,Black Cotton Soil,Agricultural,2276571,Under Dispute,VAO-21,RI-23,Rejected,30/04/2025
+TN-LAND-0342,Salem,Taluk-C,Village-8,767/4,3,Owner-342,9129159244,5.3,Wet Land,Rain-fed,Black Cotton Soil,Residential,618803,Under Dispute,VAO-42,RI-24,Pending,28/12/2024
+TN-LAND-0343,Coimbatore,Taluk-B,Village-3,159/1,3,Owner-343,9656621656,7.72,Dry Land,Canal,Red Soil,Residential,2867645,Active,VAO-20,RI-16,Approved,27/11/2025
+TN-LAND-0344,Trichy,Taluk-B,Village-11,241/2,4,Owner-344,9209371201,7.78,Wet Land,Canal,Black Cotton Soil,Commercial,2145662,Under Dispute,VAO-49,RI-10,Approved,20/03/2025
+TN-LAND-0345,Erode,Taluk-C,Village-2,833/3,1,Owner-345,9119740719,3.96,Wet Land,Borewell,Red Soil,Commercial,2834764,Pending Verification,VAO-17,RI-16,Rejected,5/11/2024
+TN-LAND-0346,Salem,Taluk-C,Village-19,351/4,3,Owner-346,9169276778,1.12,Wet Land,Borewell,Red Soil,Agricultural,319216,Under Dispute,VAO-44,RI-12,Rejected,1/6/2024
+TN-LAND-0347,Madurai,Taluk-A,Village-11,278/3,5,Owner-347,9886849156,2.55,Wet Land,Rain-fed,Red Soil,Agricultural,930307,Pending Verification,VAO-15,RI-12,Approved,3/8/2025
+TN-LAND-0348,Salem,Taluk-A,Village-19,263/1,4,Owner-348,9582524106,1.59,Wet Land,Rain-fed,Red Soil,Agricultural,2559354,Active,VAO-32,RI-6,Rejected,18/03/2025
+TN-LAND-0349,Coimbatore,Taluk-C,Village-10,471/5,2,Owner-349,9229782891,8.09,Wet Land,Borewell,Black Cotton Soil,Residential,1916572,Under Dispute,VAO-10,RI-10,Pending,18/11/2025
+TN-LAND-0350,Trichy,Taluk-D,Village-12,768/5,2,Owner-350,9614530925,8.14,Dry Land,Tank,Sandy Soil,Agricultural,2080815,Active,VAO-38,RI-8,Pending,31/01/2025
+TN-LAND-0351,Madurai,Taluk-B,Village-9,904/5,4,Owner-351,9656880511,8.72,Wet Land,River,Black Cotton Soil,Residential,464475,Pending Verification,VAO-35,RI-10,Pending,19/02/2024
+TN-LAND-0352,Madurai,Taluk-D,Village-15,696/3,3,Owner-352,9755192307,2.91,Dry Land,Tank,Black Cotton Soil,Agricultural,2832702,Pending Verification,VAO-8,RI-7,Approved,24/10/2025
+TN-LAND-0353,Erode,Taluk-C,Village-6,399/1,4,Owner-353,9707748820,6.87,Dry Land,Canal,Alluvial Soil,Commercial,1896678,Under Dispute,VAO-38,RI-6,Pending,6/2/2024
+TN-LAND-0354,Coimbatore,Taluk-D,Village-5,539/2,3,Owner-354,9606572663,6.48,Dry Land,Canal,Red Soil,Commercial,1901184,Under Dispute,VAO-22,RI-20,Rejected,27/09/2024
+TN-LAND-0355,Coimbatore,Taluk-D,Village-14,963/1,4,Owner-355,9929667180,9.04,Dry Land,River,Sandy Soil,Commercial,2412373,Under Dispute,VAO-28,RI-2,Approved,7/11/2024
+TN-LAND-0356,Salem,Taluk-C,Village-19,803/3,2,Owner-356,9734941169,2.41,Wet Land,Rain-fed,Black Cotton Soil,Commercial,2804262,Pending Verification,VAO-32,RI-15,Rejected,29/11/2025
+TN-LAND-0357,Salem,Taluk-A,Village-19,988/3,3,Owner-357,9304262089,5.47,Wet Land,Tank,Sandy Soil,Commercial,1319351,Under Dispute,VAO-19,RI-10,Approved,23/07/2025
+TN-LAND-0358,Madurai,Taluk-C,Village-4,437/2,3,Owner-358,9582980067,2.76,Dry Land,River,Red Soil,Agricultural,891897,Pending Verification,VAO-7,RI-14,Approved,18/11/2025
+TN-LAND-0359,Erode,Taluk-C,Village-12,105/4,4,Owner-359,9672852020,7.59,Wet Land,Tank,Alluvial Soil,Commercial,1331452,Pending Verification,VAO-49,RI-29,Pending,22/11/2025
+TN-LAND-0360,Trichy,Taluk-D,Village-3,166/4,5,Owner-360,9978808672,4.88,Dry Land,River,Sandy Soil,Agricultural,1382124,Active,VAO-22,RI-12,Pending,14/06/2025
+TN-LAND-0361,Erode,Taluk-B,Village-3,984/1,2,Owner-361,9111732126,3,Wet Land,River,Sandy Soil,Commercial,2751274,Pending Verification,VAO-40,RI-1,Pending,25/02/2024
+TN-LAND-0362,Trichy,Taluk-D,Village-2,950/4,2,Owner-362,9692525364,9.84,Wet Land,Rain-fed,Sandy Soil,Residential,2825840,Pending Verification,VAO-21,RI-1,Approved,8/1/2024
+TN-LAND-0363,Coimbatore,Taluk-C,Village-16,377/5,4,Owner-363,9662894357,4.39,Dry Land,Tank,Red Soil,Commercial,1943504,Active,VAO-11,RI-30,Rejected,14/05/2025
+TN-LAND-0364,Salem,Taluk-A,Village-19,739/5,4,Owner-364,9422113395,3.46,Wet Land,Borewell,Alluvial Soil,Agricultural,1905972,Pending Verification,VAO-8,RI-14,Rejected,22/11/2025
+TN-LAND-0365,Madurai,Taluk-B,Village-4,983/1,4,Owner-365,9241673303,4.61,Wet Land,Rain-fed,Black Cotton Soil,Commercial,2732948,Under Dispute,VAO-8,RI-13,Approved,30/03/2024
+TN-LAND-0366,Madurai,Taluk-A,Village-11,421/5,2,Owner-366,9229487719,7.63,Wet Land,Tank,Red Soil,Commercial,1498580,Active,VAO-16,RI-8,Approved,13/10/2024
+TN-LAND-0367,Madurai,Taluk-D,Village-3,212/1,5,Owner-367,9742699091,5.62,Wet Land,Canal,Alluvial Soil,Agricultural,409839,Active,VAO-47,RI-30,Pending,3/12/2024
+TN-LAND-0368,Trichy,Taluk-C,Village-20,673/4,3,Owner-368,9145171686,8.57,Wet Land,Canal,Black Cotton Soil,Agricultural,1960581,Pending Verification,VAO-2,RI-8,Pending,29/02/2024
+TN-LAND-0369,Erode,Taluk-D,Village-19,397/2,1,Owner-369,9904998037,6.49,Dry Land,River,Sandy Soil,Commercial,2967973,Active,VAO-32,RI-28,Approved,4/5/2024
+TN-LAND-0370,Trichy,Taluk-C,Village-19,183/3,2,Owner-370,9262786687,1.79,Wet Land,River,Black Cotton Soil,Commercial,2577864,Pending Verification,VAO-3,RI-12,Pending,9/3/2024
+TN-LAND-0371,Madurai,Taluk-A,Village-20,462/3,3,Owner-371,9446601340,5.71,Dry Land,Tank,Red Soil,Residential,1725923,Under Dispute,VAO-17,RI-30,Approved,26/10/2024
+TN-LAND-0372,Erode,Taluk-B,Village-18,639/4,1,Owner-372,9526838914,6.26,Wet Land,Tank,Red Soil,Residential,702507,Under Dispute,VAO-31,RI-25,Approved,27/07/2025
+TN-LAND-0373,Madurai,Taluk-B,Village-1,489/5,2,Owner-373,9110835087,2.14,Dry Land,Canal,Sandy Soil,Commercial,2387991,Under Dispute,VAO-8,RI-22,Pending,30/05/2024
+TN-LAND-0374,Erode,Taluk-B,Village-5,652/2,3,Owner-374,9670854741,2.86,Wet Land,River,Alluvial Soil,Residential,1655819,Pending Verification,VAO-1,RI-21,Rejected,8/8/2025
+TN-LAND-0375,Trichy,Taluk-B,Village-20,898/5,4,Owner-375,9650744147,5.24,Wet Land,Canal,Red Soil,Residential,2177660,Active,VAO-40,RI-20,Rejected,8/6/2024
+TN-LAND-0376,Madurai,Taluk-C,Village-9,810/5,4,Owner-376,9333443132,9.8,Dry Land,Tank,Black Cotton Soil,Residential,1609738,Pending Verification,VAO-17,RI-9,Rejected,27/01/2025
+TN-LAND-0377,Trichy,Taluk-C,Village-14,298/2,5,Owner-377,9236927194,7.82,Dry Land,River,Red Soil,Residential,1818288,Under Dispute,VAO-15,RI-19,Rejected,13/12/2024
+TN-LAND-0378,Madurai,Taluk-D,Village-13,355/4,1,Owner-378,9900487979,2.34,Wet Land,Borewell,Sandy Soil,Agricultural,2587777,Active,VAO-49,RI-21,Rejected,11/10/2024
+TN-LAND-0379,Madurai,Taluk-B,Village-20,754/5,5,Owner-379,9889529236,1.72,Dry Land,Borewell,Sandy Soil,Residential,2342667,Under Dispute,VAO-19,RI-2,Pending,26/09/2024
+TN-LAND-0380,Madurai,Taluk-C,Village-13,925/1,2,Owner-380,9681102126,3.29,Dry Land,Tank,Black Cotton Soil,Commercial,982065,Under Dispute,VAO-37,RI-22,Rejected,30/01/2024
+TN-LAND-0381,Trichy,Taluk-C,Village-1,729/4,1,Owner-381,9221390581,2.29,Wet Land,Rain-fed,Red Soil,Commercial,356961,Under Dispute,VAO-39,RI-15,Pending,10/1/2025
+TN-LAND-0382,Salem,Taluk-C,Village-16,791/3,1,Owner-382,9867743102,5.75,Dry Land,Rain-fed,Red Soil,Commercial,2524208,Active,VAO-25,RI-10,Approved,21/08/2024
+TN-LAND-0383,Salem,Taluk-D,Village-2,829/5,1,Owner-383,9757208683,8.31,Wet Land,Borewell,Sandy Soil,Residential,776939,Active,VAO-22,RI-2,Approved,6/7/2025
+TN-LAND-0384,Erode,Taluk-B,Village-12,584/5,1,Owner-384,9978337174,8.01,Wet Land,River,Alluvial Soil,Commercial,2313237,Under Dispute,VAO-45,RI-24,Pending,25/04/2024
+TN-LAND-0385,Salem,Taluk-D,Village-14,294/1,5,Owner-385,9339681753,6.59,Wet Land,Borewell,Alluvial Soil,Residential,2450560,Active,VAO-47,RI-23,Approved,4/8/2024
+TN-LAND-0386,Erode,Taluk-A,Village-2,333/4,1,Owner-386,9507111247,8.31,Wet Land,Rain-fed,Alluvial Soil,Commercial,716602,Under Dispute,VAO-6,RI-7,Pending,31/10/2025
+TN-LAND-0387,Salem,Taluk-C,Village-13,468/1,2,Owner-387,9639175983,0.8,Dry Land,Rain-fed,Sandy Soil,Commercial,2272001,Under Dispute,VAO-35,RI-22,Rejected,3/4/2024
+TN-LAND-0388,Coimbatore,Taluk-C,Village-5,398/2,5,Owner-388,9642262035,6.08,Wet Land,Borewell,Alluvial Soil,Agricultural,1629130,Active,VAO-20,RI-8,Pending,2/8/2024
+TN-LAND-0389,Salem,Taluk-A,Village-17,591/4,2,Owner-389,9392128874,2.94,Wet Land,Tank,Sandy Soil,Commercial,1590979,Pending Verification,VAO-29,RI-19,Approved,26/06/2024
+TN-LAND-0390,Erode,Taluk-D,Village-15,409/3,3,Owner-390,9572825762,8.18,Dry Land,Canal,Sandy Soil,Commercial,1137319,Under Dispute,VAO-48,RI-25,Rejected,29/01/2024
+TN-LAND-0391,Salem,Taluk-A,Village-8,968/1,5,Owner-391,9365630172,5.06,Dry Land,Borewell,Alluvial Soil,Residential,1593545,Pending Verification,VAO-50,RI-12,Pending,28/12/2024
+TN-LAND-0392,Salem,Taluk-D,Village-20,842/5,3,Owner-392,9747145676,4.94,Wet Land,Borewell,Black Cotton Soil,Commercial,630153,Pending Verification,VAO-38,RI-15,Pending,19/02/2025
+TN-LAND-0393,Trichy,Taluk-D,Village-7,726/4,1,Owner-393,9957063821,7.24,Wet Land,Borewell,Sandy Soil,Residential,1866539,Under Dispute,VAO-10,RI-10,Pending,15/01/2024
+TN-LAND-0394,Salem,Taluk-A,Village-11,390/1,1,Owner-394,9807307296,1.86,Dry Land,River,Sandy Soil,Residential,1645757,Under Dispute,VAO-43,RI-11,Pending,10/9/2024
+TN-LAND-0395,Salem,Taluk-A,Village-10,909/4,3,Owner-395,9817581510,2.74,Wet Land,Tank,Black Cotton Soil,Residential,2373275,Pending Verification,VAO-3,RI-8,Rejected,27/05/2025
+TN-LAND-0396,Erode,Taluk-C,Village-1,605/1,2,Owner-396,9674696538,7.46,Wet Land,Rain-fed,Alluvial Soil,Residential,2358406,Under Dispute,VAO-32,RI-16,Approved,9/7/2025
+TN-LAND-0397,Trichy,Taluk-A,Village-11,828/2,2,Owner-397,9300034376,5.82,Dry Land,River,Alluvial Soil,Residential,1950566,Under Dispute,VAO-6,RI-13,Approved,18/01/2024
+TN-LAND-0398,Erode,Taluk-C,Village-9,176/4,4,Owner-398,9122198756,4.27,Wet Land,Rain-fed,Red Soil,Agricultural,1233202,Pending Verification,VAO-37,RI-13,Rejected,1/4/2024
+TN-LAND-0399,Coimbatore,Taluk-D,Village-17,309/5,2,Owner-399,9573446554,4.04,Dry Land,Canal,Black Cotton Soil,Residential,2801561,Pending Verification,VAO-49,RI-4,Rejected,19/11/2024
+TN-LAND-0400,Erode,Taluk-A,Village-19,501/5,3,Owner-400,9205866493,8.38,Wet Land,Rain-fed,Black Cotton Soil,Residential,2262812,Active,VAO-13,RI-7,Pending,8/11/2025
+TN-LAND-0401,Salem,Taluk-A,Village-6,374/2,2,Owner-401,9259162029,9.59,Wet Land,Rain-fed,Red Soil,Residential,1471609,Active,VAO-29,RI-27,Approved,29/10/2025
+TN-LAND-0402,Coimbatore,Taluk-A,Village-2,501/2,1,Owner-402,9557977171,7.21,Dry Land,Borewell,Alluvial Soil,Agricultural,1928555,Active,VAO-6,RI-7,Pending,19/03/2024
+TN-LAND-0403,Salem,Taluk-A,Village-15,424/4,5,Owner-403,9709130715,7.14,Wet Land,Borewell,Red Soil,Residential,2585057,Pending Verification,VAO-18,RI-13,Approved,14/01/2025
+TN-LAND-0404,Erode,Taluk-D,Village-4,742/4,3,Owner-404,9934323685,3.74,Wet Land,Borewell,Black Cotton Soil,Commercial,2410393,Active,VAO-1,RI-2,Pending,8/4/2025
+TN-LAND-0405,Coimbatore,Taluk-D,Village-15,917/3,3,Owner-405,9725966302,7.14,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,1300220,Active,VAO-36,RI-28,Rejected,15/02/2024
+TN-LAND-0406,Madurai,Taluk-A,Village-12,818/5,3,Owner-406,9613860035,3.6,Dry Land,Canal,Sandy Soil,Commercial,2051408,Pending Verification,VAO-48,RI-30,Rejected,12/11/2024
+TN-LAND-0407,Coimbatore,Taluk-B,Village-3,655/1,2,Owner-407,9720931653,3.19,Wet Land,Borewell,Alluvial Soil,Agricultural,960643,Pending Verification,VAO-18,RI-22,Pending,4/9/2024
+TN-LAND-0408,Madurai,Taluk-A,Village-16,220/4,3,Owner-408,9287300663,9.31,Dry Land,Rain-fed,Black Cotton Soil,Residential,679636,Active,VAO-35,RI-5,Rejected,4/9/2025
+TN-LAND-0409,Madurai,Taluk-C,Village-13,930/2,1,Owner-409,9987718072,2.4,Wet Land,Tank,Red Soil,Commercial,1845963,Under Dispute,VAO-29,RI-5,Approved,5/6/2025
+TN-LAND-0410,Salem,Taluk-B,Village-20,406/5,4,Owner-410,9775965820,6.97,Wet Land,River,Red Soil,Agricultural,715834,Under Dispute,VAO-8,RI-4,Rejected,22/01/2024
+TN-LAND-0411,Erode,Taluk-D,Village-11,782/5,4,Owner-411,9942274430,3.57,Dry Land,River,Alluvial Soil,Commercial,1475453,Pending Verification,VAO-37,RI-26,Pending,15/02/2024
+TN-LAND-0412,Madurai,Taluk-A,Village-11,320/3,3,Owner-412,9241701001,3.12,Wet Land,River,Alluvial Soil,Residential,1125294,Active,VAO-31,RI-14,Approved,27/05/2024
+TN-LAND-0413,Madurai,Taluk-A,Village-20,124/1,5,Owner-413,9574463779,3.74,Wet Land,River,Red Soil,Agricultural,842642,Active,VAO-8,RI-20,Approved,21/11/2025
+TN-LAND-0414,Erode,Taluk-B,Village-15,960/3,1,Owner-414,9529503702,1.53,Wet Land,Canal,Red Soil,Agricultural,333120,Under Dispute,VAO-22,RI-29,Approved,31/07/2025
+TN-LAND-0415,Madurai,Taluk-B,Village-8,311/4,2,Owner-415,9721523872,3.46,Dry Land,River,Black Cotton Soil,Agricultural,2177021,Under Dispute,VAO-17,RI-27,Rejected,8/6/2025
+TN-LAND-0416,Salem,Taluk-C,Village-13,975/5,4,Owner-416,9782154211,2.91,Dry Land,Canal,Red Soil,Agricultural,1228072,Pending Verification,VAO-47,RI-16,Rejected,20/09/2025
+TN-LAND-0417,Madurai,Taluk-D,Village-8,533/5,3,Owner-417,9758241552,7.51,Dry Land,Canal,Sandy Soil,Commercial,1261814,Active,VAO-14,RI-1,Rejected,23/05/2024
+TN-LAND-0418,Erode,Taluk-B,Village-9,482/1,1,Owner-418,9748727682,6.35,Wet Land,Canal,Black Cotton Soil,Commercial,1297463,Pending Verification,VAO-7,RI-10,Approved,19/06/2025
+TN-LAND-0419,Salem,Taluk-B,Village-9,752/1,3,Owner-419,9794386314,7.96,Wet Land,Borewell,Red Soil,Residential,2768846,Under Dispute,VAO-23,RI-11,Approved,9/2/2024
+TN-LAND-0420,Coimbatore,Taluk-C,Village-4,189/2,4,Owner-420,9717316868,1.14,Wet Land,Tank,Red Soil,Residential,1334755,Pending Verification,VAO-25,RI-2,Pending,21/07/2025
+TN-LAND-0421,Trichy,Taluk-B,Village-16,385/5,3,Owner-421,9102089589,5.51,Wet Land,Canal,Sandy Soil,Agricultural,1299631,Active,VAO-15,RI-13,Approved,29/06/2024
+TN-LAND-0422,Salem,Taluk-A,Village-15,355/2,4,Owner-422,9809256697,3.39,Wet Land,Rain-fed,Sandy Soil,Commercial,2235853,Pending Verification,VAO-24,RI-23,Pending,13/09/2025
+TN-LAND-0423,Madurai,Taluk-B,Village-11,725/1,1,Owner-423,9325350506,4.95,Wet Land,Canal,Red Soil,Commercial,1401776,Active,VAO-2,RI-15,Approved,9/4/2024
+TN-LAND-0424,Erode,Taluk-D,Village-5,613/2,1,Owner-424,9783182821,9.09,Dry Land,Rain-fed,Sandy Soil,Commercial,842800,Active,VAO-14,RI-8,Pending,18/08/2024
+TN-LAND-0425,Salem,Taluk-C,Village-16,839/5,4,Owner-425,9775467947,8.97,Dry Land,Canal,Sandy Soil,Residential,803007,Under Dispute,VAO-30,RI-24,Pending,14/07/2025
+TN-LAND-0426,Erode,Taluk-A,Village-6,516/2,4,Owner-426,9326193977,7.82,Dry Land,Borewell,Black Cotton Soil,Residential,2244085,Active,VAO-46,RI-5,Approved,7/7/2024
+TN-LAND-0427,Erode,Taluk-D,Village-1,677/4,3,Owner-427,9379828637,1.93,Wet Land,River,Red Soil,Agricultural,2147857,Pending Verification,VAO-41,RI-21,Rejected,24/03/2024
+TN-LAND-0428,Erode,Taluk-C,Village-15,367/2,5,Owner-428,9777422757,1.7,Dry Land,Canal,Alluvial Soil,Residential,2156444,Under Dispute,VAO-26,RI-30,Pending,22/09/2024
+TN-LAND-0429,Salem,Taluk-A,Village-19,133/1,3,Owner-429,9167516143,9.46,Wet Land,Borewell,Black Cotton Soil,Agricultural,529519,Under Dispute,VAO-29,RI-30,Rejected,2/3/2025
+TN-LAND-0430,Madurai,Taluk-C,Village-16,155/5,1,Owner-430,9453335729,9.06,Wet Land,Rain-fed,Alluvial Soil,Commercial,1333264,Under Dispute,VAO-8,RI-14,Pending,22/03/2025
+TN-LAND-0431,Erode,Taluk-C,Village-14,299/3,5,Owner-431,9455587214,2.85,Dry Land,Rain-fed,Alluvial Soil,Commercial,2871697,Under Dispute,VAO-10,RI-15,Approved,4/2/2025
+TN-LAND-0432,Coimbatore,Taluk-B,Village-14,278/3,3,Owner-432,9620947337,6.31,Dry Land,Tank,Sandy Soil,Residential,2971279,Pending Verification,VAO-17,RI-27,Approved,19/07/2024
+TN-LAND-0433,Trichy,Taluk-B,Village-14,988/4,4,Owner-433,9418914766,9.89,Wet Land,Borewell,Sandy Soil,Agricultural,2690479,Pending Verification,VAO-4,RI-2,Rejected,21/03/2025
+TN-LAND-0434,Madurai,Taluk-D,Village-1,285/1,5,Owner-434,9292368293,5.59,Wet Land,Canal,Red Soil,Agricultural,2679022,Pending Verification,VAO-6,RI-5,Rejected,6/2/2024
+TN-LAND-0435,Madurai,Taluk-B,Village-20,319/1,2,Owner-435,9288863798,9.55,Dry Land,Borewell,Red Soil,Residential,585887,Active,VAO-30,RI-15,Rejected,12/11/2025
+TN-LAND-0436,Coimbatore,Taluk-B,Village-8,469/2,2,Owner-436,9339989821,1.53,Wet Land,Tank,Red Soil,Residential,1723322,Pending Verification,VAO-19,RI-17,Approved,26/09/2024
+TN-LAND-0437,Coimbatore,Taluk-D,Village-7,664/4,2,Owner-437,9157526034,7.96,Dry Land,Canal,Red Soil,Commercial,949083,Under Dispute,VAO-40,RI-20,Rejected,29/09/2025
+TN-LAND-0438,Salem,Taluk-D,Village-14,523/3,1,Owner-438,9446571894,4.04,Wet Land,Borewell,Black Cotton Soil,Agricultural,968004,Pending Verification,VAO-41,RI-14,Rejected,7/5/2024
+TN-LAND-0439,Trichy,Taluk-A,Village-18,745/2,2,Owner-439,9419710854,2.54,Dry Land,Borewell,Black Cotton Soil,Residential,2555789,Pending Verification,VAO-29,RI-11,Approved,7/12/2024
+TN-LAND-0440,Salem,Taluk-C,Village-7,905/4,4,Owner-440,9420690388,2.96,Wet Land,Tank,Red Soil,Commercial,2511984,Under Dispute,VAO-8,RI-6,Pending,28/07/2024
+TN-LAND-0441,Erode,Taluk-A,Village-12,127/3,4,Owner-441,9774919579,4.11,Dry Land,River,Black Cotton Soil,Agricultural,1912309,Under Dispute,VAO-19,RI-19,Pending,9/5/2025
+TN-LAND-0442,Madurai,Taluk-D,Village-4,592/2,2,Owner-442,9316686115,8.95,Wet Land,River,Sandy Soil,Agricultural,2964309,Pending Verification,VAO-5,RI-27,Rejected,10/6/2025
+TN-LAND-0443,Coimbatore,Taluk-B,Village-1,684/3,3,Owner-443,9446779000,9.74,Wet Land,River,Sandy Soil,Agricultural,1137566,Active,VAO-30,RI-28,Pending,1/8/2024
+TN-LAND-0444,Salem,Taluk-D,Village-14,439/1,3,Owner-444,9364903565,5.29,Wet Land,Rain-fed,Alluvial Soil,Residential,1016077,Active,VAO-20,RI-30,Pending,5/1/2025
+TN-LAND-0445,Salem,Taluk-B,Village-11,636/4,3,Owner-445,9191297648,9.27,Wet Land,Rain-fed,Sandy Soil,Residential,1092505,Under Dispute,VAO-39,RI-1,Pending,17/03/2024
+TN-LAND-0446,Salem,Taluk-C,Village-16,130/1,5,Owner-446,9466117132,7.35,Wet Land,Tank,Black Cotton Soil,Residential,1888312,Active,VAO-25,RI-24,Pending,20/12/2024
+TN-LAND-0447,Trichy,Taluk-A,Village-6,908/3,5,Owner-447,9803608296,5.18,Wet Land,Borewell,Alluvial Soil,Agricultural,2487318,Active,VAO-43,RI-3,Pending,28/09/2025
+TN-LAND-0448,Trichy,Taluk-A,Village-20,763/5,1,Owner-448,9301944695,6.08,Dry Land,Tank,Alluvial Soil,Agricultural,2816108,Active,VAO-41,RI-29,Pending,29/07/2024
+TN-LAND-0449,Coimbatore,Taluk-D,Village-8,663/2,3,Owner-449,9293135993,9.21,Wet Land,Rain-fed,Red Soil,Residential,2798874,Under Dispute,VAO-33,RI-20,Pending,3/7/2024
+TN-LAND-0450,Coimbatore,Taluk-B,Village-18,418/4,5,Owner-450,9729138896,2.52,Dry Land,Borewell,Black Cotton Soil,Agricultural,2617441,Active,VAO-16,RI-8,Approved,5/5/2024
+TN-LAND-0451,Salem,Taluk-A,Village-4,841/3,2,Owner-451,9907789608,7.68,Dry Land,Canal,Red Soil,Residential,1193247,Pending Verification,VAO-10,RI-6,Rejected,31/03/2025
+TN-LAND-0452,Madurai,Taluk-A,Village-4,886/3,2,Owner-452,9246782416,7.39,Dry Land,Rain-fed,Sandy Soil,Residential,2618800,Active,VAO-21,RI-20,Pending,21/11/2025
+TN-LAND-0453,Erode,Taluk-D,Village-17,991/1,1,Owner-453,9236920550,5.31,Dry Land,Rain-fed,Sandy Soil,Residential,1021594,Pending Verification,VAO-12,RI-27,Pending,22/01/2025
+TN-LAND-0454,Madurai,Taluk-D,Village-11,452/5,5,Owner-454,9576819633,1.96,Wet Land,Borewell,Black Cotton Soil,Agricultural,1975354,Pending Verification,VAO-7,RI-14,Pending,10/3/2024
+TN-LAND-0455,Erode,Taluk-A,Village-7,600/4,3,Owner-455,9777698688,6.91,Wet Land,River,Alluvial Soil,Residential,2850872,Pending Verification,VAO-14,RI-3,Approved,19/09/2024
+TN-LAND-0456,Coimbatore,Taluk-C,Village-19,392/1,4,Owner-456,9909875897,3.32,Wet Land,Rain-fed,Alluvial Soil,Commercial,2651869,Pending Verification,VAO-23,RI-18,Pending,22/07/2025
+TN-LAND-0457,Erode,Taluk-C,Village-15,193/1,3,Owner-457,9659296846,8.58,Dry Land,River,Alluvial Soil,Commercial,2229946,Active,VAO-8,RI-2,Pending,25/07/2025
+TN-LAND-0458,Salem,Taluk-C,Village-16,861/5,1,Owner-458,9540389453,5.85,Dry Land,Canal,Red Soil,Commercial,1505043,Pending Verification,VAO-30,RI-28,Pending,13/01/2025
+TN-LAND-0459,Salem,Taluk-A,Village-5,565/4,5,Owner-459,9957162044,5.57,Wet Land,River,Sandy Soil,Commercial,1498966,Pending Verification,VAO-16,RI-7,Pending,11/8/2025
+TN-LAND-0460,Madurai,Taluk-D,Village-13,600/2,5,Owner-460,9554592768,2.46,Dry Land,River,Red Soil,Residential,1433341,Under Dispute,VAO-45,RI-6,Approved,11/5/2025
+TN-LAND-0461,Erode,Taluk-C,Village-20,303/3,2,Owner-461,9828124779,6.49,Dry Land,Rain-fed,Red Soil,Residential,1224105,Under Dispute,VAO-25,RI-5,Rejected,4/5/2024
+TN-LAND-0462,Madurai,Taluk-A,Village-10,619/3,4,Owner-462,9979708388,4.58,Dry Land,Borewell,Black Cotton Soil,Residential,1641263,Active,VAO-38,RI-23,Rejected,25/01/2025
+TN-LAND-0463,Salem,Taluk-C,Village-2,709/5,4,Owner-463,9301458067,5.26,Wet Land,Tank,Sandy Soil,Commercial,634998,Pending Verification,VAO-30,RI-10,Approved,20/07/2025
+TN-LAND-0464,Coimbatore,Taluk-A,Village-9,876/2,3,Owner-464,9747846569,9.28,Wet Land,Tank,Black Cotton Soil,Agricultural,723450,Active,VAO-43,RI-9,Pending,9/3/2025
+TN-LAND-0465,Coimbatore,Taluk-B,Village-14,668/1,3,Owner-465,9973466373,3.32,Wet Land,Rain-fed,Black Cotton Soil,Residential,1618660,Active,VAO-37,RI-2,Approved,5/6/2025
+TN-LAND-0466,Madurai,Taluk-C,Village-13,523/5,3,Owner-466,9716407849,5.43,Wet Land,Tank,Alluvial Soil,Residential,1807179,Pending Verification,VAO-38,RI-14,Rejected,22/04/2024
+TN-LAND-0467,Madurai,Taluk-B,Village-15,296/4,4,Owner-467,9220752862,6.77,Dry Land,River,Red Soil,Residential,2350011,Pending Verification,VAO-42,RI-6,Approved,2/12/2024
+TN-LAND-0468,Salem,Taluk-C,Village-11,845/5,3,Owner-468,9151352629,0.59,Wet Land,Borewell,Alluvial Soil,Residential,1022099,Under Dispute,VAO-2,RI-30,Rejected,8/5/2025
+TN-LAND-0469,Erode,Taluk-A,Village-18,879/4,2,Owner-469,9792102538,1.92,Wet Land,River,Red Soil,Residential,770914,Pending Verification,VAO-23,RI-24,Rejected,19/03/2024
+TN-LAND-0470,Salem,Taluk-D,Village-20,985/2,1,Owner-470,9868497340,4.09,Dry Land,Rain-fed,Sandy Soil,Agricultural,2704830,Active,VAO-19,RI-4,Approved,3/10/2024
+TN-LAND-0471,Erode,Taluk-B,Village-18,916/2,5,Owner-471,9848615324,2.57,Dry Land,River,Black Cotton Soil,Residential,1101004,Active,VAO-36,RI-25,Pending,29/10/2024
+TN-LAND-0472,Madurai,Taluk-D,Village-12,791/2,4,Owner-472,9976124996,7.74,Dry Land,River,Red Soil,Agricultural,2406370,Pending Verification,VAO-6,RI-6,Rejected,27/04/2024
+TN-LAND-0473,Coimbatore,Taluk-A,Village-7,413/5,4,Owner-473,9224603620,2.42,Dry Land,River,Sandy Soil,Commercial,1264411,Pending Verification,VAO-43,RI-25,Pending,28/05/2024
+TN-LAND-0474,Coimbatore,Taluk-A,Village-11,190/1,1,Owner-474,9976426092,4,Wet Land,Rain-fed,Red Soil,Residential,2376429,Under Dispute,VAO-30,RI-26,Approved,13/12/2024
+TN-LAND-0475,Coimbatore,Taluk-D,Village-20,500/1,3,Owner-475,9286106288,3.09,Wet Land,River,Alluvial Soil,Residential,1313373,Under Dispute,VAO-5,RI-19,Pending,30/08/2025
+TN-LAND-0476,Salem,Taluk-D,Village-11,283/4,2,Owner-476,9988893365,7.46,Wet Land,River,Red Soil,Agricultural,2570664,Active,VAO-25,RI-22,Rejected,14/03/2025
+TN-LAND-0477,Madurai,Taluk-C,Village-6,578/4,1,Owner-477,9394669789,0.85,Dry Land,Tank,Sandy Soil,Agricultural,876049,Active,VAO-12,RI-10,Rejected,7/8/2025
+TN-LAND-0478,Coimbatore,Taluk-A,Village-10,426/2,2,Owner-478,9253790115,8.14,Wet Land,Canal,Red Soil,Commercial,1137785,Active,VAO-7,RI-30,Approved,7/7/2025
+TN-LAND-0479,Trichy,Taluk-A,Village-4,250/2,3,Owner-479,9483925016,9.74,Dry Land,Canal,Red Soil,Commercial,879966,Active,VAO-15,RI-10,Approved,9/10/2024
+TN-LAND-0480,Erode,Taluk-D,Village-16,979/2,3,Owner-480,9686399458,6.36,Wet Land,Tank,Sandy Soil,Residential,1189060,Active,VAO-25,RI-20,Approved,7/1/2025
+TN-LAND-0481,Madurai,Taluk-D,Village-16,287/4,1,Owner-481,9181060920,8.18,Wet Land,Rain-fed,Red Soil,Residential,768518,Active,VAO-30,RI-17,Rejected,26/11/2024
+TN-LAND-0482,Salem,Taluk-B,Village-18,367/5,4,Owner-482,9550602537,3.06,Dry Land,Canal,Sandy Soil,Residential,1006079,Active,VAO-46,RI-23,Approved,13/09/2025
+TN-LAND-0483,Madurai,Taluk-D,Village-17,437/4,1,Owner-483,9999931165,7.4,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,787001,Active,VAO-30,RI-11,Rejected,17/12/2024
+TN-LAND-0484,Erode,Taluk-D,Village-4,315/5,2,Owner-484,9692524920,3.02,Dry Land,Borewell,Black Cotton Soil,Commercial,1069818,Under Dispute,VAO-27,RI-27,Approved,2/1/2024
+TN-LAND-0485,Erode,Taluk-C,Village-2,593/1,4,Owner-485,9623149260,0.57,Wet Land,Canal,Red Soil,Agricultural,1047679,Under Dispute,VAO-48,RI-3,Approved,7/5/2024
+TN-LAND-0486,Trichy,Taluk-C,Village-10,750/5,2,Owner-486,9536020611,6.35,Wet Land,River,Red Soil,Residential,1318445,Pending Verification,VAO-11,RI-19,Rejected,2/2/2025
+TN-LAND-0487,Salem,Taluk-B,Village-10,424/4,1,Owner-487,9965299970,3.31,Wet Land,Canal,Alluvial Soil,Residential,574408,Under Dispute,VAO-21,RI-5,Approved,3/10/2025
+TN-LAND-0488,Madurai,Taluk-D,Village-4,840/5,2,Owner-488,9226898327,4.2,Dry Land,Rain-fed,Alluvial Soil,Residential,1792295,Under Dispute,VAO-18,RI-19,Rejected,21/09/2024
+TN-LAND-0489,Trichy,Taluk-B,Village-9,945/3,1,Owner-489,9134509590,4.82,Wet Land,River,Alluvial Soil,Commercial,2483525,Under Dispute,VAO-17,RI-17,Approved,10/9/2025
+TN-LAND-0490,Coimbatore,Taluk-C,Village-17,534/3,4,Owner-490,9305979686,1.83,Dry Land,Rain-fed,Red Soil,Agricultural,497654,Active,VAO-15,RI-11,Pending,1/12/2025
+TN-LAND-0491,Trichy,Taluk-B,Village-16,785/4,1,Owner-491,9495191166,6.26,Dry Land,Rain-fed,Red Soil,Commercial,578847,Under Dispute,VAO-11,RI-23,Rejected,25/09/2024
+TN-LAND-0492,Coimbatore,Taluk-A,Village-20,726/2,1,Owner-492,9973978356,3.51,Wet Land,Tank,Black Cotton Soil,Commercial,1401374,Under Dispute,VAO-41,RI-26,Rejected,4/6/2024
+TN-LAND-0493,Erode,Taluk-A,Village-14,856/4,3,Owner-493,9970148153,7.35,Wet Land,Borewell,Red Soil,Commercial,2329029,Active,VAO-6,RI-7,Pending,8/2/2025
+TN-LAND-0494,Erode,Taluk-D,Village-16,865/1,3,Owner-494,9431810899,0.57,Dry Land,Canal,Alluvial Soil,Commercial,2913185,Under Dispute,VAO-26,RI-18,Rejected,27/06/2024
+TN-LAND-0495,Coimbatore,Taluk-B,Village-2,271/4,2,Owner-495,9317267671,1.56,Dry Land,River,Black Cotton Soil,Residential,458023,Under Dispute,VAO-49,RI-18,Rejected,8/10/2025
+TN-LAND-0496,Coimbatore,Taluk-A,Village-16,801/5,3,Owner-496,9164901404,2.04,Wet Land,Borewell,Red Soil,Residential,2621287,Active,VAO-38,RI-25,Approved,29/11/2024
+TN-LAND-0497,Erode,Taluk-A,Village-10,764/1,1,Owner-497,9753741057,2.23,Wet Land,River,Black Cotton Soil,Commercial,1752322,Active,VAO-13,RI-20,Pending,10/5/2025
+TN-LAND-0498,Erode,Taluk-A,Village-7,536/5,4,Owner-498,9514211407,9.62,Dry Land,Rain-fed,Red Soil,Agricultural,2437960,Active,VAO-34,RI-10,Rejected,11/3/2025
+TN-LAND-0499,Madurai,Taluk-A,Village-11,543/4,3,Owner-499,9110639073,3.58,Dry Land,Rain-fed,Red Soil,Residential,2852639,Pending Verification,VAO-12,RI-27,Approved,26/01/2024
+TN-LAND-0500,Coimbatore,Taluk-D,Village-9,892/1,2,Owner-500,9230775377,6.14,Dry Land,Tank,Alluvial Soil,Commercial,2440175,Active,VAO-10,RI-4,Approved,4/4/2024
+TN-LAND-0501,Trichy,Taluk-C,Village-2,685/4,3,Owner-501,9853049481,4.5,Wet Land,Rain-fed,Black Cotton Soil,Commercial,2991041,Pending Verification,VAO-40,RI-2,Pending,5/9/2025
+TN-LAND-0502,Coimbatore,Taluk-D,Village-6,291/3,4,Owner-502,9612133097,8.83,Dry Land,Canal,Sandy Soil,Commercial,1252283,Active,VAO-21,RI-27,Approved,28/06/2024
+TN-LAND-0503,Trichy,Taluk-B,Village-13,579/3,1,Owner-503,9763461938,9.08,Wet Land,Canal,Black Cotton Soil,Commercial,388595,Under Dispute,VAO-16,RI-30,Rejected,11/11/2024
+TN-LAND-0504,Coimbatore,Taluk-D,Village-5,634/5,3,Owner-504,9666186226,4.56,Dry Land,River,Sandy Soil,Commercial,331519,Pending Verification,VAO-16,RI-19,Pending,1/2/2024
+TN-LAND-0505,Trichy,Taluk-B,Village-10,269/3,1,Owner-505,9330355275,3.82,Wet Land,Borewell,Sandy Soil,Commercial,335635,Active,VAO-45,RI-10,Rejected,16/10/2024
+TN-LAND-0506,Salem,Taluk-A,Village-3,728/5,5,Owner-506,9655911068,6.67,Dry Land,Canal,Red Soil,Agricultural,922753,Active,VAO-13,RI-16,Pending,17/09/2025
+TN-LAND-0507,Salem,Taluk-A,Village-20,524/5,2,Owner-507,9855393044,9.44,Dry Land,Rain-fed,Red Soil,Commercial,2312360,Pending Verification,VAO-37,RI-26,Approved,14/03/2025
+TN-LAND-0508,Trichy,Taluk-A,Village-4,604/5,5,Owner-508,9620552327,8.14,Dry Land,Borewell,Red Soil,Residential,1070535,Under Dispute,VAO-7,RI-23,Pending,8/9/2025
+TN-LAND-0509,Salem,Taluk-A,Village-7,155/2,1,Owner-509,9756465128,3.89,Dry Land,Borewell,Sandy Soil,Agricultural,2334667,Pending Verification,VAO-45,RI-3,Approved,8/6/2025
+TN-LAND-0510,Erode,Taluk-A,Village-20,289/3,4,Owner-510,9712137460,9.81,Dry Land,Tank,Alluvial Soil,Residential,491418,Pending Verification,VAO-7,RI-10,Pending,18/10/2025
+TN-LAND-0511,Salem,Taluk-A,Village-20,667/3,3,Owner-511,9342568517,2.26,Wet Land,River,Black Cotton Soil,Residential,398779,Under Dispute,VAO-20,RI-24,Rejected,7/4/2024
+TN-LAND-0512,Madurai,Taluk-C,Village-4,384/3,5,Owner-512,9580579303,0.8,Dry Land,River,Alluvial Soil,Residential,1054540,Active,VAO-17,RI-18,Approved,15/12/2024
+TN-LAND-0513,Erode,Taluk-B,Village-8,982/2,3,Owner-513,9659229671,6.28,Dry Land,Borewell,Black Cotton Soil,Residential,2689171,Pending Verification,VAO-1,RI-26,Pending,31/05/2024
+TN-LAND-0514,Madurai,Taluk-A,Village-3,585/2,2,Owner-514,9138848203,4.28,Wet Land,Borewell,Sandy Soil,Commercial,1921529,Under Dispute,VAO-22,RI-16,Rejected,29/01/2024
+TN-LAND-0515,Madurai,Taluk-B,Village-17,185/3,3,Owner-515,9647096983,9.88,Dry Land,Borewell,Sandy Soil,Residential,481716,Active,VAO-12,RI-1,Rejected,2/11/2024
+TN-LAND-0516,Trichy,Taluk-A,Village-3,338/5,2,Owner-516,9501895517,1.16,Dry Land,Tank,Black Cotton Soil,Residential,1660866,Pending Verification,VAO-20,RI-23,Rejected,30/07/2024
+TN-LAND-0517,Salem,Taluk-C,Village-15,957/1,3,Owner-517,9778707770,5.37,Wet Land,Rain-fed,Red Soil,Residential,2475161,Active,VAO-24,RI-1,Rejected,27/05/2025
+TN-LAND-0518,Madurai,Taluk-B,Village-19,383/4,3,Owner-518,9493353526,1.9,Wet Land,Borewell,Alluvial Soil,Commercial,2017102,Pending Verification,VAO-21,RI-2,Pending,25/04/2024
+TN-LAND-0519,Erode,Taluk-D,Village-2,226/4,2,Owner-519,9186696934,4.82,Wet Land,Tank,Red Soil,Commercial,2693372,Pending Verification,VAO-49,RI-23,Approved,16/05/2024
+TN-LAND-0520,Salem,Taluk-D,Village-1,894/5,5,Owner-520,9393380646,1.75,Wet Land,Canal,Sandy Soil,Commercial,2737003,Under Dispute,VAO-24,RI-7,Approved,18/08/2025
+TN-LAND-0521,Trichy,Taluk-A,Village-19,214/5,5,Owner-521,9266121454,4.1,Dry Land,River,Alluvial Soil,Agricultural,981378,Active,VAO-1,RI-22,Rejected,9/11/2025
+TN-LAND-0522,Erode,Taluk-D,Village-18,687/3,5,Owner-522,9357515605,2.11,Wet Land,River,Black Cotton Soil,Residential,1445285,Under Dispute,VAO-28,RI-27,Pending,23/05/2025
+TN-LAND-0523,Erode,Taluk-A,Village-15,667/5,4,Owner-523,9112548603,1.58,Wet Land,Rain-fed,Alluvial Soil,Commercial,1012095,Active,VAO-47,RI-26,Approved,11/11/2024
+TN-LAND-0524,Salem,Taluk-A,Village-17,707/2,4,Owner-524,9313123631,2.31,Dry Land,River,Black Cotton Soil,Commercial,2749774,Active,VAO-6,RI-1,Approved,27/10/2025
+TN-LAND-0525,Trichy,Taluk-B,Village-18,803/4,4,Owner-525,9484112809,9.79,Wet Land,Canal,Sandy Soil,Agricultural,1954275,Active,VAO-5,RI-14,Rejected,4/3/2024
+TN-LAND-0526,Salem,Taluk-A,Village-18,871/5,1,Owner-526,9630944734,1.81,Dry Land,Tank,Black Cotton Soil,Commercial,1896776,Active,VAO-38,RI-5,Approved,30/01/2024
+TN-LAND-0527,Trichy,Taluk-C,Village-18,304/5,5,Owner-527,9311097898,6.12,Dry Land,Rain-fed,Alluvial Soil,Residential,2430290,Active,VAO-45,RI-13,Rejected,6/8/2025
+TN-LAND-0528,Salem,Taluk-A,Village-7,344/2,5,Owner-528,9829475133,5.47,Wet Land,Canal,Red Soil,Agricultural,2642253,Pending Verification,VAO-39,RI-29,Approved,30/06/2025
+TN-LAND-0529,Salem,Taluk-C,Village-12,945/3,5,Owner-529,9982671432,2.15,Dry Land,River,Black Cotton Soil,Commercial,2503369,Under Dispute,VAO-32,RI-27,Rejected,11/2/2025
+TN-LAND-0530,Erode,Taluk-B,Village-1,233/3,5,Owner-530,9383885481,4.58,Wet Land,River,Black Cotton Soil,Agricultural,455301,Active,VAO-25,RI-30,Approved,17/06/2024
+TN-LAND-0531,Coimbatore,Taluk-D,Village-14,591/4,5,Owner-531,9864164966,7.97,Wet Land,Tank,Red Soil,Agricultural,2656476,Under Dispute,VAO-27,RI-18,Rejected,25/01/2025
+TN-LAND-0532,Madurai,Taluk-B,Village-8,729/5,2,Owner-532,9452272749,1.59,Wet Land,Borewell,Sandy Soil,Agricultural,804387,Pending Verification,VAO-42,RI-13,Approved,23/01/2025
+TN-LAND-0533,Coimbatore,Taluk-C,Village-11,434/2,4,Owner-533,9416346267,7.33,Dry Land,Canal,Red Soil,Commercial,1625661,Under Dispute,VAO-49,RI-22,Rejected,23/11/2024
+TN-LAND-0534,Madurai,Taluk-C,Village-5,176/5,1,Owner-534,9145969864,2.77,Dry Land,River,Sandy Soil,Commercial,2964127,Active,VAO-47,RI-22,Rejected,6/6/2024
+TN-LAND-0535,Madurai,Taluk-B,Village-20,157/2,2,Owner-535,9859350346,2.98,Wet Land,Borewell,Black Cotton Soil,Agricultural,1417804,Under Dispute,VAO-18,RI-11,Rejected,14/01/2024
+TN-LAND-0536,Madurai,Taluk-A,Village-11,388/3,5,Owner-536,9480192614,6.56,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1826814,Under Dispute,VAO-18,RI-14,Pending,8/4/2024
+TN-LAND-0537,Trichy,Taluk-B,Village-7,845/5,2,Owner-537,9663620169,8.94,Wet Land,Tank,Red Soil,Residential,1307834,Active,VAO-7,RI-29,Approved,31/07/2024
+TN-LAND-0538,Madurai,Taluk-B,Village-17,218/5,3,Owner-538,9124258961,9.79,Wet Land,River,Black Cotton Soil,Commercial,429469,Active,VAO-50,RI-15,Pending,24/01/2025
+TN-LAND-0539,Coimbatore,Taluk-D,Village-8,730/3,3,Owner-539,9743934563,1.02,Dry Land,Rain-fed,Alluvial Soil,Residential,1891636,Under Dispute,VAO-4,RI-30,Rejected,31/03/2025
+TN-LAND-0540,Trichy,Taluk-B,Village-7,921/5,5,Owner-540,9659725267,4.2,Dry Land,Canal,Red Soil,Agricultural,1024638,Active,VAO-42,RI-2,Approved,27/10/2025
+TN-LAND-0541,Trichy,Taluk-B,Village-9,837/1,5,Owner-541,9641340390,4.74,Wet Land,Rain-fed,Alluvial Soil,Residential,2332834,Pending Verification,VAO-14,RI-16,Rejected,28/10/2025
+TN-LAND-0542,Trichy,Taluk-A,Village-6,286/4,2,Owner-542,9676372633,8.11,Dry Land,Rain-fed,Sandy Soil,Residential,2198077,Under Dispute,VAO-46,RI-5,Rejected,6/7/2025
+TN-LAND-0543,Madurai,Taluk-C,Village-10,595/1,1,Owner-543,9597327594,0.55,Dry Land,Tank,Alluvial Soil,Residential,2360686,Pending Verification,VAO-19,RI-2,Rejected,20/05/2024
+TN-LAND-0544,Trichy,Taluk-B,Village-3,596/5,1,Owner-544,9427246924,8.75,Wet Land,River,Red Soil,Commercial,1348732,Active,VAO-24,RI-18,Pending,22/12/2024
+TN-LAND-0545,Salem,Taluk-C,Village-20,422/5,5,Owner-545,9283849617,4.54,Wet Land,Borewell,Red Soil,Agricultural,2998387,Pending Verification,VAO-7,RI-4,Approved,19/03/2025
+TN-LAND-0546,Erode,Taluk-B,Village-17,896/4,4,Owner-546,9359942982,2.6,Dry Land,Tank,Black Cotton Soil,Residential,371245,Under Dispute,VAO-45,RI-28,Approved,24/08/2024
+TN-LAND-0547,Trichy,Taluk-D,Village-19,157/5,4,Owner-547,9901826392,4.46,Dry Land,Canal,Black Cotton Soil,Commercial,399250,Pending Verification,VAO-39,RI-5,Pending,24/10/2024
+TN-LAND-0548,Erode,Taluk-A,Village-11,783/5,3,Owner-548,9843828367,8.05,Wet Land,Canal,Red Soil,Commercial,2537225,Under Dispute,VAO-17,RI-6,Pending,15/10/2025
+TN-LAND-0549,Madurai,Taluk-B,Village-6,519/2,3,Owner-549,9456993494,3.68,Dry Land,River,Red Soil,Agricultural,1180190,Under Dispute,VAO-33,RI-8,Approved,13/03/2025
+TN-LAND-0550,Salem,Taluk-A,Village-9,328/1,1,Owner-550,9756364580,5.76,Dry Land,River,Black Cotton Soil,Commercial,380151,Under Dispute,VAO-9,RI-6,Approved,29/10/2024
+TN-LAND-0551,Trichy,Taluk-B,Village-1,979/4,3,Owner-551,9247063423,5.6,Wet Land,Borewell,Alluvial Soil,Commercial,2119356,Under Dispute,VAO-26,RI-15,Pending,26/03/2025
+TN-LAND-0552,Salem,Taluk-B,Village-8,996/1,1,Owner-552,9186301220,7.29,Dry Land,Borewell,Red Soil,Residential,2402297,Active,VAO-14,RI-11,Rejected,13/11/2024
+TN-LAND-0553,Erode,Taluk-C,Village-10,607/2,4,Owner-553,9155283709,6.36,Wet Land,Tank,Red Soil,Agricultural,2315991,Active,VAO-44,RI-27,Pending,9/4/2025
+TN-LAND-0554,Salem,Taluk-D,Village-11,383/4,1,Owner-554,9600236851,1.42,Dry Land,Tank,Sandy Soil,Commercial,806094,Pending Verification,VAO-1,RI-5,Approved,13/11/2025
+TN-LAND-0555,Madurai,Taluk-D,Village-8,945/5,1,Owner-555,9999125277,0.55,Wet Land,River,Red Soil,Residential,2297276,Pending Verification,VAO-49,RI-7,Approved,10/3/2024
+TN-LAND-0556,Trichy,Taluk-B,Village-12,533/1,5,Owner-556,9452767589,7.86,Wet Land,Rain-fed,Alluvial Soil,Commercial,886824,Pending Verification,VAO-31,RI-2,Pending,14/09/2024
+TN-LAND-0557,Erode,Taluk-A,Village-14,972/2,5,Owner-557,9340094061,6.16,Dry Land,Borewell,Alluvial Soil,Commercial,1499319,Active,VAO-14,RI-17,Pending,27/05/2025
+TN-LAND-0558,Madurai,Taluk-C,Village-3,548/3,4,Owner-558,9744634640,1.3,Wet Land,River,Alluvial Soil,Commercial,1698426,Under Dispute,VAO-4,RI-9,Approved,1/6/2024
+TN-LAND-0559,Madurai,Taluk-C,Village-18,869/4,1,Owner-559,9780987639,7,Dry Land,Borewell,Red Soil,Commercial,1216801,Active,VAO-17,RI-7,Rejected,21/04/2025
+TN-LAND-0560,Madurai,Taluk-A,Village-2,463/4,5,Owner-560,9424791059,7.47,Wet Land,Canal,Alluvial Soil,Residential,322278,Pending Verification,VAO-31,RI-21,Rejected,17/08/2025
+TN-LAND-0561,Coimbatore,Taluk-D,Village-7,890/3,3,Owner-561,9147347548,1.52,Dry Land,Tank,Sandy Soil,Agricultural,531677,Under Dispute,VAO-48,RI-17,Rejected,17/10/2025
+TN-LAND-0562,Trichy,Taluk-B,Village-2,885/2,5,Owner-562,9924848569,9.15,Dry Land,Borewell,Red Soil,Agricultural,2755549,Active,VAO-24,RI-26,Approved,2/1/2025
+TN-LAND-0563,Salem,Taluk-C,Village-7,533/3,1,Owner-563,9719241932,4.13,Wet Land,Canal,Red Soil,Agricultural,1735316,Active,VAO-6,RI-21,Pending,28/08/2025
+TN-LAND-0564,Coimbatore,Taluk-B,Village-12,971/1,1,Owner-564,9498563387,8.85,Wet Land,Tank,Sandy Soil,Commercial,2410427,Pending Verification,VAO-47,RI-7,Pending,12/4/2024
+TN-LAND-0565,Salem,Taluk-B,Village-11,257/5,5,Owner-565,9497498200,9.09,Dry Land,Borewell,Sandy Soil,Agricultural,1415228,Active,VAO-13,RI-30,Pending,2/6/2024
+TN-LAND-0566,Coimbatore,Taluk-A,Village-14,219/2,4,Owner-566,9520992768,0.52,Dry Land,Borewell,Sandy Soil,Commercial,2078459,Pending Verification,VAO-49,RI-22,Pending,6/6/2024
+TN-LAND-0567,Coimbatore,Taluk-B,Village-16,748/4,3,Owner-567,9653921064,3.47,Wet Land,River,Alluvial Soil,Agricultural,401525,Pending Verification,VAO-36,RI-5,Approved,12/2/2025
+TN-LAND-0568,Salem,Taluk-B,Village-1,689/5,5,Owner-568,9523770221,2.69,Dry Land,Rain-fed,Alluvial Soil,Agricultural,916272,Pending Verification,VAO-7,RI-3,Approved,19/03/2025
+TN-LAND-0569,Salem,Taluk-A,Village-16,401/1,2,Owner-569,9279875433,6.58,Dry Land,Borewell,Red Soil,Agricultural,1758573,Pending Verification,VAO-13,RI-5,Approved,16/03/2024
+TN-LAND-0570,Madurai,Taluk-D,Village-3,472/4,3,Owner-570,9813585732,6.61,Wet Land,Tank,Red Soil,Commercial,2465340,Active,VAO-3,RI-11,Pending,29/07/2025
+TN-LAND-0571,Erode,Taluk-A,Village-15,327/5,4,Owner-571,9499824295,0.99,Wet Land,Borewell,Alluvial Soil,Commercial,2138269,Active,VAO-13,RI-8,Rejected,23/04/2024
+TN-LAND-0572,Coimbatore,Taluk-C,Village-20,708/3,4,Owner-572,9599863353,2.57,Dry Land,Rain-fed,Black Cotton Soil,Residential,2600040,Active,VAO-15,RI-23,Approved,5/1/2025
+TN-LAND-0573,Madurai,Taluk-A,Village-17,910/2,2,Owner-573,9240808460,4.15,Dry Land,River,Sandy Soil,Residential,1374947,Pending Verification,VAO-30,RI-2,Rejected,13/01/2024
+TN-LAND-0574,Salem,Taluk-D,Village-13,182/5,3,Owner-574,9925066915,4.19,Dry Land,Rain-fed,Black Cotton Soil,Commercial,1130118,Pending Verification,VAO-30,RI-24,Rejected,5/1/2025
+TN-LAND-0575,Trichy,Taluk-B,Village-12,114/4,5,Owner-575,9257888232,9.21,Dry Land,Rain-fed,Black Cotton Soil,Residential,464007,Under Dispute,VAO-40,RI-28,Rejected,31/10/2024
+TN-LAND-0576,Erode,Taluk-C,Village-4,566/3,1,Owner-576,9660893188,4.98,Dry Land,Borewell,Red Soil,Agricultural,2615066,Pending Verification,VAO-10,RI-1,Pending,4/2/2025
+TN-LAND-0577,Trichy,Taluk-B,Village-12,813/5,1,Owner-577,9699022696,7.2,Wet Land,Rain-fed,Alluvial Soil,Agricultural,607332,Pending Verification,VAO-35,RI-22,Approved,16/10/2024
+TN-LAND-0578,Madurai,Taluk-B,Village-13,740/5,1,Owner-578,9816028666,3.93,Wet Land,River,Alluvial Soil,Commercial,1916585,Active,VAO-10,RI-3,Rejected,28/10/2025
+TN-LAND-0579,Erode,Taluk-A,Village-11,503/2,5,Owner-579,9550063962,1.79,Wet Land,Canal,Sandy Soil,Residential,1882490,Pending Verification,VAO-1,RI-17,Approved,6/5/2025
+TN-LAND-0580,Madurai,Taluk-A,Village-12,644/5,5,Owner-580,9736016286,2.49,Dry Land,Rain-fed,Alluvial Soil,Residential,2630632,Under Dispute,VAO-2,RI-28,Rejected,12/10/2025
+TN-LAND-0581,Trichy,Taluk-B,Village-17,605/3,3,Owner-581,9230522721,5.43,Dry Land,Tank,Red Soil,Residential,1928529,Pending Verification,VAO-20,RI-26,Pending,30/01/2024
+TN-LAND-0582,Coimbatore,Taluk-C,Village-19,516/1,5,Owner-582,9943677704,5.86,Dry Land,River,Alluvial Soil,Commercial,2732667,Pending Verification,VAO-25,RI-12,Pending,6/1/2024
+TN-LAND-0583,Madurai,Taluk-D,Village-7,720/4,4,Owner-583,9959667896,6.33,Dry Land,Rain-fed,Alluvial Soil,Commercial,923449,Active,VAO-36,RI-14,Approved,7/4/2025
+TN-LAND-0584,Erode,Taluk-B,Village-3,713/2,4,Owner-584,9112181167,6.96,Dry Land,Rain-fed,Alluvial Soil,Agricultural,1568504,Under Dispute,VAO-6,RI-12,Approved,28/01/2025
+TN-LAND-0585,Salem,Taluk-D,Village-13,536/3,1,Owner-585,9321263529,5.2,Wet Land,Canal,Red Soil,Agricultural,2903226,Pending Verification,VAO-44,RI-8,Rejected,26/08/2024
+TN-LAND-0586,Salem,Taluk-B,Village-18,970/5,2,Owner-586,9858893545,5.02,Dry Land,River,Sandy Soil,Commercial,2157858,Under Dispute,VAO-27,RI-14,Rejected,30/01/2024
+TN-LAND-0587,Coimbatore,Taluk-C,Village-14,877/3,1,Owner-587,9754820788,0.68,Dry Land,Tank,Black Cotton Soil,Commercial,1174207,Under Dispute,VAO-43,RI-8,Rejected,8/10/2024
+TN-LAND-0588,Madurai,Taluk-A,Village-10,214/2,3,Owner-588,9414425051,8.02,Dry Land,Canal,Black Cotton Soil,Commercial,2273777,Active,VAO-15,RI-29,Rejected,20/06/2024
+TN-LAND-0589,Trichy,Taluk-B,Village-14,522/3,4,Owner-589,9663241184,2.14,Wet Land,Canal,Alluvial Soil,Residential,1761171,Under Dispute,VAO-24,RI-22,Pending,7/8/2025
+TN-LAND-0590,Coimbatore,Taluk-A,Village-12,685/5,2,Owner-590,9764633670,5.97,Dry Land,Borewell,Black Cotton Soil,Agricultural,1669970,Under Dispute,VAO-10,RI-20,Pending,23/04/2024
+TN-LAND-0591,Madurai,Taluk-B,Village-3,457/5,2,Owner-591,9394739166,8.57,Wet Land,Canal,Red Soil,Agricultural,651737,Active,VAO-26,RI-17,Rejected,20/09/2025
+TN-LAND-0592,Erode,Taluk-D,Village-6,589/4,3,Owner-592,9268720104,4.08,Dry Land,Rain-fed,Red Soil,Residential,1122567,Active,VAO-26,RI-16,Rejected,25/05/2024
+TN-LAND-0593,Madurai,Taluk-D,Village-1,568/4,5,Owner-593,9376343127,2.76,Wet Land,Canal,Alluvial Soil,Residential,608488,Active,VAO-25,RI-13,Approved,16/05/2025
+TN-LAND-0594,Coimbatore,Taluk-B,Village-18,132/1,5,Owner-594,9946346018,2.99,Dry Land,Borewell,Red Soil,Commercial,2587188,Under Dispute,VAO-6,RI-11,Rejected,2/10/2025
+TN-LAND-0595,Salem,Taluk-D,Village-8,680/4,2,Owner-595,9211490101,2.37,Wet Land,Rain-fed,Sandy Soil,Residential,1110453,Pending Verification,VAO-50,RI-5,Rejected,19/03/2025
+TN-LAND-0596,Salem,Taluk-B,Village-13,781/3,2,Owner-596,9224429357,7.81,Wet Land,Canal,Alluvial Soil,Agricultural,2097109,Under Dispute,VAO-39,RI-12,Approved,9/11/2024
+TN-LAND-0597,Madurai,Taluk-A,Village-18,524/4,2,Owner-597,9609189591,1.72,Wet Land,River,Red Soil,Commercial,1042169,Pending Verification,VAO-21,RI-19,Pending,15/11/2024
+TN-LAND-0598,Erode,Taluk-D,Village-12,680/1,1,Owner-598,9341739687,7.38,Dry Land,Canal,Alluvial Soil,Residential,994739,Pending Verification,VAO-13,RI-24,Approved,6/7/2025
+TN-LAND-0599,Madurai,Taluk-B,Village-19,199/2,2,Owner-599,9548659682,5.24,Wet Land,Borewell,Red Soil,Agricultural,1246500,Under Dispute,VAO-5,RI-17,Pending,1/10/2025
+TN-LAND-0600,Salem,Taluk-A,Village-14,276/3,4,Owner-600,9531311884,7.84,Wet Land,Rain-fed,Alluvial Soil,Agricultural,1847203,Active,VAO-36,RI-24,Approved,9/4/2024
+TN-LAND-0601,Erode,Taluk-B,Village-7,180/3,5,Owner-601,9699009549,5.94,Dry Land,Rain-fed,Sandy Soil,Agricultural,1785475,Active,VAO-17,RI-22,Approved,28/09/2024
+TN-LAND-0602,Coimbatore,Taluk-C,Village-17,598/4,1,Owner-602,9667744583,6.68,Dry Land,River,Sandy Soil,Residential,2253023,Pending Verification,VAO-37,RI-26,Rejected,3/4/2024
+TN-LAND-0603,Madurai,Taluk-B,Village-15,150/2,3,Owner-603,9710135661,2.86,Dry Land,Tank,Alluvial Soil,Agricultural,1703045,Pending Verification,VAO-29,RI-23,Approved,17/11/2024
+TN-LAND-0604,Salem,Taluk-D,Village-2,230/1,5,Owner-604,9517088727,0.61,Wet Land,Canal,Red Soil,Agricultural,1080254,Under Dispute,VAO-16,RI-2,Pending,2/4/2025
+TN-LAND-0605,Coimbatore,Taluk-B,Village-5,583/5,2,Owner-605,9869934232,7.82,Dry Land,River,Alluvial Soil,Agricultural,1321148,Pending Verification,VAO-47,RI-29,Pending,21/09/2025
+TN-LAND-0606,Erode,Taluk-C,Village-4,509/3,4,Owner-606,9384061823,3.01,Wet Land,Borewell,Alluvial Soil,Residential,702336,Pending Verification,VAO-40,RI-12,Approved,23/01/2024
+TN-LAND-0607,Salem,Taluk-D,Village-18,888/1,4,Owner-607,9947627693,9.15,Wet Land,River,Red Soil,Residential,1389867,Active,VAO-35,RI-13,Rejected,28/10/2025
+TN-LAND-0608,Trichy,Taluk-B,Village-11,109/1,5,Owner-608,9417897065,3.4,Dry Land,Borewell,Black Cotton Soil,Agricultural,2161312,Active,VAO-25,RI-13,Rejected,12/12/2024
+TN-LAND-0609,Salem,Taluk-A,Village-4,678/2,3,Owner-609,9630116910,3.52,Wet Land,Tank,Black Cotton Soil,Agricultural,2096926,Under Dispute,VAO-37,RI-9,Approved,26/10/2025
+TN-LAND-0610,Madurai,Taluk-B,Village-10,713/1,3,Owner-610,9717157055,4.57,Dry Land,Tank,Black Cotton Soil,Commercial,2557106,Active,VAO-44,RI-14,Pending,10/2/2025
+TN-LAND-0611,Erode,Taluk-B,Village-12,375/2,3,Owner-611,9142120885,6.87,Dry Land,Tank,Alluvial Soil,Agricultural,2045138,Active,VAO-17,RI-26,Approved,24/03/2024
+TN-LAND-0612,Madurai,Taluk-B,Village-11,276/1,1,Owner-612,9127123424,3.96,Wet Land,Tank,Alluvial Soil,Agricultural,1951052,Pending Verification,VAO-41,RI-28,Pending,29/01/2025
+TN-LAND-0613,Salem,Taluk-B,Village-5,420/4,4,Owner-613,9310418939,5.58,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1343405,Active,VAO-15,RI-22,Rejected,28/07/2024
+TN-LAND-0614,Salem,Taluk-C,Village-17,900/4,3,Owner-614,9121513182,6.07,Wet Land,Borewell,Alluvial Soil,Residential,1246517,Under Dispute,VAO-8,RI-28,Approved,15/07/2024
+TN-LAND-0615,Coimbatore,Taluk-D,Village-12,438/4,3,Owner-615,9572415861,5.21,Dry Land,Rain-fed,Red Soil,Agricultural,498491,Pending Verification,VAO-26,RI-15,Approved,3/2/2025
+TN-LAND-0616,Madurai,Taluk-A,Village-5,714/2,1,Owner-616,9253749066,5.57,Dry Land,Rain-fed,Sandy Soil,Commercial,356335,Pending Verification,VAO-13,RI-10,Rejected,18/12/2024
+TN-LAND-0617,Madurai,Taluk-A,Village-14,165/5,5,Owner-617,9685424645,4.85,Dry Land,Tank,Alluvial Soil,Residential,1285152,Active,VAO-19,RI-9,Approved,13/02/2024
+TN-LAND-0618,Salem,Taluk-C,Village-12,913/2,3,Owner-618,9146166463,1.78,Dry Land,Canal,Red Soil,Residential,2151183,Under Dispute,VAO-43,RI-10,Rejected,9/6/2025
+TN-LAND-0619,Madurai,Taluk-B,Village-3,868/4,4,Owner-619,9131938007,3.52,Wet Land,Tank,Alluvial Soil,Commercial,593891,Pending Verification,VAO-7,RI-30,Pending,8/2/2025
+TN-LAND-0620,Coimbatore,Taluk-C,Village-5,760/3,5,Owner-620,9848291365,4.96,Wet Land,Canal,Black Cotton Soil,Residential,2743744,Active,VAO-25,RI-2,Pending,4/2/2025
+TN-LAND-0621,Erode,Taluk-D,Village-18,760/3,1,Owner-621,9846407452,9,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,2832260,Active,VAO-35,RI-9,Pending,28/05/2025
+TN-LAND-0622,Madurai,Taluk-A,Village-7,376/3,1,Owner-622,9380689487,2.18,Dry Land,Tank,Black Cotton Soil,Commercial,2645419,Pending Verification,VAO-25,RI-23,Rejected,24/07/2025
+TN-LAND-0623,Coimbatore,Taluk-D,Village-12,695/4,3,Owner-623,9967863048,5.54,Dry Land,Rain-fed,Alluvial Soil,Residential,1701884,Pending Verification,VAO-1,RI-2,Rejected,20/03/2025
+TN-LAND-0624,Erode,Taluk-D,Village-18,957/4,1,Owner-624,9423807261,9.59,Dry Land,Borewell,Red Soil,Commercial,2635188,Pending Verification,VAO-46,RI-12,Rejected,18/01/2025
+TN-LAND-0625,Coimbatore,Taluk-A,Village-11,999/3,1,Owner-625,9151319484,8.06,Dry Land,Tank,Red Soil,Agricultural,2122909,Active,VAO-49,RI-24,Pending,11/6/2024
+TN-LAND-0626,Madurai,Taluk-C,Village-4,925/4,5,Owner-626,9698054365,1.11,Dry Land,Tank,Alluvial Soil,Commercial,1832537,Under Dispute,VAO-32,RI-24,Pending,5/3/2025
+TN-LAND-0627,Trichy,Taluk-D,Village-17,987/3,2,Owner-627,9599331477,2.54,Wet Land,River,Black Cotton Soil,Agricultural,2530641,Under Dispute,VAO-23,RI-27,Rejected,27/02/2024
+TN-LAND-0628,Erode,Taluk-A,Village-1,553/5,1,Owner-628,9575122414,9.28,Dry Land,River,Sandy Soil,Commercial,1430704,Under Dispute,VAO-11,RI-14,Approved,12/8/2025
+TN-LAND-0629,Trichy,Taluk-B,Village-16,622/1,1,Owner-629,9883342153,1.01,Dry Land,Borewell,Sandy Soil,Commercial,839776,Active,VAO-31,RI-11,Approved,16/06/2024
+TN-LAND-0630,Trichy,Taluk-D,Village-10,208/5,2,Owner-630,9796409615,8.58,Wet Land,Canal,Alluvial Soil,Commercial,1370340,Under Dispute,VAO-39,RI-10,Rejected,14/03/2025
+TN-LAND-0631,Coimbatore,Taluk-A,Village-4,217/3,2,Owner-631,9835417516,5.34,Dry Land,River,Alluvial Soil,Agricultural,2912433,Pending Verification,VAO-50,RI-27,Approved,16/02/2025
+TN-LAND-0632,Erode,Taluk-A,Village-13,311/3,2,Owner-632,9318036107,6.57,Wet Land,Borewell,Black Cotton Soil,Residential,2365369,Active,VAO-32,RI-6,Approved,25/03/2025
+TN-LAND-0633,Trichy,Taluk-C,Village-7,279/2,3,Owner-633,9427186295,1.55,Wet Land,River,Black Cotton Soil,Commercial,2120652,Under Dispute,VAO-45,RI-20,Rejected,15/12/2024
+TN-LAND-0634,Trichy,Taluk-B,Village-6,179/5,4,Owner-634,9768368102,7.68,Dry Land,Canal,Alluvial Soil,Residential,1287936,Active,VAO-5,RI-22,Rejected,8/5/2025
+TN-LAND-0635,Trichy,Taluk-A,Village-11,619/1,4,Owner-635,9276622286,5.81,Dry Land,Tank,Black Cotton Soil,Agricultural,475379,Under Dispute,VAO-42,RI-17,Rejected,2/1/2024
+TN-LAND-0636,Coimbatore,Taluk-D,Village-6,141/5,4,Owner-636,9499550991,8.27,Dry Land,Canal,Black Cotton Soil,Commercial,946236,Pending Verification,VAO-50,RI-27,Pending,13/01/2025
+TN-LAND-0637,Coimbatore,Taluk-A,Village-5,155/1,5,Owner-637,9361852647,1.29,Wet Land,River,Alluvial Soil,Agricultural,1584405,Under Dispute,VAO-36,RI-21,Pending,25/02/2025
+TN-LAND-0638,Salem,Taluk-A,Village-20,315/5,5,Owner-638,9602834603,7.96,Dry Land,River,Alluvial Soil,Residential,2616406,Pending Verification,VAO-32,RI-13,Pending,5/5/2025
+TN-LAND-0639,Salem,Taluk-B,Village-20,522/1,2,Owner-639,9248039080,2.76,Wet Land,Canal,Black Cotton Soil,Commercial,2269244,Pending Verification,VAO-4,RI-5,Approved,15/08/2024
+TN-LAND-0640,Madurai,Taluk-D,Village-16,535/4,3,Owner-640,9542970479,1.41,Wet Land,Borewell,Sandy Soil,Residential,1867888,Pending Verification,VAO-1,RI-16,Pending,8/10/2024
+TN-LAND-0641,Coimbatore,Taluk-C,Village-4,564/3,3,Owner-641,9238425209,1.76,Dry Land,Borewell,Alluvial Soil,Residential,1908665,Pending Verification,VAO-33,RI-16,Rejected,19/06/2025
+TN-LAND-0642,Erode,Taluk-C,Village-3,487/1,3,Owner-642,9282184569,1.16,Wet Land,Canal,Sandy Soil,Commercial,602106,Active,VAO-44,RI-7,Rejected,18/07/2025
+TN-LAND-0643,Salem,Taluk-A,Village-8,617/4,2,Owner-643,9574328668,4.93,Dry Land,Canal,Alluvial Soil,Agricultural,1861678,Pending Verification,VAO-27,RI-3,Approved,16/04/2024
+TN-LAND-0644,Erode,Taluk-D,Village-19,408/5,4,Owner-644,9144665744,8.39,Dry Land,River,Black Cotton Soil,Commercial,809958,Pending Verification,VAO-21,RI-26,Pending,30/12/2024
+TN-LAND-0645,Trichy,Taluk-A,Village-7,110/4,5,Owner-645,9190191064,7.85,Dry Land,River,Alluvial Soil,Agricultural,2251538,Under Dispute,VAO-9,RI-5,Approved,17/12/2024
+TN-LAND-0646,Salem,Taluk-A,Village-15,267/3,3,Owner-646,9535957838,9.71,Wet Land,River,Alluvial Soil,Commercial,2915863,Active,VAO-2,RI-13,Approved,12/5/2025
+TN-LAND-0647,Erode,Taluk-A,Village-4,406/3,4,Owner-647,9684507067,0.59,Dry Land,River,Black Cotton Soil,Agricultural,910956,Pending Verification,VAO-5,RI-14,Pending,15/08/2025
+TN-LAND-0648,Erode,Taluk-A,Village-17,680/3,2,Owner-648,9587970622,8.02,Wet Land,Canal,Black Cotton Soil,Agricultural,2494829,Active,VAO-34,RI-12,Rejected,8/1/2024
+TN-LAND-0649,Erode,Taluk-D,Village-12,936/1,2,Owner-649,9346012102,3.38,Wet Land,Canal,Sandy Soil,Commercial,2060689,Active,VAO-47,RI-15,Approved,2/11/2025
+TN-LAND-0650,Erode,Taluk-A,Village-20,840/1,4,Owner-650,9173774347,9.91,Dry Land,River,Alluvial Soil,Commercial,542603,Active,VAO-22,RI-28,Approved,27/11/2025
+TN-LAND-0651,Trichy,Taluk-C,Village-9,126/2,3,Owner-651,9523687489,7.01,Wet Land,Tank,Sandy Soil,Agricultural,2521010,Pending Verification,VAO-24,RI-11,Pending,5/6/2024
+TN-LAND-0652,Salem,Taluk-A,Village-8,229/1,2,Owner-652,9751491434,0.73,Dry Land,Borewell,Red Soil,Residential,2281740,Under Dispute,VAO-41,RI-11,Rejected,3/10/2024
+TN-LAND-0653,Coimbatore,Taluk-B,Village-15,961/5,4,Owner-653,9986855408,9.95,Wet Land,River,Sandy Soil,Agricultural,2158178,Active,VAO-19,RI-14,Rejected,22/08/2024
+TN-LAND-0654,Madurai,Taluk-B,Village-3,286/5,1,Owner-654,9322048596,4.08,Dry Land,Tank,Red Soil,Agricultural,2768648,Active,VAO-47,RI-11,Pending,21/12/2024
+TN-LAND-0655,Trichy,Taluk-D,Village-13,459/5,1,Owner-655,9933213826,3.29,Wet Land,River,Sandy Soil,Residential,2174882,Under Dispute,VAO-3,RI-19,Approved,2/8/2024
+TN-LAND-0656,Coimbatore,Taluk-A,Village-16,930/4,1,Owner-656,9442004883,5.42,Wet Land,Borewell,Black Cotton Soil,Residential,2579807,Under Dispute,VAO-10,RI-12,Pending,1/8/2024
+TN-LAND-0657,Madurai,Taluk-B,Village-19,152/1,2,Owner-657,9368954002,9,Dry Land,Rain-fed,Red Soil,Agricultural,746107,Pending Verification,VAO-3,RI-22,Approved,16/09/2024
+TN-LAND-0658,Madurai,Taluk-C,Village-2,484/5,4,Owner-658,9313257400,9.08,Wet Land,Rain-fed,Red Soil,Residential,738068,Under Dispute,VAO-33,RI-10,Pending,14/08/2024
+TN-LAND-0659,Salem,Taluk-B,Village-11,369/2,2,Owner-659,9220355363,0.73,Wet Land,Canal,Alluvial Soil,Agricultural,2755414,Pending Verification,VAO-23,RI-19,Rejected,21/04/2024
+TN-LAND-0660,Trichy,Taluk-C,Village-18,305/2,4,Owner-660,9979157094,4.03,Dry Land,River,Red Soil,Agricultural,2772474,Pending Verification,VAO-45,RI-2,Pending,21/11/2024
+TN-LAND-0661,Trichy,Taluk-D,Village-1,908/2,4,Owner-661,9824406719,9.48,Dry Land,Borewell,Sandy Soil,Commercial,823630,Active,VAO-24,RI-21,Approved,7/1/2025
+TN-LAND-0662,Madurai,Taluk-C,Village-16,274/1,3,Owner-662,9872671751,7.68,Dry Land,Tank,Sandy Soil,Commercial,2888050,Pending Verification,VAO-6,RI-14,Pending,17/09/2025
+TN-LAND-0663,Madurai,Taluk-C,Village-13,801/3,5,Owner-663,9983862854,1.4,Dry Land,River,Red Soil,Residential,1401851,Active,VAO-30,RI-26,Rejected,15/09/2025
+TN-LAND-0664,Salem,Taluk-D,Village-3,917/1,5,Owner-664,9489955605,1.99,Wet Land,Tank,Sandy Soil,Commercial,1391614,Pending Verification,VAO-35,RI-17,Rejected,23/08/2025
+TN-LAND-0665,Trichy,Taluk-D,Village-8,570/1,2,Owner-665,9970772320,6.42,Dry Land,Borewell,Black Cotton Soil,Commercial,2368974,Under Dispute,VAO-15,RI-20,Pending,21/09/2024
+TN-LAND-0666,Erode,Taluk-C,Village-9,237/1,2,Owner-666,9812483228,1.44,Dry Land,Rain-fed,Red Soil,Commercial,823263,Active,VAO-25,RI-4,Approved,4/7/2024
+TN-LAND-0667,Erode,Taluk-B,Village-1,236/1,4,Owner-667,9172789216,9.96,Wet Land,Borewell,Black Cotton Soil,Commercial,1539266,Pending Verification,VAO-43,RI-26,Rejected,2/5/2024
+TN-LAND-0668,Trichy,Taluk-A,Village-20,969/1,4,Owner-668,9188899909,4.69,Wet Land,Tank,Red Soil,Residential,2421686,Under Dispute,VAO-25,RI-23,Pending,1/12/2025
+TN-LAND-0669,Trichy,Taluk-C,Village-9,850/4,5,Owner-669,9641242202,9.54,Dry Land,Canal,Red Soil,Agricultural,1490615,Active,VAO-27,RI-18,Rejected,21/07/2025
+TN-LAND-0670,Erode,Taluk-C,Village-4,370/2,5,Owner-670,9257729224,8.3,Wet Land,Borewell,Black Cotton Soil,Agricultural,777438,Active,VAO-34,RI-26,Approved,1/3/2025
+TN-LAND-0671,Madurai,Taluk-A,Village-11,855/1,5,Owner-671,9463662856,8.55,Dry Land,Rain-fed,Sandy Soil,Agricultural,387465,Active,VAO-50,RI-24,Pending,22/07/2024
+TN-LAND-0672,Madurai,Taluk-C,Village-5,492/3,1,Owner-672,9314167622,6.1,Wet Land,River,Sandy Soil,Commercial,2226778,Under Dispute,VAO-9,RI-22,Rejected,23/07/2024
+TN-LAND-0673,Salem,Taluk-B,Village-8,669/3,4,Owner-673,9588340358,9.31,Wet Land,Rain-fed,Sandy Soil,Agricultural,1094747,Pending Verification,VAO-20,RI-25,Rejected,16/08/2025
+TN-LAND-0674,Madurai,Taluk-D,Village-9,195/3,2,Owner-674,9137991128,8.64,Wet Land,Tank,Alluvial Soil,Commercial,322151,Under Dispute,VAO-16,RI-7,Pending,14/08/2024
+TN-LAND-0675,Trichy,Taluk-D,Village-6,926/3,1,Owner-675,9250547078,6.2,Dry Land,Canal,Alluvial Soil,Commercial,783581,Under Dispute,VAO-34,RI-10,Rejected,2/12/2024
+TN-LAND-0676,Coimbatore,Taluk-D,Village-4,592/2,5,Owner-676,9899966901,3.8,Dry Land,Rain-fed,Alluvial Soil,Residential,2821161,Pending Verification,VAO-25,RI-17,Rejected,26/10/2024
+TN-LAND-0677,Madurai,Taluk-C,Village-8,369/2,3,Owner-677,9450659979,6.08,Wet Land,Rain-fed,Black Cotton Soil,Residential,1388799,Active,VAO-21,RI-4,Rejected,22/05/2025
+TN-LAND-0678,Coimbatore,Taluk-B,Village-5,512/2,4,Owner-678,9886160810,8.09,Dry Land,Borewell,Sandy Soil,Residential,2970636,Pending Verification,VAO-43,RI-3,Approved,20/11/2025
+TN-LAND-0679,Erode,Taluk-C,Village-9,908/1,1,Owner-679,9629296089,5.1,Dry Land,Borewell,Sandy Soil,Residential,1395719,Under Dispute,VAO-1,RI-8,Rejected,13/02/2024
+TN-LAND-0680,Erode,Taluk-B,Village-12,587/1,2,Owner-680,9396010277,2.06,Wet Land,River,Alluvial Soil,Residential,2801746,Active,VAO-24,RI-13,Pending,10/6/2024
+TN-LAND-0681,Salem,Taluk-C,Village-10,334/2,2,Owner-681,9795173942,4.8,Wet Land,Borewell,Sandy Soil,Commercial,517792,Active,VAO-40,RI-3,Pending,26/11/2024
+TN-LAND-0682,Erode,Taluk-C,Village-20,892/1,5,Owner-682,9698615890,2.9,Wet Land,Rain-fed,Red Soil,Agricultural,2815848,Active,VAO-19,RI-4,Approved,20/11/2024
+TN-LAND-0683,Trichy,Taluk-A,Village-4,671/1,2,Owner-683,9699669890,1.58,Wet Land,Tank,Black Cotton Soil,Agricultural,1753769,Active,VAO-47,RI-3,Pending,17/09/2025
+TN-LAND-0684,Coimbatore,Taluk-C,Village-10,229/5,4,Owner-684,9645055934,0.53,Wet Land,Rain-fed,Black Cotton Soil,Residential,2126416,Under Dispute,VAO-18,RI-21,Pending,30/08/2024
+TN-LAND-0685,Erode,Taluk-B,Village-13,986/2,3,Owner-685,9129582226,6.65,Dry Land,Borewell,Alluvial Soil,Agricultural,2869829,Active,VAO-25,RI-14,Rejected,9/10/2024
+TN-LAND-0686,Madurai,Taluk-C,Village-11,627/1,2,Owner-686,9932555537,6.68,Wet Land,Rain-fed,Alluvial Soil,Commercial,482223,Pending Verification,VAO-38,RI-17,Approved,13/04/2025
+TN-LAND-0687,Salem,Taluk-A,Village-16,973/1,3,Owner-687,9409181144,1.47,Wet Land,River,Alluvial Soil,Agricultural,2033085,Pending Verification,VAO-13,RI-30,Approved,10/8/2025
+TN-LAND-0688,Coimbatore,Taluk-D,Village-20,376/3,3,Owner-688,9835471564,8.57,Dry Land,Borewell,Sandy Soil,Commercial,2677526,Active,VAO-17,RI-16,Pending,17/05/2024
+TN-LAND-0689,Trichy,Taluk-A,Village-12,700/2,2,Owner-689,9873442886,1.26,Wet Land,Canal,Sandy Soil,Agricultural,1129926,Pending Verification,VAO-21,RI-1,Rejected,18/04/2025
+TN-LAND-0690,Erode,Taluk-B,Village-13,551/5,5,Owner-690,9155632439,7.66,Dry Land,Borewell,Sandy Soil,Agricultural,2053518,Under Dispute,VAO-27,RI-10,Pending,7/3/2024
+TN-LAND-0691,Salem,Taluk-A,Village-13,619/4,1,Owner-691,9521152048,4.68,Wet Land,Rain-fed,Black Cotton Soil,Commercial,1628954,Active,VAO-13,RI-15,Approved,11/5/2024
+TN-LAND-0692,Salem,Taluk-D,Village-4,379/2,4,Owner-692,9166496344,9.15,Dry Land,Borewell,Red Soil,Agricultural,1648282,Pending Verification,VAO-34,RI-11,Pending,17/01/2024
+TN-LAND-0693,Salem,Taluk-A,Village-5,447/5,1,Owner-693,9442640944,7.39,Dry Land,Rain-fed,Red Soil,Commercial,2996604,Pending Verification,VAO-49,RI-5,Approved,22/12/2024
+TN-LAND-0694,Coimbatore,Taluk-D,Village-4,269/2,5,Owner-694,9186749166,4.06,Dry Land,River,Red Soil,Agricultural,1006001,Active,VAO-10,RI-11,Rejected,27/08/2025
+TN-LAND-0695,Coimbatore,Taluk-C,Village-8,554/1,1,Owner-695,9396147646,9.01,Dry Land,Borewell,Sandy Soil,Agricultural,1959066,Under Dispute,VAO-1,RI-11,Rejected,18/06/2025
+TN-LAND-0696,Madurai,Taluk-A,Village-17,559/2,1,Owner-696,9770586052,7.29,Wet Land,Tank,Black Cotton Soil,Commercial,1485359,Under Dispute,VAO-39,RI-7,Approved,23/08/2024
+TN-LAND-0697,Erode,Taluk-C,Village-15,399/5,2,Owner-697,9772804614,1.53,Dry Land,Rain-fed,Sandy Soil,Commercial,581283,Active,VAO-38,RI-5,Rejected,21/01/2024
+TN-LAND-0698,Salem,Taluk-D,Village-8,280/1,3,Owner-698,9128156302,5.87,Dry Land,Rain-fed,Alluvial Soil,Agricultural,2891326,Pending Verification,VAO-29,RI-10,Approved,3/4/2025
+TN-LAND-0699,Salem,Taluk-D,Village-5,244/4,2,Owner-699,9346486548,8.15,Wet Land,River,Alluvial Soil,Commercial,2848064,Active,VAO-43,RI-2,Rejected,17/10/2024
+TN-LAND-0700,Salem,Taluk-B,Village-6,329/2,1,Owner-700,9830153878,5.56,Dry Land,Rain-fed,Black Cotton Soil,Commercial,2959300,Pending Verification,VAO-43,RI-16,Approved,2/3/2025
+TN-LAND-0701,Trichy,Taluk-A,Village-14,843/1,5,Owner-701,9330640743,3.61,Dry Land,Rain-fed,Red Soil,Commercial,807628,Pending Verification,VAO-33,RI-21,Rejected,29/09/2025
+TN-LAND-0702,Erode,Taluk-D,Village-6,824/4,5,Owner-702,9645306688,7.35,Dry Land,River,Sandy Soil,Residential,586327,Under Dispute,VAO-15,RI-22,Approved,10/7/2025
+TN-LAND-0703,Coimbatore,Taluk-A,Village-14,915/5,3,Owner-703,9495022549,7.02,Dry Land,Borewell,Black Cotton Soil,Commercial,2061787,Pending Verification,VAO-44,RI-6,Rejected,14/05/2024
+TN-LAND-0704,Erode,Taluk-B,Village-14,890/3,2,Owner-704,9994378117,0.64,Dry Land,Borewell,Black Cotton Soil,Commercial,1431256,Under Dispute,VAO-2,RI-20,Rejected,1/5/2024
+TN-LAND-0705,Madurai,Taluk-D,Village-4,355/2,4,Owner-705,9261218973,1.25,Dry Land,Borewell,Red Soil,Agricultural,2246788,Under Dispute,VAO-41,RI-3,Approved,8/4/2024
+TN-LAND-0706,Madurai,Taluk-D,Village-15,772/2,3,Owner-706,9914540943,3.94,Wet Land,River,Sandy Soil,Commercial,1437435,Active,VAO-35,RI-19,Rejected,12/4/2024
+TN-LAND-0707,Trichy,Taluk-A,Village-6,626/3,3,Owner-707,9101126947,5.71,Wet Land,Tank,Alluvial Soil,Agricultural,329782,Under Dispute,VAO-13,RI-5,Pending,6/12/2024
+TN-LAND-0708,Trichy,Taluk-D,Village-16,576/1,4,Owner-708,9563730647,2.07,Dry Land,Borewell,Black Cotton Soil,Agricultural,2387226,Pending Verification,VAO-13,RI-20,Rejected,1/4/2025
+TN-LAND-0709,Trichy,Taluk-D,Village-4,173/3,2,Owner-709,9521544116,3.54,Dry Land,Canal,Sandy Soil,Agricultural,1874058,Under Dispute,VAO-36,RI-20,Approved,24/09/2025
+TN-LAND-0710,Madurai,Taluk-C,Village-15,596/5,1,Owner-710,9166005596,7.9,Dry Land,Borewell,Red Soil,Commercial,1184438,Active,VAO-27,RI-27,Approved,27/09/2025
+TN-LAND-0711,Erode,Taluk-C,Village-10,892/4,1,Owner-711,9151882884,2.5,Wet Land,Tank,Alluvial Soil,Agricultural,1399280,Active,VAO-36,RI-19,Pending,27/04/2024
+TN-LAND-0712,Erode,Taluk-B,Village-10,661/5,1,Owner-712,9878887304,6.7,Dry Land,River,Alluvial Soil,Agricultural,972845,Pending Verification,VAO-14,RI-1,Pending,19/02/2024
+TN-LAND-0713,Madurai,Taluk-C,Village-15,161/1,4,Owner-713,9701865649,4,Wet Land,Tank,Alluvial Soil,Residential,2678860,Active,VAO-30,RI-21,Pending,8/10/2024
+TN-LAND-0714,Erode,Taluk-B,Village-19,482/3,4,Owner-714,9894819679,3.32,Dry Land,Canal,Red Soil,Commercial,2203153,Pending Verification,VAO-24,RI-28,Rejected,6/11/2025
+TN-LAND-0715,Trichy,Taluk-C,Village-7,303/1,2,Owner-715,9373202643,2.5,Dry Land,Rain-fed,Sandy Soil,Commercial,2621167,Active,VAO-32,RI-7,Approved,14/10/2024
+TN-LAND-0716,Erode,Taluk-B,Village-12,243/1,2,Owner-716,9245358836,9.75,Wet Land,River,Alluvial Soil,Agricultural,2812262,Pending Verification,VAO-47,RI-10,Pending,26/04/2024
+TN-LAND-0717,Erode,Taluk-B,Village-20,449/4,1,Owner-717,9125385189,7.8,Wet Land,Canal,Sandy Soil,Agricultural,2587704,Active,VAO-10,RI-17,Pending,2/10/2025
+TN-LAND-0718,Coimbatore,Taluk-D,Village-3,987/2,1,Owner-718,9427135187,3.46,Wet Land,Canal,Sandy Soil,Commercial,1183228,Under Dispute,VAO-4,RI-28,Rejected,15/08/2024
+TN-LAND-0719,Erode,Taluk-C,Village-4,442/5,2,Owner-719,9749648921,1.1,Dry Land,Tank,Black Cotton Soil,Agricultural,2342184,Under Dispute,VAO-2,RI-2,Rejected,18/10/2024
+TN-LAND-0720,Trichy,Taluk-A,Village-1,804/2,3,Owner-720,9606829494,0.54,Dry Land,Rain-fed,Black Cotton Soil,Commercial,1682935,Active,VAO-42,RI-23,Pending,30/04/2024
+TN-LAND-0721,Trichy,Taluk-B,Village-7,571/2,1,Owner-721,9614806164,2.54,Wet Land,Borewell,Alluvial Soil,Commercial,1235516,Active,VAO-41,RI-26,Approved,14/03/2024
+TN-LAND-0722,Salem,Taluk-D,Village-10,193/3,4,Owner-722,9337689949,2.34,Wet Land,Tank,Black Cotton Soil,Commercial,2808173,Under Dispute,VAO-20,RI-30,Approved,16/01/2025
+TN-LAND-0723,Coimbatore,Taluk-C,Village-15,558/3,1,Owner-723,9438814269,3.96,Wet Land,River,Red Soil,Residential,2846012,Active,VAO-2,RI-27,Pending,2/9/2025
+TN-LAND-0724,Salem,Taluk-A,Village-16,400/2,1,Owner-724,9318737843,8.51,Dry Land,Borewell,Red Soil,Residential,1880987,Under Dispute,VAO-9,RI-13,Pending,31/07/2025
+TN-LAND-0725,Trichy,Taluk-C,Village-8,965/3,4,Owner-725,9543858124,1.05,Wet Land,Borewell,Red Soil,Agricultural,2091514,Under Dispute,VAO-12,RI-23,Rejected,29/10/2024
+TN-LAND-0726,Trichy,Taluk-B,Village-11,776/4,4,Owner-726,9989727799,8.5,Wet Land,Borewell,Sandy Soil,Agricultural,727576,Under Dispute,VAO-1,RI-2,Rejected,23/07/2025
+TN-LAND-0727,Salem,Taluk-B,Village-7,205/5,1,Owner-727,9668903838,6.3,Wet Land,Tank,Red Soil,Residential,727894,Pending Verification,VAO-13,RI-1,Approved,12/8/2024
+TN-LAND-0728,Salem,Taluk-C,Village-5,965/1,4,Owner-728,9133431699,2.16,Dry Land,Canal,Sandy Soil,Commercial,2595299,Under Dispute,VAO-9,RI-17,Pending,19/05/2024
+TN-LAND-0729,Coimbatore,Taluk-D,Village-19,887/5,2,Owner-729,9481847146,3.28,Dry Land,Tank,Sandy Soil,Residential,2398889,Pending Verification,VAO-27,RI-4,Approved,23/03/2024
+TN-LAND-0730,Madurai,Taluk-C,Village-10,919/3,4,Owner-730,9372683832,7.94,Wet Land,Tank,Red Soil,Residential,1441264,Pending Verification,VAO-37,RI-6,Approved,13/03/2025
+TN-LAND-0731,Salem,Taluk-B,Village-20,321/1,5,Owner-731,9867115097,4.45,Wet Land,Rain-fed,Red Soil,Commercial,2537840,Under Dispute,VAO-34,RI-5,Approved,12/9/2024
+TN-LAND-0732,Trichy,Taluk-C,Village-5,819/1,2,Owner-732,9778658399,9.59,Dry Land,River,Sandy Soil,Residential,535286,Under Dispute,VAO-16,RI-27,Approved,21/08/2025
+TN-LAND-0733,Madurai,Taluk-C,Village-10,618/1,5,Owner-733,9793641679,2.45,Wet Land,Borewell,Alluvial Soil,Commercial,597100,Pending Verification,VAO-1,RI-11,Approved,9/2/2025
+TN-LAND-0734,Trichy,Taluk-D,Village-14,590/5,2,Owner-734,9340727223,0.66,Wet Land,Canal,Black Cotton Soil,Commercial,1901795,Pending Verification,VAO-7,RI-20,Approved,26/05/2025
+TN-LAND-0735,Salem,Taluk-B,Village-15,591/2,2,Owner-735,9577684821,8.95,Wet Land,River,Black Cotton Soil,Agricultural,1534580,Under Dispute,VAO-38,RI-29,Rejected,15/10/2025
+TN-LAND-0736,Salem,Taluk-C,Village-1,259/2,1,Owner-736,9262063224,1.51,Wet Land,Canal,Alluvial Soil,Agricultural,958524,Under Dispute,VAO-45,RI-12,Pending,23/12/2024
+TN-LAND-0737,Erode,Taluk-C,Village-4,634/4,3,Owner-737,9576289929,6.32,Dry Land,Tank,Black Cotton Soil,Commercial,330352,Pending Verification,VAO-25,RI-26,Approved,19/02/2025
+TN-LAND-0738,Erode,Taluk-B,Village-9,242/5,4,Owner-738,9301044940,7.28,Wet Land,Canal,Black Cotton Soil,Residential,2166920,Under Dispute,VAO-32,RI-21,Approved,9/5/2025
+TN-LAND-0739,Coimbatore,Taluk-D,Village-12,605/1,4,Owner-739,9144406270,4.14,Wet Land,Tank,Black Cotton Soil,Commercial,1042150,Under Dispute,VAO-43,RI-13,Approved,13/02/2025
+TN-LAND-0740,Trichy,Taluk-C,Village-20,104/2,3,Owner-740,9875984996,1.15,Wet Land,River,Red Soil,Agricultural,1302782,Active,VAO-14,RI-11,Pending,7/6/2024
+TN-LAND-0741,Madurai,Taluk-A,Village-18,895/5,3,Owner-741,9970840969,1.31,Dry Land,Canal,Black Cotton Soil,Commercial,1103343,Active,VAO-21,RI-14,Approved,26/08/2024
+TN-LAND-0742,Salem,Taluk-C,Village-4,107/3,5,Owner-742,9240749362,4.33,Dry Land,Rain-fed,Red Soil,Commercial,2065212,Under Dispute,VAO-23,RI-18,Pending,19/04/2024
+TN-LAND-0743,Trichy,Taluk-C,Village-3,546/3,4,Owner-743,9957936236,9.09,Wet Land,River,Alluvial Soil,Residential,567567,Pending Verification,VAO-43,RI-23,Rejected,26/07/2024
+TN-LAND-0744,Erode,Taluk-C,Village-4,992/1,4,Owner-744,9412085784,7.61,Dry Land,Tank,Black Cotton Soil,Agricultural,1184166,Under Dispute,VAO-38,RI-6,Rejected,3/6/2024
+TN-LAND-0745,Trichy,Taluk-B,Village-6,573/2,1,Owner-745,9879548564,6.11,Dry Land,Canal,Sandy Soil,Residential,2394634,Under Dispute,VAO-15,RI-14,Pending,27/04/2025
+TN-LAND-0746,Trichy,Taluk-D,Village-2,672/1,4,Owner-746,9650001773,3.03,Wet Land,River,Red Soil,Commercial,1326494,Active,VAO-17,RI-15,Pending,27/08/2024
+TN-LAND-0747,Salem,Taluk-B,Village-3,267/5,1,Owner-747,9359301165,3.84,Dry Land,Borewell,Alluvial Soil,Agricultural,1809810,Under Dispute,VAO-50,RI-8,Approved,21/01/2024
+TN-LAND-0748,Madurai,Taluk-D,Village-5,574/3,2,Owner-748,9413641719,9.21,Dry Land,River,Sandy Soil,Commercial,2987577,Under Dispute,VAO-27,RI-8,Approved,26/04/2024
+TN-LAND-0749,Coimbatore,Taluk-A,Village-6,890/2,3,Owner-749,9277963745,4.23,Dry Land,Tank,Alluvial Soil,Residential,1596711,Pending Verification,VAO-50,RI-24,Approved,10/3/2024
+TN-LAND-0750,Trichy,Taluk-C,Village-4,650/3,4,Owner-750,9302670277,3.27,Dry Land,Canal,Red Soil,Agricultural,2734538,Active,VAO-48,RI-8,Approved,11/5/2025
+TN-LAND-0751,Salem,Taluk-D,Village-16,998/3,2,Owner-751,9915714286,2.28,Dry Land,Canal,Alluvial Soil,Agricultural,1475994,Under Dispute,VAO-24,RI-15,Pending,10/2/2024
+TN-LAND-0752,Madurai,Taluk-A,Village-5,498/4,5,Owner-752,9547791464,3.48,Dry Land,Tank,Alluvial Soil,Commercial,1351448,Active,VAO-43,RI-24,Approved,10/11/2024
+TN-LAND-0753,Trichy,Taluk-B,Village-9,412/1,1,Owner-753,9913986808,7.14,Wet Land,Tank,Red Soil,Residential,2302934,Pending Verification,VAO-25,RI-27,Rejected,25/01/2024
+TN-LAND-0754,Madurai,Taluk-C,Village-5,592/1,3,Owner-754,9354794225,8.11,Dry Land,Rain-fed,Red Soil,Residential,538817,Active,VAO-45,RI-11,Approved,15/10/2024
+TN-LAND-0755,Erode,Taluk-B,Village-3,850/2,1,Owner-755,9498119628,2.37,Dry Land,River,Red Soil,Residential,2289217,Pending Verification,VAO-25,RI-22,Pending,13/12/2024
+TN-LAND-0756,Erode,Taluk-B,Village-9,895/2,5,Owner-756,9471863005,8.2,Dry Land,Rain-fed,Alluvial Soil,Agricultural,300178,Active,VAO-30,RI-23,Approved,7/4/2024
+TN-LAND-0757,Salem,Taluk-B,Village-3,971/5,2,Owner-757,9846592685,2.74,Dry Land,Tank,Sandy Soil,Agricultural,2156627,Active,VAO-14,RI-21,Rejected,11/3/2024
+TN-LAND-0758,Madurai,Taluk-C,Village-19,849/1,3,Owner-758,9750596802,7.27,Wet Land,River,Alluvial Soil,Commercial,1605711,Pending Verification,VAO-25,RI-19,Pending,15/07/2024
+TN-LAND-0759,Trichy,Taluk-A,Village-7,628/5,4,Owner-759,9428322930,8.56,Wet Land,Canal,Sandy Soil,Residential,336349,Pending Verification,VAO-24,RI-12,Pending,1/11/2025
+TN-LAND-0760,Salem,Taluk-D,Village-19,498/4,3,Owner-760,9360920425,1.01,Dry Land,Tank,Red Soil,Residential,1845373,Active,VAO-6,RI-10,Rejected,6/4/2024
+TN-LAND-0761,Erode,Taluk-C,Village-19,335/2,2,Owner-761,9775247694,8.44,Wet Land,Borewell,Sandy Soil,Residential,315883,Active,VAO-17,RI-12,Pending,27/11/2025
+TN-LAND-0762,Coimbatore,Taluk-A,Village-17,784/4,3,Owner-762,9105177699,5.94,Dry Land,Rain-fed,Sandy Soil,Commercial,975257,Pending Verification,VAO-48,RI-7,Rejected,5/3/2024
+TN-LAND-0763,Madurai,Taluk-A,Village-19,747/4,4,Owner-763,9599218779,8.18,Dry Land,Canal,Red Soil,Commercial,444647,Pending Verification,VAO-44,RI-18,Rejected,9/8/2024
+TN-LAND-0764,Trichy,Taluk-A,Village-12,171/4,4,Owner-764,9354293801,5.2,Wet Land,Rain-fed,Sandy Soil,Commercial,1079515,Under Dispute,VAO-26,RI-19,Approved,1/10/2024
+TN-LAND-0765,Madurai,Taluk-D,Village-4,587/5,2,Owner-765,9926986135,5.16,Wet Land,Tank,Sandy Soil,Residential,2592259,Under Dispute,VAO-14,RI-26,Pending,20/11/2025
+TN-LAND-0766,Coimbatore,Taluk-D,Village-2,827/3,5,Owner-766,9283260844,6.22,Wet Land,Borewell,Alluvial Soil,Commercial,2542175,Pending Verification,VAO-38,RI-30,Pending,1/2/2024
+TN-LAND-0767,Salem,Taluk-A,Village-4,216/1,4,Owner-767,9398239656,7.91,Dry Land,River,Sandy Soil,Agricultural,412556,Pending Verification,VAO-36,RI-10,Rejected,14/06/2025
+TN-LAND-0768,Salem,Taluk-B,Village-14,399/1,5,Owner-768,9650887847,7.67,Wet Land,River,Sandy Soil,Residential,1190470,Active,VAO-39,RI-22,Approved,2/5/2025
+TN-LAND-0769,Salem,Taluk-D,Village-1,568/4,1,Owner-769,9538617627,3.27,Wet Land,Tank,Red Soil,Commercial,1567034,Active,VAO-4,RI-5,Pending,15/12/2024
+TN-LAND-0770,Coimbatore,Taluk-D,Village-14,664/4,5,Owner-770,9883323254,7.96,Dry Land,Borewell,Red Soil,Residential,1765524,Active,VAO-21,RI-17,Approved,20/03/2024
+TN-LAND-0771,Erode,Taluk-C,Village-9,975/1,2,Owner-771,9612742724,7.1,Wet Land,Borewell,Sandy Soil,Commercial,1688338,Active,VAO-13,RI-7,Approved,17/12/2024
+TN-LAND-0772,Trichy,Taluk-B,Village-2,409/3,3,Owner-772,9228851051,1.94,Wet Land,River,Sandy Soil,Residential,948215,Pending Verification,VAO-29,RI-16,Pending,16/09/2024
+TN-LAND-0773,Trichy,Taluk-B,Village-6,202/5,1,Owner-773,9929911424,7.23,Wet Land,River,Red Soil,Commercial,1754798,Pending Verification,VAO-27,RI-2,Pending,8/1/2025
+TN-LAND-0774,Trichy,Taluk-A,Village-15,170/4,4,Owner-774,9854020827,6.84,Dry Land,Borewell,Alluvial Soil,Residential,627340,Active,VAO-45,RI-20,Rejected,8/7/2025
+TN-LAND-0775,Erode,Taluk-C,Village-13,187/5,1,Owner-775,9207667717,8.67,Dry Land,Canal,Sandy Soil,Agricultural,2956963,Pending Verification,VAO-4,RI-14,Approved,9/3/2025
+TN-LAND-0776,Trichy,Taluk-D,Village-5,796/4,5,Owner-776,9744730571,9.63,Dry Land,Borewell,Alluvial Soil,Agricultural,1591740,Active,VAO-9,RI-8,Approved,25/05/2025
+TN-LAND-0777,Coimbatore,Taluk-A,Village-2,722/1,1,Owner-777,9125780291,3.84,Dry Land,Rain-fed,Sandy Soil,Commercial,1687221,Under Dispute,VAO-4,RI-12,Rejected,7/4/2024
+TN-LAND-0778,Madurai,Taluk-C,Village-17,828/4,5,Owner-778,9459202489,7.6,Dry Land,Borewell,Alluvial Soil,Commercial,2808726,Active,VAO-2,RI-21,Rejected,7/10/2025
+TN-LAND-0779,Erode,Taluk-D,Village-15,287/2,5,Owner-779,9926973163,2.69,Wet Land,River,Red Soil,Commercial,1401091,Pending Verification,VAO-13,RI-1,Approved,15/02/2024
+TN-LAND-0780,Coimbatore,Taluk-B,Village-9,367/2,2,Owner-780,9521241686,7.18,Dry Land,River,Black Cotton Soil,Commercial,1050864,Active,VAO-38,RI-15,Pending,15/07/2025
+TN-LAND-0781,Madurai,Taluk-A,Village-20,830/4,4,Owner-781,9796289777,1.83,Dry Land,Tank,Red Soil,Residential,1928919,Under Dispute,VAO-8,RI-4,Pending,2/3/2024
+TN-LAND-0782,Madurai,Taluk-B,Village-5,674/3,1,Owner-782,9427060337,9.21,Wet Land,Canal,Black Cotton Soil,Commercial,641201,Under Dispute,VAO-5,RI-21,Approved,27/01/2024
+TN-LAND-0783,Erode,Taluk-B,Village-16,580/5,1,Owner-783,9544802456,8.33,Dry Land,Borewell,Black Cotton Soil,Commercial,2072141,Under Dispute,VAO-12,RI-18,Pending,9/7/2024
+TN-LAND-0784,Coimbatore,Taluk-C,Village-4,191/4,1,Owner-784,9839110243,1.98,Dry Land,Tank,Red Soil,Residential,1107987,Under Dispute,VAO-43,RI-17,Rejected,18/06/2024
+TN-LAND-0785,Trichy,Taluk-D,Village-5,260/2,5,Owner-785,9318456829,0.82,Wet Land,Rain-fed,Sandy Soil,Commercial,2766735,Under Dispute,VAO-26,RI-19,Approved,28/05/2025
+TN-LAND-0786,Erode,Taluk-B,Village-1,410/1,2,Owner-786,9586886253,7.93,Dry Land,Tank,Alluvial Soil,Commercial,1687656,Pending Verification,VAO-18,RI-19,Approved,31/08/2025
+TN-LAND-0787,Erode,Taluk-C,Village-15,571/1,3,Owner-787,9564408439,5.2,Dry Land,Canal,Black Cotton Soil,Agricultural,2007884,Under Dispute,VAO-18,RI-23,Approved,1/12/2025
+TN-LAND-0788,Coimbatore,Taluk-C,Village-14,316/5,5,Owner-788,9111963119,7.08,Dry Land,Canal,Alluvial Soil,Residential,1952491,Active,VAO-31,RI-16,Rejected,6/7/2025
+TN-LAND-0789,Salem,Taluk-C,Village-11,814/1,5,Owner-789,9931502453,7.42,Dry Land,Rain-fed,Alluvial Soil,Residential,649523,Under Dispute,VAO-1,RI-3,Pending,5/11/2025
+TN-LAND-0790,Salem,Taluk-D,Village-10,830/1,3,Owner-790,9489205569,5.58,Dry Land,Tank,Sandy Soil,Agricultural,2981801,Active,VAO-7,RI-10,Rejected,19/05/2025
+TN-LAND-0791,Coimbatore,Taluk-A,Village-1,349/3,2,Owner-791,9604952727,4,Dry Land,Rain-fed,Red Soil,Commercial,2277141,Under Dispute,VAO-15,RI-3,Approved,15/03/2024
+TN-LAND-0792,Madurai,Taluk-D,Village-13,215/1,5,Owner-792,9505778796,4.87,Wet Land,Rain-fed,Red Soil,Agricultural,2872093,Under Dispute,VAO-14,RI-22,Rejected,28/02/2024
+TN-LAND-0793,Coimbatore,Taluk-C,Village-5,717/5,5,Owner-793,9491692523,1.42,Wet Land,Tank,Red Soil,Commercial,1404728,Pending Verification,VAO-38,RI-23,Rejected,9/11/2025
+TN-LAND-0794,Trichy,Taluk-D,Village-2,983/1,5,Owner-794,9311088750,4.65,Wet Land,Borewell,Alluvial Soil,Residential,445598,Pending Verification,VAO-16,RI-29,Approved,12/8/2024
+TN-LAND-0795,Trichy,Taluk-B,Village-6,883/5,2,Owner-795,9209915297,3.17,Dry Land,Canal,Alluvial Soil,Commercial,2833906,Active,VAO-14,RI-29,Approved,22/02/2025
+TN-LAND-0796,Coimbatore,Taluk-D,Village-6,478/3,2,Owner-796,9377129330,8.28,Dry Land,Rain-fed,Black Cotton Soil,Agricultural,360473,Active,VAO-41,RI-18,Approved,5/11/2024
+TN-LAND-0797,Madurai,Taluk-A,Village-14,521/3,1,Owner-797,9642298511,8.06,Dry Land,Tank,Sandy Soil,Agricultural,2705002,Under Dispute,VAO-10,RI-30,Rejected,12/2/2025
+TN-LAND-0798,Coimbatore,Taluk-B,Village-2,490/2,3,Owner-798,9726175382,1.93,Dry Land,Tank,Red Soil,Agricultural,517145,Under Dispute,VAO-15,RI-12,Rejected,20/07/2025
+TN-LAND-0799,Erode,Taluk-B,Village-14,286/3,5,Owner-799,9264661168,6.56,Wet Land,Canal,Red Soil,Residential,2674712,Active,VAO-32,RI-16,Rejected,1/12/2024
+TN-LAND-0800,Erode,Taluk-D,Village-10,644/2,4,Owner-800,9913004725,0.53,Wet Land,River,Sandy Soil,Commercial,1431246,Pending Verification,VAO-46,RI-22,Approved,10/1/2025
+TN-LAND-0801,Coimbatore,Taluk-A,Village-19,415/4,5,Owner-801,9241435596,1.14,Dry Land,River,Alluvial Soil,Residential,1582775,Pending Verification,VAO-30,RI-3,Approved,29/07/2024
+TN-LAND-0802,Erode,Taluk-A,Village-20,711/2,2,Owner-802,9398171447,5.29,Dry Land,River,Red Soil,Agricultural,450607,Under Dispute,VAO-1,RI-13,Pending,31/01/2025
+TN-LAND-0803,Madurai,Taluk-A,Village-11,264/4,2,Owner-803,9319982746,4.03,Wet Land,Rain-fed,Alluvial Soil,Agricultural,372074,Under Dispute,VAO-23,RI-7,Rejected,13/08/2024
+TN-LAND-0804,Coimbatore,Taluk-A,Village-5,551/3,5,Owner-804,9617152560,6.42,Wet Land,Canal,Sandy Soil,Agricultural,1529042,Pending Verification,VAO-13,RI-24,Approved,15/08/2024
+TN-LAND-0805,Erode,Taluk-B,Village-6,686/2,5,Owner-805,9276041443,5.08,Dry Land,River,Sandy Soil,Commercial,368143,Under Dispute,VAO-5,RI-16,Pending,12/9/2024
+TN-LAND-0806,Erode,Taluk-A,Village-16,693/4,5,Owner-806,9886237475,3.61,Wet Land,Canal,Sandy Soil,Agricultural,2641186,Active,VAO-40,RI-16,Approved,22/05/2024
+TN-LAND-0807,Trichy,Taluk-B,Village-10,429/5,1,Owner-807,9818923750,5.54,Wet Land,Rain-fed,Red Soil,Residential,2257422,Active,VAO-29,RI-26,Approved,1/10/2024
+TN-LAND-0808,Trichy,Taluk-A,Village-6,763/2,1,Owner-808,9702005096,1.23,Wet Land,Tank,Alluvial Soil,Residential,2529640,Pending Verification,VAO-37,RI-21,Pending,28/02/2024
+TN-LAND-0809,Erode,Taluk-A,Village-15,411/1,3,Owner-809,9119604605,1.32,Wet Land,Rain-fed,Sandy Soil,Residential,2996580,Under Dispute,VAO-8,RI-12,Approved,1/3/2024
+TN-LAND-0810,Madurai,Taluk-B,Village-14,830/5,2,Owner-810,9147140019,7.36,Wet Land,Canal,Black Cotton Soil,Agricultural,1021367,Active,VAO-17,RI-12,Rejected,23/08/2025
+TN-LAND-0811,Erode,Taluk-C,Village-20,285/5,3,Owner-811,9540627929,8.45,Wet Land,Canal,Alluvial Soil,Agricultural,1805674,Pending Verification,VAO-20,RI-18,Pending,5/9/2024
+TN-LAND-0812,Salem,Taluk-A,Village-14,995/4,4,Owner-812,9587416651,2.21,Dry Land,Borewell,Sandy Soil,Commercial,1971482,Under Dispute,VAO-50,RI-23,Approved,25/08/2025
+TN-LAND-0813,Erode,Taluk-D,Village-1,979/5,3,Owner-813,9755425357,5.75,Wet Land,Canal,Red Soil,Residential,1918031,Under Dispute,VAO-21,RI-25,Rejected,14/10/2025
+TN-LAND-0814,Coimbatore,Taluk-B,Village-18,955/5,5,Owner-814,9328980099,5.84,Dry Land,Tank,Alluvial Soil,Commercial,614560,Pending Verification,VAO-27,RI-11,Approved,3/9/2024
+TN-LAND-0815,Salem,Taluk-A,Village-20,269/4,5,Owner-815,9231803494,1.57,Wet Land,Rain-fed,Alluvial Soil,Residential,906242,Pending Verification,VAO-40,RI-4,Pending,17/03/2025
+TN-LAND-0816,Trichy,Taluk-A,Village-3,508/1,4,Owner-816,9853990361,3.71,Dry Land,River,Black Cotton Soil,Agricultural,1323598,Under Dispute,VAO-44,RI-29,Pending,20/07/2024
+TN-LAND-0817,Erode,Taluk-C,Village-10,612/2,1,Owner-817,9129006374,6.76,Wet Land,Rain-fed,Red Soil,Commercial,2851251,Active,VAO-1,RI-29,Rejected,14/09/2025
+TN-LAND-0818,Coimbatore,Taluk-A,Village-13,537/2,3,Owner-818,9700119855,6.3,Dry Land,Canal,Red Soil,Commercial,1744342,Pending Verification,VAO-18,RI-11,Approved,9/9/2025
+TN-LAND-0819,Trichy,Taluk-C,Village-14,390/4,1,Owner-819,9935652369,8.27,Dry Land,River,Red Soil,Commercial,984751,Active,VAO-2,RI-10,Rejected,15/08/2024
+TN-LAND-0820,Madurai,Taluk-C,Village-17,254/5,4,Owner-820,9366509059,6.42,Wet Land,Rain-fed,Sandy Soil,Residential,304348,Pending Verification,VAO-46,RI-22,Pending,20/10/2024
+TN-LAND-0821,Erode,Taluk-C,Village-19,128/3,2,Owner-821,9153337643,8.12,Dry Land,River,Alluvial Soil,Residential,1586914,Pending Verification,VAO-31,RI-19,Rejected,2/3/2024
+TN-LAND-0822,Coimbatore,Taluk-B,Village-9,535/4,3,Owner-822,9144630580,2.49,Dry Land,Tank,Sandy Soil,Agricultural,1057589,Active,VAO-4,RI-5,Rejected,14/12/2024
+TN-LAND-0823,Coimbatore,Taluk-A,Village-11,688/2,3,Owner-823,9324139712,4.67,Dry Land,Rain-fed,Sandy Soil,Residential,2614833,Pending Verification,VAO-12,RI-29,Pending,17/08/2025
+TN-LAND-0824,Salem,Taluk-D,Village-8,156/3,1,Owner-824,9875808157,4.66,Dry Land,Borewell,Red Soil,Residential,511092,Pending Verification,VAO-12,RI-10,Pending,16/07/2025
+TN-LAND-0825,Coimbatore,Taluk-C,Village-4,589/5,3,Owner-825,9991895486,8.73,Wet Land,Borewell,Sandy Soil,Commercial,2710827,Active,VAO-16,RI-11,Rejected,22/05/2025
+TN-LAND-0826,Salem,Taluk-C,Village-11,103/1,1,Owner-826,9504511667,5.96,Dry Land,Canal,Red Soil,Agricultural,663597,Pending Verification,VAO-16,RI-23,Rejected,24/09/2025
+TN-LAND-0827,Coimbatore,Taluk-B,Village-6,933/2,5,Owner-827,9531828464,7.59,Dry Land,Tank,Alluvial Soil,Residential,1258615,Active,VAO-25,RI-28,Approved,5/9/2025
+TN-LAND-0828,Madurai,Taluk-C,Village-18,651/4,1,Owner-828,9233791505,6.96,Dry Land,Canal,Red Soil,Residential,783932,Pending Verification,VAO-3,RI-9,Approved,17/03/2024
+TN-LAND-0829,Trichy,Taluk-D,Village-9,645/4,1,Owner-829,9227428146,6.97,Wet Land,River,Alluvial Soil,Commercial,1730567,Active,VAO-14,RI-23,Approved,14/08/2025
+TN-LAND-0830,Coimbatore,Taluk-D,Village-1,469/2,2,Owner-830,9752219907,7.27,Wet Land,Tank,Sandy Soil,Agricultural,696745,Pending Verification,VAO-2,RI-10,Rejected,28/08/2024
+TN-LAND-0831,Salem,Taluk-C,Village-8,958/1,3,Owner-831,9615588518,3.9,Dry Land,Borewell,Red Soil,Commercial,1007001,Active,VAO-11,RI-28,Rejected,8/4/2025
+TN-LAND-0832,Erode,Taluk-C,Village-14,283/3,2,Owner-832,9934468896,9.45,Dry Land,Tank,Black Cotton Soil,Residential,1031383,Under Dispute,VAO-49,RI-23,Approved,22/01/2024
+TN-LAND-0833,Salem,Taluk-D,Village-11,145/3,5,Owner-833,9789426493,8.25,Wet Land,Borewell,Alluvial Soil,Commercial,1049651,Active,VAO-43,RI-16,Approved,29/01/2024
+TN-LAND-0834,Trichy,Taluk-A,Village-5,420/3,3,Owner-834,9417306293,9.47,Dry Land,Rain-fed,Alluvial Soil,Residential,2539280,Under Dispute,VAO-37,RI-14,Pending,17/02/2025
+TN-LAND-0835,Salem,Taluk-B,Village-12,666/2,2,Owner-835,9203945659,6.2,Wet Land,River,Black Cotton Soil,Residential,1631820,Under Dispute,VAO-16,RI-12,Approved,27/04/2024
+TN-LAND-0836,Erode,Taluk-D,Village-15,388/4,2,Owner-836,9430968319,1.56,Dry Land,Borewell,Red Soil,Agricultural,1846556,Pending Verification,VAO-38,RI-28,Rejected,3/5/2025
+TN-LAND-0837,Salem,Taluk-A,Village-10,699/4,2,Owner-837,9702377283,3.82,Wet Land,Rain-fed,Black Cotton Soil,Residential,2346712,Pending Verification,VAO-38,RI-26,Approved,6/10/2024
+TN-LAND-0838,Madurai,Taluk-C,Village-19,819/4,4,Owner-838,9807105948,5.41,Dry Land,Rain-fed,Red Soil,Agricultural,1139138,Active,VAO-49,RI-11,Pending,6/9/2024
+TN-LAND-0839,Coimbatore,Taluk-B,Village-17,242/3,5,Owner-839,9388851035,2.39,Dry Land,Canal,Alluvial Soil,Residential,2532525,Pending Verification,VAO-9,RI-14,Approved,27/08/2025
+TN-LAND-0840,Erode,Taluk-C,Village-13,223/4,3,Owner-840,9468115518,4.1,Dry Land,Canal,Red Soil,Commercial,677691,Pending Verification,VAO-13,RI-25,Approved,28/10/2024
+TN-LAND-0841,Salem,Taluk-A,Village-12,419/3,5,Owner-841,9712435007,1.26,Dry Land,Canal,Black Cotton Soil,Residential,2286134,Active,VAO-8,RI-17,Pending,1/9/2025
+TN-LAND-0842,Salem,Taluk-D,Village-16,832/2,2,Owner-842,9932715875,1.64,Dry Land,Tank,Sandy Soil,Commercial,2357869,Active,VAO-11,RI-29,Pending,8/10/2024
+TN-LAND-0843,Madurai,Taluk-A,Village-2,898/1,2,Owner-843,9280670700,9.54,Dry Land,Tank,Sandy Soil,Commercial,2205119,Pending Verification,VAO-6,RI-25,Approved,10/11/2025
+TN-LAND-0844,Trichy,Taluk-A,Village-3,868/5,1,Owner-844,9770071442,7.06,Dry Land,Borewell,Sandy Soil,Commercial,1305456,Pending Verification,VAO-36,RI-12,Approved,22/05/2024
+TN-LAND-0845,Madurai,Taluk-C,Village-4,726/5,4,Owner-845,9908533297,3.37,Dry Land,Canal,Alluvial Soil,Commercial,751249,Pending Verification,VAO-23,RI-3,Rejected,3/8/2025
+TN-LAND-0846,Erode,Taluk-B,Village-16,288/5,3,Owner-846,9857842400,6.87,Wet Land,Canal,Alluvial Soil,Commercial,2803469,Under Dispute,VAO-25,RI-18,Pending,30/05/2024
+TN-LAND-0847,Salem,Taluk-B,Village-18,144/3,1,Owner-847,9541431913,7.7,Dry Land,Canal,Sandy Soil,Agricultural,1558840,Pending Verification,VAO-26,RI-2,Rejected,5/4/2025
+TN-LAND-0848,Coimbatore,Taluk-A,Village-5,926/3,1,Owner-848,9458500346,9.04,Dry Land,Borewell,Sandy Soil,Commercial,818562,Active,VAO-25,RI-25,Approved,11/5/2024
+TN-LAND-0849,Coimbatore,Taluk-B,Village-8,871/5,4,Owner-849,9704171939,2.4,Dry Land,River,Sandy Soil,Residential,2024046,Active,VAO-23,RI-25,Pending,1/2/2025
+TN-LAND-0850,Coimbatore,Taluk-C,Village-18,827/3,4,Owner-850,9240364963,6.02,Wet Land,River,Red Soil,Agricultural,489727,Under Dispute,VAO-43,RI-27,Approved,10/6/2024
+TN-LAND-0851,Coimbatore,Taluk-D,Village-8,623/1,2,Owner-851,9599222395,3.99,Wet Land,Canal,Red Soil,Commercial,1867592,Pending Verification,VAO-39,RI-17,Approved,23/03/2025
+TN-LAND-0852,Trichy,Taluk-A,Village-20,343/5,1,Owner-852,9863892102,1.52,Dry Land,Canal,Alluvial Soil,Commercial,467488,Under Dispute,VAO-50,RI-25,Rejected,21/03/2025
+TN-LAND-0853,Trichy,Taluk-A,Village-18,770/2,5,Owner-853,9479507637,9.42,Dry Land,Canal,Red Soil,Residential,1043679,Pending Verification,VAO-39,RI-7,Rejected,31/05/2024
+TN-LAND-0854,Trichy,Taluk-C,Village-12,777/1,5,Owner-854,9680569671,4.54,Dry Land,Borewell,Red Soil,Agricultural,1386989,Under Dispute,VAO-7,RI-14,Pending,2/9/2024
+TN-LAND-0855,Salem,Taluk-B,Village-10,168/2,3,Owner-855,9292806672,4.1,Wet Land,Rain-fed,Sandy Soil,Agricultural,575262,Under Dispute,VAO-6,RI-2,Approved,19/03/2024
+TN-LAND-0856,Trichy,Taluk-B,Village-11,976/4,4,Owner-856,9584885746,6.14,Wet Land,River,Red Soil,Residential,485253,Under Dispute,VAO-25,RI-7,Rejected,12/1/2025
+TN-LAND-0857,Salem,Taluk-D,Village-14,772/3,2,Owner-857,9753461921,5.68,Dry Land,Rain-fed,Red Soil,Commercial,1493252,Under Dispute,VAO-29,RI-8,Pending,1/6/2025
+TN-LAND-0858,Salem,Taluk-B,Village-18,247/3,3,Owner-858,9533060251,2.88,Wet Land,Canal,Sandy Soil,Agricultural,678424,Pending Verification,VAO-13,RI-12,Approved,14/05/2025
+TN-LAND-0859,Erode,Taluk-B,Village-2,749/3,3,Owner-859,9370668395,5.46,Dry Land,Canal,Red Soil,Commercial,1314462,Active,VAO-9,RI-17,Rejected,25/03/2025
+TN-LAND-0860,Madurai,Taluk-B,Village-11,693/3,2,Owner-860,9891889364,9.43,Dry Land,Borewell,Alluvial Soil,Agricultural,1926517,Active,VAO-43,RI-23,Pending,4/2/2024
+TN-LAND-0861,Erode,Taluk-C,Village-10,608/5,2,Owner-861,9627160894,9.63,Dry Land,Borewell,Alluvial Soil,Agricultural,1412199,Pending Verification,VAO-14,RI-1,Approved,16/10/2025
+TN-LAND-0862,Coimbatore,Taluk-B,Village-5,588/5,4,Owner-862,9191662183,8.62,Wet Land,Borewell,Alluvial Soil,Agricultural,2271469,Active,VAO-31,RI-25,Approved,9/5/2025
+TN-LAND-0863,Trichy,Taluk-B,Village-2,537/5,1,Owner-863,9393951334,8.05,Dry Land,Canal,Alluvial Soil,Commercial,2372018,Under Dispute,VAO-6,RI-5,Rejected,19/04/2025
+TN-LAND-0864,Erode,Taluk-A,Village-10,731/2,3,Owner-864,9504457781,2,Wet Land,Canal,Red Soil,Commercial,1720092,Under Dispute,VAO-16,RI-5,Pending,25/12/2024
+TN-LAND-0865,Salem,Taluk-B,Village-9,327/3,2,Owner-865,9905251210,6.22,Wet Land,Tank,Red Soil,Residential,2695551,Under Dispute,VAO-1,RI-9,Approved,4/3/2025
+TN-LAND-0866,Trichy,Taluk-D,Village-9,694/2,2,Owner-866,9695257705,5.09,Dry Land,Canal,Red Soil,Agricultural,1937553,Under Dispute,VAO-31,RI-23,Pending,8/10/2025
+TN-LAND-0867,Coimbatore,Taluk-A,Village-2,473/4,4,Owner-867,9715083389,0.71,Dry Land,River,Red Soil,Agricultural,2455691,Pending Verification,VAO-28,RI-16,Pending,28/01/2024
+TN-LAND-0868,Erode,Taluk-D,Village-4,681/2,5,Owner-868,9867512827,6.65,Dry Land,Tank,Red Soil,Residential,2694798,Under Dispute,VAO-1,RI-7,Pending,21/11/2024
+TN-LAND-0869,Erode,Taluk-C,Village-10,614/2,5,Owner-869,9528658543,3.41,Wet Land,Rain-fed,Red Soil,Agricultural,977862,Active,VAO-32,RI-16,Pending,12/4/2025
+TN-LAND-0870,Salem,Taluk-A,Village-4,469/3,1,Owner-870,9904339302,6.86,Dry Land,Rain-fed,Alluvial Soil,Agricultural,311859,Pending Verification,VAO-44,RI-14,Approved,19/01/2024
+TN-LAND-0871,Trichy,Taluk-B,Village-15,979/4,3,Owner-871,9510912809,8.54,Wet Land,Canal,Black Cotton Soil,Agricultural,2386816,Active,VAO-47,RI-27,Rejected,28/06/2025
+TN-LAND-0872,Salem,Taluk-D,Village-20,447/4,3,Owner-872,9445399379,0.62,Wet Land,Canal,Alluvial Soil,Agricultural,1271297,Active,VAO-28,RI-3,Pending,17/01/2025
+TN-LAND-0873,Salem,Taluk-B,Village-7,779/5,5,Owner-873,9952659118,4.04,Dry Land,River,Alluvial Soil,Agricultural,663125,Pending Verification,VAO-42,RI-21,Approved,25/02/2024
+TN-LAND-0874,Madurai,Taluk-A,Village-12,493/5,2,Owner-874,9655132212,6.29,Dry Land,Borewell,Black Cotton Soil,Residential,1432051,Active,VAO-39,RI-27,Pending,12/3/2024
+TN-LAND-0875,Madurai,Taluk-D,Village-6,383/5,2,Owner-875,9329783213,3.47,Wet Land,Tank,Alluvial Soil,Residential,643169,Under Dispute,VAO-18,RI-13,Rejected,16/04/2025
+TN-LAND-0876,Trichy,Taluk-D,Village-6,539/4,4,Owner-876,9418992978,2,Dry Land,Rain-fed,Alluvial Soil,Commercial,1755659,Pending Verification,VAO-16,RI-12,Approved,18/01/2025
+TN-LAND-0877,Salem,Taluk-B,Village-15,971/5,4,Owner-877,9670739251,6.07,Wet Land,Rain-fed,Sandy Soil,Agricultural,1025835,Pending Verification,VAO-34,RI-8,Pending,25/08/2025
+TN-LAND-0878,Erode,Taluk-A,Village-8,396/3,3,Owner-878,9694224472,5.7,Wet Land,Canal,Black Cotton Soil,Commercial,946845,Active,VAO-41,RI-6,Approved,5/11/2025
+TN-LAND-0879,Madurai,Taluk-D,Village-14,144/1,2,Owner-879,9528344423,4.76,Dry Land,Tank,Alluvial Soil,Agricultural,518048,Under Dispute,VAO-41,RI-21,Rejected,12/3/2025
+TN-LAND-0880,Trichy,Taluk-C,Village-14,840/2,2,Owner-880,9347525566,7.25,Dry Land,Rain-fed,Sandy Soil,Residential,1487644,Under Dispute,VAO-7,RI-27,Pending,20/12/2024
+TN-LAND-0881,Salem,Taluk-B,Village-20,316/2,4,Owner-881,9515891974,9.35,Dry Land,Borewell,Alluvial Soil,Commercial,2451985,Under Dispute,VAO-22,RI-6,Pending,20/03/2025
+TN-LAND-0882,Trichy,Taluk-C,Village-20,555/2,2,Owner-882,9721081659,1.64,Dry Land,Rain-fed,Red Soil,Agricultural,476495,Pending Verification,VAO-24,RI-24,Approved,29/05/2025
+TN-LAND-0883,Erode,Taluk-C,Village-19,191/5,4,Owner-883,9615242223,2.65,Dry Land,Borewell,Alluvial Soil,Residential,2781341,Pending Verification,VAO-45,RI-2,Rejected,20/06/2024
+TN-LAND-0884,Trichy,Taluk-A,Village-19,580/1,3,Owner-884,9693879689,6.02,Wet Land,River,Sandy Soil,Commercial,1935676,Pending Verification,VAO-27,RI-9,Pending,12/2/2025
+TN-LAND-0885,Coimbatore,Taluk-A,Village-10,652/5,4,Owner-885,9837045514,5.3,Dry Land,Tank,Red Soil,Residential,1567772,Under Dispute,VAO-13,RI-9,Approved,29/10/2025
+TN-LAND-0886,Madurai,Taluk-D,Village-19,873/2,5,Owner-886,9170411347,5.75,Dry Land,Tank,Black Cotton Soil,Agricultural,525929,Pending Verification,VAO-24,RI-28,Pending,25/04/2025
+TN-LAND-0887,Salem,Taluk-A,Village-1,116/5,5,Owner-887,9632349052,0.87,Wet Land,River,Black Cotton Soil,Commercial,1245637,Active,VAO-32,RI-6,Pending,19/04/2025
+TN-LAND-0888,Trichy,Taluk-D,Village-10,362/2,2,Owner-888,9722316391,7.25,Wet Land,Canal,Sandy Soil,Residential,975016,Pending Verification,VAO-1,RI-26,Pending,5/8/2024
+TN-LAND-0889,Salem,Taluk-D,Village-4,558/1,3,Owner-889,9215795196,6.25,Wet Land,Rain-fed,Sandy Soil,Agricultural,1110126,Pending Verification,VAO-47,RI-2,Pending,10/8/2024
+TN-LAND-0890,Trichy,Taluk-A,Village-11,924/1,3,Owner-890,9892010920,8.39,Wet Land,Borewell,Red Soil,Residential,1368323,Pending Verification,VAO-37,RI-2,Rejected,2/6/2024
+TN-LAND-0891,Salem,Taluk-C,Village-20,344/5,4,Owner-891,9478051916,6.38,Dry Land,Canal,Sandy Soil,Residential,1722529,Under Dispute,VAO-49,RI-26,Rejected,18/07/2024
+TN-LAND-0892,Coimbatore,Taluk-B,Village-14,929/3,5,Owner-892,9825743763,0.79,Dry Land,Tank,Sandy Soil,Agricultural,1567067,Active,VAO-34,RI-19,Pending,6/6/2025
+TN-LAND-0893,Madurai,Taluk-A,Village-11,632/1,5,Owner-893,9396799624,4.19,Dry Land,Canal,Black Cotton Soil,Residential,1270193,Under Dispute,VAO-36,RI-28,Pending,9/5/2025
+TN-LAND-0894,Erode,Taluk-B,Village-11,314/3,5,Owner-894,9231344517,5.35,Dry Land,Rain-fed,Red Soil,Residential,1010827,Under Dispute,VAO-30,RI-4,Rejected,25/11/2025
+TN-LAND-0895,Madurai,Taluk-B,Village-13,866/4,3,Owner-895,9523072962,4.27,Wet Land,Rain-fed,Sandy Soil,Residential,1996640,Under Dispute,VAO-7,RI-24,Rejected,18/11/2025
+TN-LAND-0896,Erode,Taluk-B,Village-15,793/4,2,Owner-896,9810900970,5.09,Dry Land,Borewell,Black Cotton Soil,Agricultural,680546,Active,VAO-49,RI-26,Approved,11/6/2024
+TN-LAND-0897,Trichy,Taluk-C,Village-14,633/2,4,Owner-897,9184482018,1.62,Dry Land,Rain-fed,Red Soil,Residential,371574,Under Dispute,VAO-34,RI-11,Approved,3/11/2025
+TN-LAND-0898,Erode,Taluk-D,Village-5,372/1,5,Owner-898,9701118588,5.5,Dry Land,Tank,Sandy Soil,Commercial,2318338,Active,VAO-4,RI-29,Approved,19/06/2025
+TN-LAND-0899,Erode,Taluk-B,Village-7,135/4,3,Owner-899,9150481060,2.61,Dry Land,Tank,Alluvial Soil,Residential,388761,Under Dispute,VAO-33,RI-19,Approved,25/06/2025
+TN-LAND-0900,Madurai,Taluk-B,Village-8,691/3,2,Owner-900,9211968185,1.67,Dry Land,River,Black Cotton Soil,Agricultural,404951,Active,VAO-43,RI-9,Pending,9/11/2025
+TN-LAND-0901,Madurai,Taluk-C,Village-8,248/1,1,Owner-901,9926437231,9.5,Dry Land,Canal,Sandy Soil,Commercial,2718599,Under Dispute,VAO-9,RI-1,Approved,27/09/2024
+TN-LAND-0902,Trichy,Taluk-D,Village-4,773/1,5,Owner-902,9138960226,9.08,Wet Land,Tank,Alluvial Soil,Commercial,2200105,Pending Verification,VAO-25,RI-14,Rejected,14/01/2025
+TN-LAND-0903,Trichy,Taluk-A,Village-13,939/1,4,Owner-903,9689032098,5.35,Dry Land,River,Black Cotton Soil,Residential,371309,Under Dispute,VAO-36,RI-28,Pending,6/9/2024
+TN-LAND-0904,Madurai,Taluk-D,Village-6,366/1,4,Owner-904,9513939129,5.23,Wet Land,Canal,Sandy Soil,Commercial,1731483,Under Dispute,VAO-33,RI-1,Pending,3/1/2025
+TN-LAND-0905,Madurai,Taluk-D,Village-2,796/5,3,Owner-905,9551430457,4.61,Wet Land,River,Black Cotton Soil,Agricultural,1937541,Active,VAO-1,RI-25,Rejected,27/04/2024
+TN-LAND-0906,Trichy,Taluk-B,Village-19,471/4,3,Owner-906,9462306797,2.9,Dry Land,River,Red Soil,Agricultural,2003177,Under Dispute,VAO-5,RI-4,Rejected,3/10/2025
+TN-LAND-0907,Erode,Taluk-B,Village-18,112/3,1,Owner-907,9644246684,2.07,Wet Land,Canal,Sandy Soil,Residential,1711690,Active,VAO-26,RI-1,Pending,16/03/2024
+TN-LAND-0908,Salem,Taluk-B,Village-9,382/3,4,Owner-908,9792944234,4.27,Wet Land,Tank,Red Soil,Agricultural,2758839,Under Dispute,VAO-5,RI-16,Pending,1/8/2025
+TN-LAND-0909,Madurai,Taluk-C,Village-15,399/5,5,Owner-909,9373380783,1.67,Dry Land,River,Alluvial Soil,Commercial,2463642,Active,VAO-16,RI-30,Pending,4/5/2025
+TN-LAND-0910,Trichy,Taluk-B,Village-7,604/5,3,Owner-910,9582815545,5.35,Dry Land,Rain-fed,Sandy Soil,Residential,2043579,Under Dispute,VAO-11,RI-9,Approved,1/3/2025
+TN-LAND-0911,Coimbatore,Taluk-D,Village-19,317/2,5,Owner-911,9325802836,2.04,Dry Land,Rain-fed,Red Soil,Agricultural,737116,Under Dispute,VAO-13,RI-17,Pending,30/08/2024
+TN-LAND-0912,Madurai,Taluk-C,Village-1,987/5,2,Owner-912,9224796216,7.84,Dry Land,Rain-fed,Black Cotton Soil,Commercial,1935807,Active,VAO-19,RI-30,Rejected,11/8/2025
+TN-LAND-0913,Salem,Taluk-C,Village-17,763/5,3,Owner-913,9340398619,2.09,Wet Land,Canal,Sandy Soil,Commercial,1724757,Under Dispute,VAO-43,RI-11,Pending,12/6/2024
+TN-LAND-0914,Coimbatore,Taluk-A,Village-14,508/2,2,Owner-914,9774024028,7.85,Wet Land,Canal,Alluvial Soil,Agricultural,1559638,Pending Verification,VAO-19,RI-6,Approved,26/03/2024
+TN-LAND-0915,Madurai,Taluk-A,Village-13,412/5,4,Owner-915,9601590174,3.68,Dry Land,River,Black Cotton Soil,Agricultural,1040960,Under Dispute,VAO-37,RI-3,Pending,11/11/2025
+TN-LAND-0916,Coimbatore,Taluk-B,Village-20,832/5,3,Owner-916,9540693595,3.72,Dry Land,Borewell,Sandy Soil,Agricultural,1112981,Under Dispute,VAO-48,RI-18,Approved,2/6/2024
+TN-LAND-0917,Erode,Taluk-C,Village-16,250/4,4,Owner-917,9106628764,4.26,Dry Land,Borewell,Alluvial Soil,Commercial,2661028,Active,VAO-3,RI-2,Rejected,7/8/2024
+TN-LAND-0918,Madurai,Taluk-A,Village-8,889/4,3,Owner-918,9864249364,9.86,Dry Land,River,Black Cotton Soil,Residential,931197,Pending Verification,VAO-9,RI-22,Approved,6/9/2024
+TN-LAND-0919,Coimbatore,Taluk-B,Village-1,692/5,2,Owner-919,9177437320,3.91,Wet Land,Tank,Alluvial Soil,Commercial,1851493,Active,VAO-22,RI-25,Rejected,31/05/2025
+TN-LAND-0920,Salem,Taluk-B,Village-16,161/2,3,Owner-920,9614633252,1.35,Wet Land,River,Sandy Soil,Commercial,1411534,Pending Verification,VAO-18,RI-11,Pending,29/07/2024
+TN-LAND-0921,Erode,Taluk-B,Village-8,807/1,4,Owner-921,9591976008,7.43,Dry Land,Borewell,Alluvial Soil,Commercial,1839523,Active,VAO-22,RI-1,Rejected,11/8/2024
+TN-LAND-0922,Erode,Taluk-C,Village-13,376/3,3,Owner-922,9801414460,9.2,Dry Land,River,Red Soil,Agricultural,597675,Active,VAO-3,RI-23,Approved,25/08/2024
+TN-LAND-0923,Erode,Taluk-B,Village-7,516/2,3,Owner-923,9957600043,6.43,Wet Land,Borewell,Black Cotton Soil,Commercial,1792564,Under Dispute,VAO-9,RI-22,Approved,14/03/2024
+TN-LAND-0924,Trichy,Taluk-B,Village-1,855/1,1,Owner-924,9740896833,3.67,Dry Land,Canal,Alluvial Soil,Commercial,1491407,Active,VAO-15,RI-22,Rejected,20/06/2025
+TN-LAND-0925,Erode,Taluk-D,Village-16,100/3,3,Owner-925,9520143060,1.23,Wet Land,Canal,Alluvial Soil,Agricultural,1452188,Active,VAO-38,RI-11,Approved,16/08/2025
+TN-LAND-0926,Erode,Taluk-C,Village-18,768/3,4,Owner-926,9432992876,6.44,Dry Land,Tank,Alluvial Soil,Commercial,2057285,Under Dispute,VAO-40,RI-18,Approved,23/08/2024
+TN-LAND-0927,Salem,Taluk-A,Village-18,459/5,4,Owner-927,9870106904,7.86,Dry Land,Tank,Alluvial Soil,Residential,2591172,Under Dispute,VAO-14,RI-4,Rejected,29/11/2024
+TN-LAND-0928,Salem,Taluk-D,Village-18,866/2,2,Owner-928,9585201231,7.48,Wet Land,River,Red Soil,Residential,1230883,Pending Verification,VAO-25,RI-22,Approved,26/03/2025
+TN-LAND-0929,Salem,Taluk-C,Village-4,806/4,5,Owner-929,9758435094,7.51,Dry Land,River,Black Cotton Soil,Commercial,915581,Active,VAO-48,RI-20,Approved,12/1/2024
+TN-LAND-0930,Erode,Taluk-A,Village-13,708/3,5,Owner-930,9814598873,0.51,Wet Land,Borewell,Red Soil,Commercial,861103,Active,VAO-50,RI-2,Pending,10/8/2025
+TN-LAND-0931,Trichy,Taluk-A,Village-19,557/5,4,Owner-931,9839726841,1.19,Dry Land,Borewell,Black Cotton Soil,Residential,2413138,Pending Verification,VAO-15,RI-1,Approved,11/6/2025
+TN-LAND-0932,Coimbatore,Taluk-A,Village-12,931/2,3,Owner-932,9398716407,4.07,Dry Land,Rain-fed,Red Soil,Commercial,1326170,Pending Verification,VAO-43,RI-2,Pending,28/08/2025
+TN-LAND-0933,Erode,Taluk-D,Village-15,199/3,5,Owner-933,9706979477,8.18,Dry Land,Tank,Sandy Soil,Residential,1406934,Active,VAO-11,RI-13,Rejected,25/08/2024
+TN-LAND-0934,Madurai,Taluk-A,Village-12,631/3,4,Owner-934,9681611985,7.4,Dry Land,River,Alluvial Soil,Residential,915753,Pending Verification,VAO-4,RI-2,Pending,21/01/2025
+TN-LAND-0935,Trichy,Taluk-A,Village-2,238/3,2,Owner-935,9901864361,3.16,Wet Land,Borewell,Red Soil,Residential,1213972,Under Dispute,VAO-9,RI-1,Rejected,10/12/2024
+TN-LAND-0936,Salem,Taluk-C,Village-7,674/3,1,Owner-936,9343086794,6.4,Wet Land,Canal,Red Soil,Agricultural,2942523,Pending Verification,VAO-33,RI-19,Pending,1/7/2024
+TN-LAND-0937,Erode,Taluk-B,Village-20,727/2,4,Owner-937,9860292491,9.94,Wet Land,River,Red Soil,Agricultural,2607227,Pending Verification,VAO-1,RI-25,Approved,6/9/2024
+TN-LAND-0938,Trichy,Taluk-B,Village-6,486/3,4,Owner-938,9628724981,4.88,Wet Land,River,Alluvial Soil,Agricultural,1752173,Under Dispute,VAO-41,RI-12,Pending,13/04/2024
+TN-LAND-0939,Salem,Taluk-B,Village-16,810/3,3,Owner-939,9393254116,9.83,Wet Land,Canal,Alluvial Soil,Residential,1230625,Under Dispute,VAO-47,RI-15,Rejected,15/09/2024
+TN-LAND-0940,Coimbatore,Taluk-B,Village-10,259/3,1,Owner-940,9866087256,9.26,Wet Land,Tank,Alluvial Soil,Residential,1433978,Pending Verification,VAO-18,RI-15,Approved,2/4/2025
+TN-LAND-0941,Coimbatore,Taluk-C,Village-9,594/3,3,Owner-941,9431304204,9.2,Dry Land,Canal,Red Soil,Residential,640276,Under Dispute,VAO-30,RI-7,Pending,31/01/2025
+TN-LAND-0942,Erode,Taluk-B,Village-13,691/4,1,Owner-942,9265261853,3.62,Dry Land,River,Black Cotton Soil,Residential,1919164,Active,VAO-19,RI-14,Rejected,29/03/2025
+TN-LAND-0943,Trichy,Taluk-A,Village-15,859/3,4,Owner-943,9324279058,6.78,Wet Land,Tank,Sandy Soil,Residential,1915836,Pending Verification,VAO-33,RI-27,Approved,12/4/2024
+TN-LAND-0944,Coimbatore,Taluk-D,Village-9,213/2,5,Owner-944,9406048723,9.11,Dry Land,Rain-fed,Sandy Soil,Residential,580347,Under Dispute,VAO-30,RI-3,Rejected,23/05/2024
+TN-LAND-0945,Madurai,Taluk-D,Village-3,862/3,1,Owner-945,9457888302,8.7,Dry Land,Borewell,Black Cotton Soil,Residential,1425867,Pending Verification,VAO-30,RI-10,Approved,1/12/2024
+TN-LAND-0946,Madurai,Taluk-D,Village-10,923/5,3,Owner-946,9479026308,7.29,Wet Land,Canal,Alluvial Soil,Agricultural,2681619,Under Dispute,VAO-50,RI-12,Rejected,7/3/2024
+TN-LAND-0947,Coimbatore,Taluk-B,Village-2,256/1,3,Owner-947,9101521752,3.63,Dry Land,Borewell,Alluvial Soil,Agricultural,1010443,Pending Verification,VAO-14,RI-26,Pending,14/03/2024
+TN-LAND-0948,Erode,Taluk-D,Village-14,442/4,4,Owner-948,9728248161,6.3,Dry Land,Rain-fed,Sandy Soil,Agricultural,2562649,Under Dispute,VAO-11,RI-3,Pending,15/09/2024
+TN-LAND-0949,Madurai,Taluk-D,Village-13,469/1,4,Owner-949,9955008305,6.64,Wet Land,Rain-fed,Black Cotton Soil,Residential,2439958,Under Dispute,VAO-40,RI-23,Pending,6/11/2024
+TN-LAND-0950,Erode,Taluk-C,Village-14,833/2,3,Owner-950,9384557955,6.5,Dry Land,Tank,Alluvial Soil,Commercial,950124,Pending Verification,VAO-37,RI-30,Pending,9/12/2024
+TN-LAND-0951,Trichy,Taluk-D,Village-11,929/2,4,Owner-951,9649054012,5.01,Wet Land,River,Red Soil,Commercial,2691842,Pending Verification,VAO-6,RI-13,Rejected,23/11/2024
+TN-LAND-0952,Coimbatore,Taluk-C,Village-7,690/5,4,Owner-952,9741870266,6.82,Dry Land,Rain-fed,Red Soil,Agricultural,2089835,Pending Verification,VAO-27,RI-2,Approved,16/09/2025
+TN-LAND-0953,Trichy,Taluk-A,Village-12,297/5,1,Owner-953,9256393978,9.55,Wet Land,Rain-fed,Black Cotton Soil,Commercial,2487937,Under Dispute,VAO-42,RI-18,Approved,17/04/2025
+TN-LAND-0954,Coimbatore,Taluk-C,Village-20,837/4,5,Owner-954,9364044854,6.58,Wet Land,Tank,Sandy Soil,Residential,847856,Active,VAO-12,RI-23,Rejected,25/01/2024
+TN-LAND-0955,Erode,Taluk-A,Village-18,621/3,5,Owner-955,9240376833,8.26,Dry Land,Rain-fed,Black Cotton Soil,Commercial,814875,Pending Verification,VAO-17,RI-14,Rejected,22/05/2024
+TN-LAND-0956,Coimbatore,Taluk-A,Village-20,981/3,3,Owner-956,9688974675,9.8,Wet Land,Borewell,Black Cotton Soil,Agricultural,2689339,Under Dispute,VAO-9,RI-19,Pending,22/02/2024
+TN-LAND-0957,Madurai,Taluk-D,Village-17,240/1,5,Owner-957,9568020025,8.67,Wet Land,Canal,Red Soil,Residential,2795547,Under Dispute,VAO-40,RI-5,Approved,17/10/2025
+TN-LAND-0958,Madurai,Taluk-D,Village-18,817/4,3,Owner-958,9959588117,6.93,Wet Land,Canal,Alluvial Soil,Residential,917836,Pending Verification,VAO-27,RI-5,Pending,4/5/2024
+TN-LAND-0959,Salem,Taluk-A,Village-10,459/3,4,Owner-959,9441757731,8.32,Wet Land,Canal,Red Soil,Residential,1569337,Pending Verification,VAO-14,RI-17,Pending,27/10/2024
+TN-LAND-0960,Trichy,Taluk-C,Village-3,776/3,1,Owner-960,9696322306,2.96,Dry Land,Tank,Black Cotton Soil,Agricultural,1385498,Active,VAO-26,RI-23,Rejected,4/8/2024
+TN-LAND-0961,Coimbatore,Taluk-C,Village-19,789/3,4,Owner-961,9652889796,9.53,Wet Land,Canal,Black Cotton Soil,Commercial,2719403,Under Dispute,VAO-36,RI-17,Approved,11/1/2025
+TN-LAND-0962,Erode,Taluk-C,Village-3,686/3,1,Owner-962,9721524899,2.06,Wet Land,Borewell,Red Soil,Commercial,2920027,Pending Verification,VAO-9,RI-10,Rejected,8/2/2024
+TN-LAND-0963,Salem,Taluk-B,Village-3,255/1,2,Owner-963,9521809169,9.19,Wet Land,Tank,Alluvial Soil,Residential,1537281,Active,VAO-31,RI-6,Pending,17/04/2025
+TN-LAND-0964,Madurai,Taluk-A,Village-11,745/5,3,Owner-964,9551984505,7,Dry Land,Canal,Alluvial Soil,Residential,1746656,Active,VAO-47,RI-30,Approved,22/10/2025
+TN-LAND-0965,Coimbatore,Taluk-A,Village-18,171/2,4,Owner-965,9918498602,3.66,Wet Land,Rain-fed,Red Soil,Residential,2792254,Under Dispute,VAO-41,RI-8,Approved,5/1/2025
+TN-LAND-0966,Madurai,Taluk-A,Village-3,482/4,1,Owner-966,9471482141,8.92,Dry Land,River,Sandy Soil,Residential,1514384,Active,VAO-27,RI-18,Rejected,26/04/2024
+TN-LAND-0967,Coimbatore,Taluk-B,Village-16,502/3,4,Owner-967,9875615122,3.51,Wet Land,River,Alluvial Soil,Commercial,1972203,Active,VAO-29,RI-10,Approved,13/10/2024
+TN-LAND-0968,Salem,Taluk-A,Village-1,643/4,2,Owner-968,9844335218,2.01,Wet Land,Rain-fed,Alluvial Soil,Agricultural,2646949,Active,VAO-16,RI-9,Pending,1/10/2024
+TN-LAND-0969,Trichy,Taluk-C,Village-2,376/4,3,Owner-969,9443028447,1.98,Wet Land,Tank,Alluvial Soil,Agricultural,983344,Active,VAO-38,RI-20,Rejected,16/03/2025
+TN-LAND-0970,Trichy,Taluk-D,Village-6,795/2,4,Owner-970,9730257365,3.52,Wet Land,Tank,Red Soil,Commercial,2820850,Under Dispute,VAO-27,RI-13,Pending,31/07/2024
+TN-LAND-0971,Erode,Taluk-B,Village-13,826/2,3,Owner-971,9422281963,5.13,Wet Land,Rain-fed,Sandy Soil,Agricultural,2375330,Pending Verification,VAO-6,RI-18,Pending,22/07/2024
+TN-LAND-0972,Coimbatore,Taluk-C,Village-19,331/1,5,Owner-972,9471492030,9.46,Wet Land,Rain-fed,Black Cotton Soil,Agricultural,1635559,Active,VAO-19,RI-10,Approved,9/8/2025
+TN-LAND-0973,Coimbatore,Taluk-A,Village-2,454/3,1,Owner-973,9825961538,6.21,Wet Land,Tank,Black Cotton Soil,Residential,1708782,Under Dispute,VAO-15,RI-19,Rejected,12/9/2025
+TN-LAND-0974,Salem,Taluk-D,Village-9,223/3,1,Owner-974,9711604193,4.42,Wet Land,Canal,Sandy Soil,Residential,1465499,Under Dispute,VAO-11,RI-13,Pending,30/08/2024
+TN-LAND-0975,Trichy,Taluk-A,Village-17,842/4,3,Owner-975,9237474490,6.64,Dry Land,Tank,Alluvial Soil,Commercial,656642,Pending Verification,VAO-10,RI-4,Rejected,19/02/2025
+TN-LAND-0976,Coimbatore,Taluk-D,Village-13,947/1,3,Owner-976,9111456752,8.67,Dry Land,Borewell,Alluvial Soil,Residential,704129,Under Dispute,VAO-18,RI-17,Rejected,26/08/2024
+TN-LAND-0977,Salem,Taluk-B,Village-12,163/4,5,Owner-977,9614029377,4.02,Wet Land,River,Sandy Soil,Commercial,1793229,Pending Verification,VAO-37,RI-8,Pending,19/03/2025
+TN-LAND-0978,Madurai,Taluk-C,Village-14,284/1,1,Owner-978,9775291266,9.56,Dry Land,River,Red Soil,Agricultural,1541940,Under Dispute,VAO-43,RI-29,Approved,24/01/2024
+TN-LAND-0979,Madurai,Taluk-B,Village-20,661/5,5,Owner-979,9154959449,5.94,Wet Land,River,Red Soil,Residential,1643561,Pending Verification,VAO-48,RI-13,Rejected,15/10/2024
+TN-LAND-0980,Erode,Taluk-C,Village-14,173/3,4,Owner-980,9133476125,6.26,Wet Land,Borewell,Sandy Soil,Commercial,2772335,Pending Verification,VAO-19,RI-10,Pending,14/09/2024
+TN-LAND-0981,Erode,Taluk-C,Village-4,666/1,2,Owner-981,9597338268,2.3,Wet Land,Canal,Sandy Soil,Residential,2767100,Pending Verification,VAO-30,RI-4,Approved,18/05/2025
+TN-LAND-0982,Madurai,Taluk-A,Village-5,848/3,1,Owner-982,9265052544,9.36,Dry Land,Tank,Red Soil,Agricultural,1041745,Under Dispute,VAO-35,RI-20,Rejected,20/01/2025
+TN-LAND-0983,Trichy,Taluk-A,Village-5,472/5,5,Owner-983,9918988172,0.65,Wet Land,Borewell,Sandy Soil,Commercial,536408,Pending Verification,VAO-32,RI-16,Rejected,11/10/2024
+TN-LAND-0984,Madurai,Taluk-B,Village-17,942/4,5,Owner-984,9261671479,8.33,Wet Land,Borewell,Sandy Soil,Agricultural,1605515,Pending Verification,VAO-37,RI-5,Pending,9/7/2024
+TN-LAND-0985,Madurai,Taluk-C,Village-1,489/4,3,Owner-985,9258311161,2.42,Wet Land,River,Black Cotton Soil,Residential,1322454,Active,VAO-9,RI-25,Pending,18/04/2025
+TN-LAND-0986,Erode,Taluk-A,Village-13,561/2,2,Owner-986,9938444770,3,Wet Land,Tank,Black Cotton Soil,Commercial,2941958,Under Dispute,VAO-50,RI-29,Pending,12/9/2024
+TN-LAND-0987,Madurai,Taluk-D,Village-3,435/2,1,Owner-987,9229511229,2.3,Dry Land,River,Alluvial Soil,Agricultural,1548741,Pending Verification,VAO-28,RI-10,Rejected,17/06/2025
+TN-LAND-0988,Erode,Taluk-A,Village-15,253/4,4,Owner-988,9485717041,3.97,Dry Land,Canal,Alluvial Soil,Residential,941867,Under Dispute,VAO-21,RI-1,Approved,15/01/2025
+TN-LAND-0989,Coimbatore,Taluk-D,Village-1,405/1,4,Owner-989,9293535165,4.82,Dry Land,River,Red Soil,Agricultural,2507911,Under Dispute,VAO-42,RI-10,Pending,17/02/2024
+TN-LAND-0990,Salem,Taluk-A,Village-7,931/4,5,Owner-990,9156303286,5.4,Dry Land,Rain-fed,Alluvial Soil,Agricultural,1049309,Under Dispute,VAO-42,RI-13,Pending,13/06/2025
+TN-LAND-0991,Salem,Taluk-A,Village-11,638/5,2,Owner-991,9321082562,4.71,Dry Land,Canal,Black Cotton Soil,Commercial,907491,Pending Verification,VAO-10,RI-16,Rejected,10/7/2024
+TN-LAND-0992,Coimbatore,Taluk-B,Village-6,291/5,2,Owner-992,9810669907,4.5,Wet Land,Canal,Red Soil,Agricultural,1936212,Under Dispute,VAO-48,RI-4,Rejected,22/04/2025
+TN-LAND-0993,Coimbatore,Taluk-D,Village-16,659/1,3,Owner-993,9964088059,9.21,Wet Land,River,Alluvial Soil,Residential,1086221,Pending Verification,VAO-24,RI-8,Pending,3/2/2024
+TN-LAND-0994,Madurai,Taluk-C,Village-7,276/2,4,Owner-994,9288885563,5.28,Wet Land,Canal,Black Cotton Soil,Commercial,904425,Pending Verification,VAO-17,RI-24,Approved,26/02/2024
+TN-LAND-0995,Erode,Taluk-B,Village-14,668/2,5,Owner-995,9498901529,9.41,Dry Land,Rain-fed,Black Cotton Soil,Commercial,470197,Pending Verification,VAO-34,RI-28,Pending,6/11/2024
+TN-LAND-0996,Trichy,Taluk-D,Village-1,712/5,2,Owner-996,9947695111,8.19,Dry Land,River,Alluvial Soil,Agricultural,2638040,Under Dispute,VAO-14,RI-6,Rejected,11/5/2024
+TN-LAND-0997,Erode,Taluk-A,Village-10,152/2,4,Owner-997,9758106880,1.49,Wet Land,Borewell,Black Cotton Soil,Agricultural,2387830,Active,VAO-15,RI-6,Pending,30/06/2025
+TN-LAND-0998,Salem,Taluk-A,Village-12,921/4,5,Owner-998,9806645222,3.35,Wet Land,Rain-fed,Red Soil,Residential,1687922,Pending Verification,VAO-19,RI-23,Rejected,26/11/2025
+TN-LAND-0999,Trichy,Taluk-A,Village-5,148/1,1,Owner-999,9651883033,6.31,Wet Land,Tank,Black Cotton Soil,Commercial,1495444,Active,VAO-34,RI-15,Rejected,11/3/2024
+TN-LAND-1000,Erode,Taluk-A,Village-11,729/5,1,Owner-1000,9777226965,4.85,Dry Land,River,Sandy Soil,Residential,2287404,Active,VAO-8,RI-24,Pending,7/9/2024
