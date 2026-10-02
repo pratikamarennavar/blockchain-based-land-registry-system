@@ -521,3 +521,24 @@ Ethers.js
 ```
 
 to provide a complete workflow from land registration and verification to purchase request, sale approval, and blockchain-based ownership transfer.
+
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Seller Dashboard
+![Seller Dashboard](screenshots/seller-dashboard.png)
+
+### Buyer Dashboard
+![Buyer Dashboard](screenshots/buyer-dashboard.png)
+
+### Blockchain Records
+![Blockchain Records](screenshots/blockchain-records.png)
+
+### Ownership Transfer
+![Ownership Transfer](screenshots/ownership-transfer.png)
